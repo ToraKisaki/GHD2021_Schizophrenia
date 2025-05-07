@@ -1,0 +1,73 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,lower,upper
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,8762311.80,6477261.17,11263749.70
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,176.61,130.85,226.02
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2801552.42,2077439.18,3596383.47
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,178.26,132.35,227.98
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1899957.68,1421043.18,2407953.21
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.35,127.92,216.46
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1884298.84,1399687.31,2411617.86
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,191.78,142.73,245.66
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,560005.13,400560.25,743413.45
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,153.19,110.14,201.11
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1609237.27,1180195.06,2103025.30
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.40,125.35,223.05
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,2418425.13,1798078.75,3069349.31
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,188.61,140.84,241.79
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,1359273.61,980588.32,1803202.73
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,154.51,112.40,202.64
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,14816611.18,10926460.05,19095362.42
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,177.75,131.51,228.80
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,2879223.22,2139705.43,3609613.96
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,185.37,138.35,233.14
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,4875339.59,3592613.46,6250839.31
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,178.99,132.63,229.93
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,3273931.87,2394047.46,4314384.51
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,173.74,127.97,227.77
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,13621402.27,11333556.70,16166722.18
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,23182108.90,19203758.75,27423876.46
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,275.78,229.94,324.02
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,277.71,229.77,329.06
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,881534.55,706902.12,1088125.71
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,2124992.02,1699837.56,2616104.31
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,243.17,197.43,294.98
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,243.92,197.83,297.13
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2518085.20,2034913.17,3059205.88
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,5127385.41,4146444.23,6190285.48
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,270.34,220.90,325.04
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,273.43,224.02,328.22
+5,Prevalence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2952553.70,2460547.92,3473575.55
+5,Prevalence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,3837953.50,3233342.78,4488357.02
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,299.93,249.94,353.06
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,296.45,247.61,349.30
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2939653.14,2511212.34,3401078.04
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,4484411.56,3871242.16,5119819.65
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,265.69,227.19,306.34
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,286.65,246.57,329.25
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,4318248.49,3584548.58,5127622.65
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,7591052.75,6294522.08,8991069.29
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,276.81,231.87,325.85
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,278.26,230.98,330.63
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,883493.49,721489.12,1065739.75
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,1223221.03,1008219.03,1473083.27
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.64,13.04,18.62
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.43,12.74,18.62
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,184070.11,156454.58,215712.93
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,201510.84,172551.09,236757.03
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.78,13.53,18.40
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,16.53,14.15,19.33
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,175840.37,140125.78,217436.73
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,313593.33,251893.83,386296.28
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.08,12.27,18.34
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.04,12.21,18.29
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,143838.13,118990.99,171970.25
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,152489.89,126713.76,183179.81
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.70,13.01,18.80
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.69,12.95,18.76
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,311192.25,253781.37,375053.17
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,391070.76,321493.87,471393.43
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.26,13.65,19.43
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.74,13.01,18.96
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,67855.76,52972.93,84442.09
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2021,163692.03,127545.18,203659.37
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.63,11.83,17.88
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.54,11.76,17.87
