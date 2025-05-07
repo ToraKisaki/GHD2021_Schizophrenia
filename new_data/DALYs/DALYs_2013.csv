@@ -1,0 +1,379 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,1657.3052156150502,2978.210145987692,809.2750937122914
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,1353.4425973687314,2465.644824858357,643.7123659239479
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,3010.747812983785,5445.036130741502,1453.1199554787768
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,16500.82764027307,25300.466834788185,9813.41336812291
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,12947.485531980328,20384.03491637916,8097.152409683684
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,29448.3131722534,45057.90126173866,17871.377632537595
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,74736.6709143183,111134.95864036758,46609.17821648155
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,58576.231541138,88228.84379614965,37309.03561503526
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,133312.90245545632,200404.20002193624,83881.29452731943
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,131242.64962962622,185436.67722223524,91460.06747292264
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,104940.4074326114,147497.1130135394,72243.11035381578
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,236183.05706223703,333516.3966886003,163265.23509806657
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,154430.21801978603,208685.9110923716,107579.63929928793
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,127983.17456399472,171021.34507406125,90459.96939207127
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,282413.3925837806,378797.836848167,198052.5773157744
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,155129.47175635287,202228.22282893007,108212.56935810045
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,131427.8234732848,171583.41565731098,92283.66477198868
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,286557.29522963805,375619.6689799026,200586.9619012416
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,156848.38507504153,201785.2674329205,110176.08342273891
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,140239.3503231496,179338.68329147846,100935.85133586486
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,297087.7353981911,382041.9968809248,211538.9023374665
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,144502.19669544318,185664.9366746513,102043.00761643468
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,136036.89983120092,172201.27995206916,98184.9270158416
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,280539.09652664425,357357.6715325016,200114.0815000672
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,127802.14050377364,162526.8081407767,91234.63306453376
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,126372.73447978988,162994.69113328803,90906.82233676696
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,254174.8749835636,324786.066875612,180702.97708384471
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,101380.858567348,130015.47006398598,74312.5540263616
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,105478.73512668828,135003.32768298726,76684.68157255
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,206859.5936940364,265148.03949164285,150838.93840300196
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,75350.65378425199,97297.56159299654,54425.230207927205
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,82449.88381824884,105023.13886991335,60763.99475480481
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,157800.53760250087,202275.7775028649,115805.22839778704
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,47648.86225530983,61077.62156611047,35036.016373359205
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,55591.86317918204,71393.13580763733,40447.91323510147
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,103240.72543449188,132337.98427007932,76112.78797141326
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,27089.824593513003,34725.31343162105,20056.583097503808
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,35678.64212478845,45886.44922722846,26109.73206268847
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,62768.46671830139,80226.29643151857,45808.61839870147
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,14450.759806012396,18538.743241361582,10636.198894961652
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,22127.22123992077,28168.33908185045,16012.584465608266
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,36577.98104593315,46934.333146786215,26687.82099694181
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,1238257.118513474,1573857.582003493,921608.43704088
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,1161449.8571172485,1471985.2534677484,859983.8935045704
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,2399706.975630721,3045461.455605734,1784005.9248634046
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,6577.306366904738,8548.110810580396,4602.820421137312
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,12331.615473862705,15781.336665837494,8892.634258011276
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,18908.921840767445,24389.2560785898,13496.809181684752
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,2315.036920100717,3079.5137818644807,1607.7875134846277
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,5725.387985637607,7555.088078951248,4000.816204657757
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,8040.424905738323,10614.461721630129,5654.428886982241
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,511.31816828925633,696.0725185403312,362.6279436471884
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,1806.1791252917983,2398.752018436829,1278.2486265908128
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,2317.4972935810565,3110.627616340177,1645.6276893188174
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,82.63260151379912,119.29063708559325,54.40813430583502
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,382.7792691091905,545.7509889211847,252.60815848086915
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,465.41187062298974,664.9892327585873,307.5992366525473
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,3345.7979307020923,6016.368181067637,1596.4672464103132
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,2884.864273977765,5309.415938744353,1325.9459258230454
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,6230.662204679855,11324.382591218997,2932.29342352361
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,21230.57191599284,34537.704147181124,11316.357374568135
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,18962.91877169645,30953.82479900382,10545.38138812803
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,40193.49068768931,66128.49384712984,21970.49501056996
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,58102.09211550039,92128.13990115449,34672.38252696945
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,56493.269129746455,90956.13045501702,33500.70846842726
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,114595.36124524695,182749.7254867772,68421.19327129892
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,84399.62879586348,124009.24562143712,53654.76553021309
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,84915.00007349804,124369.23459419764,53474.58455013107
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,169314.62886936162,248826.68042865832,107674.93060899404
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,89642.84510328884,122685.69769247778,60264.74159407505
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,89172.43412998848,124125.34158917642,60619.71698083726
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,178815.27923327722,246248.7902464975,122491.12966817956
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,82158.07761106992,109949.94486162072,56192.3194210544
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,78179.8254725845,104207.26491260096,53459.90304820787
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,160337.90308365438,213859.11837920969,109822.97197534426
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,66946.53479815717,87011.15869490324,46973.93946077849
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,61161.38596896555,81982.63262719687,42602.13308575488
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,128107.92076712278,170164.96819567712,90082.53972722906
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,49635.18763587265,64986.26127965463,34093.26083625867
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,44957.553649996335,58774.14480761842,31324.901147560064
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,94592.74128586904,123684.60550440574,65223.89649529336
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,34908.07703791235,45617.38765133555,24534.70892372539
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,31954.906096023613,41835.78719056679,22254.44084916258
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,66862.98313393592,87289.63419876991,46892.18942465766
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,23635.911293294987,31125.09338680762,16823.221701755152
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,22120.357983069465,28624.591037050333,15586.117941526069
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,45756.269276364445,59305.24238972491,32457.268877534418
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,16083.895887627748,21199.623348223035,11259.762595952683
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,14936.934759619324,19641.57866446994,10367.25225250916
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,31020.830647247043,40748.26571799986,21575.950968880745
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,9523.62990148139,12743.003077650736,6655.751217023882
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,8683.939402309461,11318.33124853268,5926.650051183438
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,18207.56930379085,23977.85013915062,12765.909738783244
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,4853.889315008499,6334.1023024440565,3397.28005408644
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,4682.955934112697,6182.367452474929,3312.419994453965
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,9536.845249121196,12452.901341565905,6706.729393281894
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,2109.565351457153,2818.670782460636,1476.5562024945048
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,2154.8938307975104,2865.4466478280538,1502.7531653507062
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,4264.459182254661,5613.703889706247,2979.4174699025684
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,547501.295683369,721743.479276553,394377.0329623425
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,522204.9970763711,694366.5399996412,376028.0558687044
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,1069706.2927597417,1418095.2841351323,769490.2546028721
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,723.0020386244669,991.7183062979316,483.7968022301753
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,722.4848420444315,1003.7517564427868,501.40882945040994
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,1445.4868806688962,1975.7682461596385,981.5376852126147
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,169.95740600486988,239.08635086859184,113.05985040735648
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,181.0931499186944,249.60988905932177,117.33961135061556
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,351.0505559235645,488.9515036469562,236.89707493591067
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,28.95227824303302,42.52441891261617,17.79241511101153
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,34.98012467787613,51.21875441778535,21.574659502407226
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,63.93240292090914,91.52062302757712,41.06138806121639
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,3.679267267551399,6.095679612079435,1.8557087434148625
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,5.199483344715218,8.18755300875965,2.750839148690768
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,8.878750612266622,14.11052915985402,4.879074952909089
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,20301.573377073648,35164.21970039231,10524.651414095137
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,16101.164695149568,28423.2046097903,8099.039997554945
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,36402.73807222324,63587.4243101826,18630.47246502517
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,159416.009270776,242969.1844582508,94968.8153252145
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,128396.1406846235,198910.50592487887,77950.56078926033
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,287812.14995539933,441041.3935125116,173665.01100390014
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,561699.3359569157,857802.2331500137,355167.18659490446
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,477098.092138283,727632.6073480411,301206.28987381514
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,1038797.4280951977,1584089.8304308765,660349.7261861176
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,916506.3581844532,1306461.155472441,618180.7847676418
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,792271.0731074873,1122722.995705373,536091.6132526032
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,1708777.4312919402,2422474.623537087,1162689.812268539
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,990094.302973292,1333962.7796195415,692797.476907995
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,842553.3051146207,1136710.24022217,583046.2620923661
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,1832647.608087913,2474768.0571958376,1277851.9120843103
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,980186.5983508968,1289481.170916247,684409.9112702019
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,832356.65654563,1098125.1847159187,577306.0764809386
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,1812543.2548965253,2389335.197344886,1260399.8629293083
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,934691.578302158,1208645.5741739478,664484.881417633
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,794928.6828341516,1028981.1203630453,565409.341137578
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,1729620.2611363092,2239379.213917903,1232757.608091828
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,805665.0204880557,1031453.4130459356,570458.5024500652
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,701041.0135684747,902386.5885060084,496248.14400374505
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,1506706.0340565303,1931526.1391742013,1067023.4805005463
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,603540.6978899136,772007.1668020199,429750.2837544535
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,537917.0833156992,698253.8190563712,384510.6555962573
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,1141457.7812056125,1464853.3314810246,814507.1615717234
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,454882.2630621197,581087.6808613703,331269.6876004877
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,419636.857585476,539745.2759168708,308435.3414851647
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,874519.1206475955,1120832.956778241,642003.7392003784
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,316748.1585639644,405182.6749294201,230469.24983320484
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,304022.2224928708,388119.4529012811,225191.28823471584
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,620770.3810568355,793894.2980234879,456247.50789620646
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,185415.23839165384,237186.502730824,135748.74316956577
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,185418.92902278248,235698.63173938132,134295.51548217956
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,370834.16741443664,473926.8887839884,271712.1355944072
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,104146.14659855716,132455.69688553514,77313.88930344098
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,114488.88255345671,146290.57599342166,83833.79008366432
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,218635.0291520137,279546.4625912348,160697.62392508614
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,53738.26098791483,69150.06167893583,39304.88597082031
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,67483.63843935987,86078.7218147575,50024.8829186782
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,121221.89942727463,154646.42836054394,89701.3802670436
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,7116608.38395328,9166129.85364396,5256782.058659971
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,6263049.3400138775,8101554.698913387,4618485.395007206
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,13379657.723967137,17277159.20042602,9875458.19696252
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,21738.098898510794,28207.1840759916,15544.503169248004
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,32656.969222328265,42400.58385380928,23516.262518948384
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,54395.068120839074,70374.85390967262,38801.03396016473
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,6389.03382339002,8366.076798373377,4464.375993977252
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,12644.483481586472,16412.065603936066,8978.085975413876
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,19033.5173049765,24822.905588319376,13462.457247719638
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,1252.2518725921711,1711.4059194336114,876.8639528238668
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,3382.492481006974,4500.835404190516,2424.5871452631213
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,4634.744353599145,6229.643190498056,3317.3423697359285
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,197.45696104031487,288.2308285327706,129.52115698227624
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,651.6527308856582,927.8632742873242,435.4356896938567
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,849.1096919259728,1217.5106141884114,563.4525933470336
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,6735.670970011474,11503.344633499702,3495.735257142203
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,5205.319170579463,8934.568078948505,2715.32319939746
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,11940.990140590937,20437.91271244821,6206.899829596901
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,53747.43165928575,81899.38078283015,32733.13819988908
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,43013.73962399369,66859.63113521802,26396.65642411499
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,96761.17128327956,148903.9680188225,59233.61827492776
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,189182.9099380382,289545.08665801794,118979.84057653265
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,163238.5289588627,251341.24692731423,100135.48352475348
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,352421.43889690074,541438.9277325489,220022.54411613435
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,308177.4782085161,440393.39294544753,209720.2000668521
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,270381.3791144017,385517.5180036365,184454.2839975076
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,578558.8573229172,822474.4382459084,392319.74038681807
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,327753.51229751337,445994.5754467431,227272.95154637168
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,277226.83708986803,372237.4539409982,194417.40628901
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,604980.3493873819,816154.4703211145,421588.07228245295
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,332244.1516462616,439625.62159399793,230944.1202670692
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,278678.979520097,369770.1671824091,193413.13809847448
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,610923.1311663585,809865.9442696411,424476.6996715415
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,323997.21789141203,422666.27884045104,230383.7547161468
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,270007.76340227114,352109.0547680472,188804.72110637755
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,594004.9812936826,773232.2264980137,419188.4758225243
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,281098.2114777902,362593.0796066872,199484.17149158847
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,240659.26047232904,313695.6229872003,171070.5789681992
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,521757.4719501182,677299.8194537454,370328.0838934572
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,196926.1098371895,253849.64908834384,139196.9516384669
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,168417.95877626626,216684.6245586105,121069.25637579511
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,365344.0686134556,470246.5286650788,260484.85733077617
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,148060.16489718706,191292.99586475472,106625.29078917162
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,128459.82623006766,164354.22286853625,93544.88943874584
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,276519.9911272547,356825.46685281384,201896.9535438171
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,99547.93645718697,129304.64215718454,71344.41222901805
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,88967.1783597158,113798.96473270678,65369.31607743264
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,188515.1148169028,243366.1065752637,137545.50787217123
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,56193.40025350053,72383.84580703202,40543.28720370862
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,51900.41607666476,66083.61859909665,37585.08356434385
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,108093.81633016517,137884.78954944253,77981.583610303
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,31491.97006300063,40216.68594636838,22788.934111117043
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,30719.410993362144,39150.71812988261,22150.405069964745
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,62211.381056362734,79122.11660836847,44948.090136508894
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,15833.260164507356,20310.79504049064,11396.747954952223
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,17321.430755760182,22308.29806054804,12700.19222249528
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,33154.6909202675,42338.24627956333,24218.37879819473
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,2378898.209527468,3061948.088358498,1760342.9418287547
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,2044877.215510655,2634818.560093753,1506671.9670641075
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,4423775.425038122,5696909.2796502495,3270644.686719828
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,6003.330045759064,7834.316559879138,4288.179499543272
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,7583.175627351912,9916.427133057634,5382.642349633568
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,13586.505673110973,17642.10580496494,9810.69769011769
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,1570.6140931548184,2052.18494808201,1115.2183308881922
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,2453.733390680832,3188.0223612120653,1710.9257149316936
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,4024.3474838356497,5220.037379304789,2812.3670315716654
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,285.678859042404,393.2765609711645,194.32065500056888
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,548.1140900694758,741.0169786969117,389.9000613457709
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,833.7929491118803,1126.4414519575853,592.065010058692
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,49.160768109078646,73.65590441073842,30.9520276008751
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,94.16385831416488,134.16204017372144,60.647671536425634
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,143.3246264232435,210.6526631370193,93.04541133352616
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,2498.4804289677686,4245.5711210872405,1325.4950836199318
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,1954.899608698272,3391.214298498321,1018.8442117121956
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,4453.380037666039,7655.506102247446,2341.121655330317
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,22270.1712450464,32841.55018283025,13844.86817288624
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,18257.438842000367,27268.67986975681,11194.556788910051
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,40527.61008704679,59368.67874708488,25156.88021981428
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,94564.18846767517,142008.94670136453,60298.8894470869
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,84097.68173253846,122635.74859689652,54853.84674468536
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,178661.87020021374,263698.3856866039,115109.21266660128
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,169265.26969558978,231820.89136613623,119352.60990984418
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,152340.63006797055,208437.0612396329,107131.17580361704
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,321605.8997635604,439448.9236405819,227572.06356843704
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,176996.0337725165,234439.1335799614,126019.59240738588
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,154676.48646791108,204969.99410665344,109379.48865004149
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,331672.52024042746,436895.9959469476,234994.8256738261
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,186831.91413020247,242348.5133175972,131798.14743263667
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,164251.83357675117,212386.97074523903,114678.35546696727
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,351083.74770695297,455060.3838835078,247579.815621119
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,194380.29504544588,251664.1561441764,140347.05195391836
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,171366.5116738054,217984.1395310315,120977.7988030673
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,365746.8067192512,466727.9392717726,260419.511123505
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,177000.4450838804,223727.6812338245,128339.48681097208
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,158908.76508117147,199493.26103357368,113797.03827562838
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,335909.21016505145,424604.6209773161,244717.72902955185
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,130894.90526013877,167195.67469097706,95610.74701486265
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,120952.37387371546,154527.41891845307,86245.74511487193
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,251847.27913385423,321270.3732858542,181825.04767717625
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,104017.98480821372,131951.13149949483,75263.06480363192
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,99087.97829869512,125658.201574533,72406.18335513555
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,203105.96310690904,258533.06744602788,148532.44467395893
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,72091.87499829127,91266.2617905138,53180.19107472493
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,71947.6291753421,91148.43471012256,52739.86313118872
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,144039.5041736335,181880.60673176745,106744.86033363453
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,39602.35187594634,49912.89246763085,29077.862594109523
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,41224.80207764705,52092.4589105824,29661.85267679859
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,80827.15395359338,101656.27189374097,59363.13757505639
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,23412.11903934844,29478.27988166167,17091.551358228236
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,27117.28350336328,34330.690886861434,19556.61552071717
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,50529.40254271167,63621.244642185615,37304.438874283565
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,13402.130008108492,17137.239387146452,9588.290674808231
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,17647.57700235802,22414.63981527336,12942.997152577624
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,31049.707010466536,39569.33702894095,22730.09683104876
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,1414476.2699026074,1781531.0768350975,1054732.5228197742
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,1296961.8849729835,1630215.855354094,969779.4880949244
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,2711438.154875588,3418361.307008168,2032882.589138185
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,5429.178126078453,7023.130511571113,3877.518359663887
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,8849.85789021184,11439.93157599078,6388.611708845753
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,14279.03601629028,18432.98295052554,10393.14699356958
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,1520.127681154537,1988.3413692067647,1053.0262660743606
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,3363.7809452723354,4329.32408826389,2428.058523803325
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,4883.908626426877,6290.627708138553,3464.093620353855
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,265.7046024166964,360.4539457886602,177.67337339200617
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,789.2022520900093,1064.9081392914488,567.3524170628361
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,1054.9068545067048,1414.132495943038,742.3875041555004
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,33.09563358475395,49.52284158235656,20.88836135310236
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,127.15290344196526,182.904155760632,85.87270948660344
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,160.24853702671922,228.79014395285932,105.99804113188785
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2013,0.0,0.0,0.0
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2013,6048.289374426483,10521.66368741455,3075.6253061075936
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2013,4690.118762670168,8336.435770001783,2294.5807896731662
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2013,10738.40813709664,18857.66000023829,5390.751939249648
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2013,45547.19087595312,70879.51146439076,26615.746251595378
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2013,35119.58998044988,56269.2058141164,19821.074110290305
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2013,80666.78085640297,125644.9635907537,46266.25231078273
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2013,144720.80490063236,224746.45019544745,88147.287272607
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2013,114367.7665485306,180961.30416937888,69053.30943130354
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2013,259088.5714491632,405193.184249763,156664.04763112724
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2013,222785.6447112453,323489.59369643417,149115.14210568264
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2013,179156.352665444,257103.81210422903,119006.36229390114
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2013,401941.9973766889,581341.6238788038,265078.38795711304
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2013,240549.1954464329,327580.1763734906,167572.40814279532
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2013,192879.48920787493,265332.28121038066,130018.64454948728
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2013,433428.684654308,593148.8706695046,294318.76463437354
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2013,223094.84591640392,299442.23794738296,153678.2713259014
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2013,179198.72481497334,238274.4014369429,123190.59364141362
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2013,402293.5707313778,537885.5758301725,278839.6633059394
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2013,191849.7504721451,251622.57187914848,135166.78851429923
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2013,151587.47788747892,198033.75149062937,105281.81333784548
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2013,343437.228359624,450756.735904672,242270.17425750807
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2013,152854.61712145782,197624.64763205417,107193.45222996017
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2013,119985.80927234712,156835.16188689944,83145.26623073811
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2013,272840.4263938052,351535.24762181344,190398.9194468477
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2013,112543.79580514928,147915.2046287136,79726.8528592244
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2013,89808.13718798567,117256.2174527253,63531.90675084169
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2013,202351.9329931352,263120.550956504,143103.93844781577
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2013,77427.97238976709,101821.21167802364,55711.66916667143
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2013,64154.71015431108,83197.8564961463,46402.0881183273
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2013,141582.68254407812,182853.1228189073,102096.60689675352
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2013,53424.25273173065,69605.90467483047,38391.1010308103
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2013,45475.24714841684,59160.87250655511,32940.67098139085
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2013,98899.49988014752,129040.45838116595,71948.88391637159
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2013,32297.73570633306,42785.985880779685,22709.404012037365
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2013,27861.14772358312,36418.30128453829,19988.24487904475
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2013,60158.88342991623,78643.58603818157,43175.08885660909
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2013,17213.319233517115,22518.23011348836,12331.562471294445
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2013,16191.062047986336,21126.55462775077,11405.135017456552
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2013,33404.381281503454,43516.06272609452,24200.609306597285
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2013,7896.260178391562,10294.455583407318,5771.055445179944
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2013,8170.353691091676,10801.344136701038,5780.129399724407
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2013,16066.61386948325,21083.61090801388,11527.11662477883
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2013,1532232.6423865778,2012233.4162048823,1119521.6432199082
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2013,1232933.6048008637,1615649.668660899,909004.2280955476
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2013,2765166.2471874407,3632541.306694129,2024834.069183531
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2013,2984.5226235062605,3948.886487263208,2091.8910474096974
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2013,3137.3485405934853,4228.172778296038,2152.905905053793
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2013,6121.871164099741,8144.77369000758,4239.145149199239
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2013,806.6433484354164,1083.7600130637736,552.1608865372704
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2013,907.796945109999,1220.6435716928577,631.1353083402216
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2013,1714.440293545415,2278.7678826108195,1198.3102313931345
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2013,159.17373499163793,225.26039536240012,106.10647180064768
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2013,200.724483262177,281.40618283047405,133.95356889662634
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2013,359.8982182538147,497.8422137965964,247.24100171161288
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2013,28.627816057713968,41.72871704283517,17.554455390352395
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2013,41.74773875551388,60.898521935991,25.6414821043174
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2013,70.37555481322782,102.90671907207384,44.07699170623812

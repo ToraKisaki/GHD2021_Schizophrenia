@@ -1,0 +1,379 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+3,YLDs (Years Lived with Disability),1,Global,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),1,Global,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,20834.006233619875,36094.62615322508,10812.094484663376
+3,YLDs (Years Lived with Disability),1,Global,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,16661.558887903808,29453.19983131395,8394.477173785155
+3,YLDs (Years Lived with Disability),1,Global,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,37495.565121523694,65547.82598453904,19221.02549138058
+3,YLDs (Years Lived with Disability),1,Global,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,158857.6022909001,245879.77659573028,97006.65723988863
+3,YLDs (Years Lived with Disability),1,Global,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,128224.9658176245,199646.15173562863,76143.0101639009
+3,YLDs (Years Lived with Disability),1,Global,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,287082.56810852484,447128.8144724895,172837.68432001627
+3,YLDs (Years Lived with Disability),1,Global,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,546646.8625234491,835758.8837803985,348334.3546200828
+3,YLDs (Years Lived with Disability),1,Global,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,460558.2306196001,699428.7131739841,291087.180554612
+3,YLDs (Years Lived with Disability),1,Global,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,1007205.0931430496,1536568.3144782293,640538.8562869132
+3,YLDs (Years Lived with Disability),1,Global,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,942057.4039973898,1332573.568108494,636616.3256230792
+3,YLDs (Years Lived with Disability),1,Global,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,809901.7862759444,1137851.0751867625,552009.885473262
+3,YLDs (Years Lived with Disability),1,Global,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,1751959.190273334,2464775.453362712,1188320.4380817632
+3,YLDs (Years Lived with Disability),1,Global,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,237.5254053016587,343.57435963500126,153.5034780238812
+3,YLDs (Years Lived with Disability),1,Global,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,787.4020512219666,1096.5523495035686,523.431073802265
+3,YLDs (Years Lived with Disability),1,Global,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,1024.927456523625,1439.3776181184237,674.3943906378945
+3,YLDs (Years Lived with Disability),1,Global,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,1056781.0805166424,1420092.581282971,738367.7443816811
+3,YLDs (Years Lived with Disability),1,Global,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,903473.9274362548,1216723.0155668303,631494.6717816471
+3,YLDs (Years Lived with Disability),1,Global,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,1960255.0079528976,2630912.4654853214,1369866.9405071484
+3,YLDs (Years Lived with Disability),1,Global,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,1006318.9967183702,1327486.6134073744,699215.2629305546
+3,YLDs (Years Lived with Disability),1,Global,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,856041.8749909559,1116450.184888256,592776.1823589115
+3,YLDs (Years Lived with Disability),1,Global,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,1862360.8717093265,2438812.185005552,1291420.6552334956
+3,YLDs (Years Lived with Disability),1,Global,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,940368.5490028642,1216933.6905790204,668957.2419900936
+3,YLDs (Years Lived with Disability),1,Global,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,805404.8854116304,1039896.3202141292,571846.9251080505
+3,YLDs (Years Lived with Disability),1,Global,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,1745773.4344144957,2252781.0133341327,1244278.024513892
+3,YLDs (Years Lived with Disability),1,Global,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,836654.7180014645,1077376.4559662435,593631.7958527458
+3,YLDs (Years Lived with Disability),1,Global,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,726447.044905165,928563.8516308358,511719.2648952388
+3,YLDs (Years Lived with Disability),1,Global,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,1563101.7629066296,2006548.86521694,1104520.1990251278
+3,YLDs (Years Lived with Disability),1,Global,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,672001.5955148536,861510.2514140116,484653.65689063387
+3,YLDs (Years Lived with Disability),1,Global,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,603096.2806675731,777128.7658387201,434060.434000448
+3,YLDs (Years Lived with Disability),1,Global,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,1275097.876182428,1640841.2586233488,919728.5359493912
+3,YLDs (Years Lived with Disability),1,Global,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,471310.600531807,602224.7511125864,342092.30371580203
+3,YLDs (Years Lived with Disability),1,Global,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,436718.5045965313,558932.3484259974,318069.8927352156
+3,YLDs (Years Lived with Disability),1,Global,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,908029.1051283382,1153071.9327774702,661937.8831603173
+3,YLDs (Years Lived with Disability),1,Global,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,348415.0781224267,448944.9016610702,256261.28766794057
+3,YLDs (Years Lived with Disability),1,Global,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,335764.524055986,431709.4271345475,247377.08774023468
+3,YLDs (Years Lived with Disability),1,Global,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,684179.6021784116,875970.002689511,503682.294424912
+3,YLDs (Years Lived with Disability),1,Global,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,216384.89391978653,278420.11320675584,159003.8236065195
+3,YLDs (Years Lived with Disability),1,Global,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,218523.92888732787,280460.1099916529,159270.06918830873
+3,YLDs (Years Lived with Disability),1,Global,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,434908.8228071144,557948.6508718772,318345.86085226247
+3,YLDs (Years Lived with Disability),1,Global,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,112424.03965907462,144563.27230709442,82043.28339560266
+3,YLDs (Years Lived with Disability),1,Global,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,120974.98357501584,153690.83727148577,88999.33062605167
+3,YLDs (Years Lived with Disability),1,Global,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,233399.0232340906,297495.7209890742,171648.13517612556
+3,YLDs (Years Lived with Disability),1,Global,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,58363.71504581172,74609.7334745354,42865.02714704747
+3,YLDs (Years Lived with Disability),1,Global,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,72415.65023595058,92334.00485115514,52922.98287176406
+3,YLDs (Years Lived with Disability),1,Global,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,130779.36528176216,166457.80488706694,96045.51724158536
+3,YLDs (Years Lived with Disability),1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,7420676.635518703,9606489.204631954,5477480.628086245
+3,YLDs (Years Lived with Disability),1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,6548667.982723678,8457383.661890695,4827081.040908612
+3,YLDs (Years Lived with Disability),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,13969344.618242376,18079380.33160225,10306040.38085271
+3,YLDs (Years Lived with Disability),1,Global,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,24105.385958716342,31606.823443378395,17111.187412938103
+3,YLDs (Years Lived with Disability),1,Global,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,35646.24242514092,46084.27861409872,25319.94087683077
+3,YLDs (Years Lived with Disability),1,Global,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,59751.62838385722,77345.01254844574,42546.84255612058
+3,YLDs (Years Lived with Disability),1,Global,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,7409.3134538274035,9784.846002654149,5236.339390316106
+3,YLDs (Years Lived with Disability),1,Global,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,14062.17769466668,18432.516462968702,10055.63755551988
+3,YLDs (Years Lived with Disability),1,Global,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,21471.49114849406,28144.27951963654,15403.97745494857
+3,YLDs (Years Lived with Disability),1,Global,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,1505.2686223901992,2050.186025860889,1034.1529227180372
+3,YLDs (Years Lived with Disability),1,Global,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,3964.0141891904304,5258.900238897359,2848.46758547224
+3,YLDs (Years Lived with Disability),1,Global,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,5469.282811580631,7265.917534518518,3912.742774291829
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,102.69040145613322,148.2212931307949,67.03615760441627
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,459.16134148958207,647.6527813779057,300.4256252293856
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,561.8517429457152,791.0907905691729,368.96935401031504
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,3.330515975496817,5.3071582894327385,1.7908284335491544
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,5.396504565978965,8.434573164678362,2.918720376360924
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,8.727020541475788,13.381180460373802,4.811140027922089
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,42.36586691780248,60.6262516504422,27.53057797602513
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,156.13252644691806,220.33325648491427,104.58092818760512
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,198.4983933647204,281.9324150091924,132.12156832860484
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,1649.105264172867,2961.247821489743,810.336807307222
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,1349.43043734018,2451.3758598711547,648.3382361982895
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,2998.535701513043,5442.726254174125,1458.809638314783
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,16034.55007697626,24988.54747233129,9775.35756204556
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,12648.948169303634,19629.772939833936,7405.608950384532
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,28683.49824627994,44423.00366143408,17509.001313037923
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,70051.70424019572,105114.49940293634,43769.313070806194
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,55500.22418298936,83917.0638520776,34787.820831492165
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,125551.92842318505,189402.5925742186,78656.30442657138
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,128943.50487488622,181574.3645660981,88993.433938128
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,104756.5013385968,146100.45812269842,72884.96453834524
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,233700.00621348305,330498.40257059585,162329.32047545345
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,59.685543711469165,88.10908582767486,36.96563658039141
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,118.98139038014028,167.66661830617272,76.0399691028193
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,178.66693409160948,252.6222985264946,117.11706173430812
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,155568.46478601926,208407.26652704604,109294.50074743132
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,129348.09503129825,173899.39578112907,91267.21070692869
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,284916.5598173174,381654.9160589627,201014.22399098345
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,158529.78108334396,209523.68266877183,110444.35324957626
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,135767.51048861406,176779.4926765885,94645.29965795131
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,294297.29157195817,385552.2190613335,204582.63036507703
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,150801.89012836808,194708.71642752032,107034.56118072254
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,135301.6519016776,172571.35096930986,96925.55867564396
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,286103.5420300459,368675.0656370356,204847.7881141281
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,144059.97700534092,184581.0516848745,103201.24780022952
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,136174.97579125196,173500.76960936454,97810.56054195976
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,280234.9527965931,357538.55462933483,200254.2282396253
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,128090.69806732034,163325.60927220795,91438.43428250896
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,126926.19086641866,165801.5077616697,91755.20255323984
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,255016.88893373907,330906.80170492415,183510.79763894816
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,104502.82434179109,133804.82385488323,76276.60054970917
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,109426.76446929724,140161.8463810173,79514.42275823459
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,213929.58881108827,271823.6911233025,156498.46218768304
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,77570.5647061195,99416.73878051162,57012.5736193905
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,85311.09386558982,109133.94139717128,62250.902044997725
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,162881.65857170927,209361.8691941056,119640.3053656258
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,54895.09096797439,70518.0279379194,40217.252812291845
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,64239.92443031402,82846.47542090747,47094.72003737856
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,119135.01539828828,153625.0877828428,86766.78142759966
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,28581.96256023996,36249.0838823796,20854.358285188857
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,36824.96903127334,47221.016622936775,27075.7652810475
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,65406.93159151334,82921.67429049843,48254.85721839713
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,15546.718038735258,20009.115483915823,11325.41689322931
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,23343.66894649113,30014.82771909434,16952.499567963776
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,38890.38698522637,49617.08952316506,28460.609934488253
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,1245211.3014976052,1584418.7891433688,927655.5235742826
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,1178295.1397861645,1492504.4145437586,870061.1770335912
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,2423506.441283769,3067284.507098607,1798418.5758006708
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,7083.14391677424,9279.74105640356,4969.259266780757
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,12853.568233568769,16672.256658044764,9190.736117187424
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,19936.712150343028,25857.757851164857,14002.481159612656
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,2583.9134587062536,3402.16894465982,1809.395028142684
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,6037.391979149727,7953.188446641312,4236.382308203811
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,8621.305437855985,11364.947046227458,6067.170126325273
+3,YLDs (Years Lived with Disability),44635,High SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,614.717579184786,846.3357122542455,409.943893127337
+3,YLDs (Years Lived with Disability),44635,High SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,2025.0692815011816,2730.049333660253,1412.4715234233531
+3,YLDs (Years Lived with Disability),44635,High SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,2639.786860685967,3573.0090792184965,1850.8414000110324
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,97593.07224949368,136965.17505133562,66752.861642672
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,97263.606550194,135711.34618209448,65883.60517007466
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,194856.67879968777,271838.80183521844,132160.34074229872
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,89453.33965451049,120573.3759405704,59558.33902319709
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,86701.06862812646,116331.56471462557,58238.399236663565
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,176154.40828263713,236269.61920191583,118196.52145530444
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,73844.5302781569,96897.23625548062,51095.43794786792
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,68211.35428236441,90302.485093082,47770.73547441709
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,142055.88456052143,187952.97388296423,100404.52173728928
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,55534.03032657313,72351.37431577135,38829.44093388996
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,50363.02828919187,66849.64505925478,35119.59353347964
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,105897.05861576486,137640.78068775023,74205.34704318375
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,38662.15532388235,51132.94250616503,27420.547047941152
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,35689.42121678586,46621.75893680123,25230.970454140726
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,74351.57654066826,98041.19250467604,52545.24439739538
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,26118.41281657039,34273.40650626598,18375.5840098001
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,24593.91807130892,32399.582754435625,17417.984948289257
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,50712.33088787932,66349.6443820125,35930.67282504118
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,17573.006227800783,23135.172693733828,12391.980970922665
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,16553.510979372884,21964.72561676392,11655.692917371323
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,34126.51720717362,44453.3277025189,24233.16502026204
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,10621.805106728743,14153.310663118353,7581.2748626336115
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,9777.589798815972,12940.470491263724,6863.066989040679
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,20399.394905544712,26879.7907160201,14545.932350254134
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,5448.148681741767,7243.78411679248,3840.434506886239
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,5141.366405138731,6835.940721197911,3610.579753591714
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,10589.515086880489,14055.670856496445,7610.284738682187
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,2323.986911350441,3108.7497435419887,1597.9651156291804
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,2386.0859999296563,3163.257083544572,1649.5440180127532
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,4710.072911280094,6218.07431835682,3257.610591012439
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,599968.3902396023,791830.9880987138,430135.9075372877
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,574963.4533424126,760528.1854951836,413827.46954208845
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,1174931.843582016,1552073.0174345905,839577.2088500605
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,789.2591652871088,1095.2928171615065,539.248705659561
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,842.4273965404478,1152.0120279622834,558.3694242282888
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,1631.6865618275572,2218.268651249004,1118.4298299314364
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,185.12105901666905,256.3741099604079,124.29705113217126
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,196.44055699396768,272.947114052459,133.80585504826757
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,381.5616160106367,524.3739676160208,260.4373475383076
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,27.9973656160561,40.71112864432381,17.25991549400865
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,34.40398346117887,50.01555889112257,22.099401946381064
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,62.40134907723494,88.4111533620208,40.42772685829709
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,235,95+ years,559,Schizophrenia,1,Number,2016,29.1313371223183,44.717603336451006,17.405820215641782
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,235,95+ years,559,Schizophrenia,1,Number,2016,46.95616414374375,68.34679047686691,30.088698452007137
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,235,95+ years,559,Schizophrenia,1,Number,2016,76.08750126606209,112.53458959936236,48.69588702710047
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,2566.0809695926964,4352.582273673883,1361.666399636746
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,2011.3440119669765,3471.9207897076194,1054.03180446221
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,4577.424981559671,7844.206836000621,2413.089472376794
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,20872.247667362408,31268.045657405342,12995.11747908569
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,16925.661673642113,25425.47591386988,10518.200915043572
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,37797.90934100447,56529.06907485993,23448.95963911284
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,83340.04100716395,125009.8038181715,52664.994625848456
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,71481.48022060106,105669.27050540347,46315.63494177305
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,154821.52122776504,230726.97164488828,99092.3082051387
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,170042.17489631585,230358.1618691382,119550.50790799547
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,149385.91329843827,206768.10747632768,106756.22706073514
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,319428.08819475386,434119.9620390661,226553.97398706205
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,3612.56262072817,6489.889882606021,1726.287007932021
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,3139.441577214784,5778.722084921155,1453.6925186583414
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,6752.00419794295,12266.443678848922,3187.5347833974474
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,23215.602668192325,38919.74753028544,12739.051058354966
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,20809.83163918196,34127.00146101905,11738.518091439328
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,44025.43430737426,71321.94915871837,25327.27310189417
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,63760.17350290282,104265.21939145304,38123.63267385318
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,61979.87986509303,99515.71732127327,37149.43573982647
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,125740.05336799588,203083.6791278073,75151.5152434198
+3,YLDs (Years Lived with Disability),44637,Low SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,91201.8557650755,133427.45252773009,58898.49994810351
+3,YLDs (Years Lived with Disability),44637,Low SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,91274.68159813224,133277.9327673699,57080.76860924019
+3,YLDs (Years Lived with Disability),44637,Low SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,182476.5373632076,269544.0824698836,117004.01100918936
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,191818.24918422112,255254.17502434785,135923.7314555051
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,168660.37935760783,223551.44321899244,119654.78668814988
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,360478.6285418293,479796.2429548103,256728.51243463712
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,182766.38344961108,237615.10576859204,129921.91261568129
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,159374.1911593113,207846.80185575067,110965.20783425224
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,342140.57460892247,444821.1791026793,242292.03063719787
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,188290.45290539484,241100.06328595057,134439.3722722212
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,166988.92998797848,213194.9055447564,119322.7270023042
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,355279.382893373,455027.3730235981,253455.26114645824
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,180130.72596196408,226681.07088688543,131562.07329972874
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,160286.96253995318,203961.8025409401,116432.93178082693
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,340417.6885019177,428828.4314348373,248016.4634664428
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,150058.65861790752,192849.88216763656,109384.8115058636
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,137646.19693050397,174030.69523065805,100073.31509330674
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,287704.8555484116,368750.9321445703,210414.6947898216
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,103630.16330115036,131660.7254970183,76221.37276310463
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,98583.690694174,124949.10845403236,71479.39044582224
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,202213.8539953243,256709.9056053825,148398.82071790643
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,80224.88919953759,101585.13988206358,58471.33042588954
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,79747.69266633304,101793.89156673684,59919.43363591177
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,159972.58186587063,202510.147976338,118633.03733487493
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,48149.362788092,62042.90672214638,35323.616791019806
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,50875.23461101887,65158.71682449896,38265.6216348452
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,99024.59739911088,126243.4350090956,73586.94744294044
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,24433.20838698138,31120.73110574469,17997.934088291586
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,27215.540237252768,34335.00273905382,19498.10089760252
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,51648.74862423416,65485.060067823775,38051.16530753195
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,13992.573636582138,18048.760794611004,10282.397958671516
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,18508.543913074915,23310.547267672195,13534.412997098818
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,32501.11754965704,40865.39908638749,24054.02435824336
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,1448540.1106606228,1827339.513933816,1075778.2233723258
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,1322121.2361116894,1669516.594901633,989914.6338746796
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,2770661.346772312,3491909.061146209,2065692.8572470048
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,6026.141378090451,7902.22527516953,4385.221797110233
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,9476.910571897824,12217.106874568064,6780.159970495823
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,15503.05194998826,20070.83449426548,11276.598183110324
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,1815.5229845885085,2360.6748212513803,1300.535050067013
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,3808.473505973582,4955.505016987636,2688.1041782879824
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,5623.996490562096,7301.953597591317,4017.165873577615
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,340.86845914943075,465.8445243605887,236.22565398420537
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,987.9582055148684,1325.6459774256214,713.0818739179906
+3,YLDs (Years Lived with Disability),44634,High-middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,1328.8266646642994,1766.193770055414,952.6570911500326
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,6167.003098124242,10706.933434867518,3128.7620430906186
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,4826.704965934974,8574.291442699076,2365.164753808376
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,10993.708064059208,19278.068997014645,5535.519138156255
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,46608.62465767492,75073.8861121638,27579.256094972683
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,36340.61435303648,58819.88787053546,20834.246068181536
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,82949.23901071148,133247.52172834091,48950.63177279908
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,150746.674575288,236091.2198980986,93464.76003731327
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,120605.01421386522,188400.74920593447,72627.01464115389
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,271351.68878915324,422417.0704725684,165605.77902524683
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,235686.2484073665,338958.413097658,158425.98052609822
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,189381.5735775127,271656.3123228869,123988.31825157518
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,425067.8219848796,609467.7478475485,284542.5070959465
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,1,<5 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,6,5-9 years,559,Schizophrenia,1,Number,2016,0.0,0.0,0.0
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,7,10-14 years,559,Schizophrenia,1,Number,2016,6823.228576132826,11624.639921837424,3542.484219631123
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,7,10-14 years,559,Schizophrenia,1,Number,2016,5322.092247138993,9156.728777112112,2772.976149246441
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,7,10-14 years,559,Schizophrenia,1,Number,2016,12145.320823271812,20781.368698949536,6321.439126034565
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,8,15-19 years,559,Schizophrenia,1,Number,2016,52007.027509118176,80288.40953639937,31808.06748122372
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,8,15-19 years,559,Schizophrenia,1,Number,2016,41405.52451181567,63949.56203845752,24804.81199510085
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,8,15-19 years,559,Schizophrenia,1,Number,2016,93412.55202093376,143795.4290163708,56907.09755901311
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,9,20-24 years,559,Schizophrenia,1,Number,2016,178363.06559536434,274227.46658473555,111762.6474427091
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,9,20-24 years,559,Schizophrenia,1,Number,2016,150673.10193242787,231166.5387778208,94596.14859793385
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,9,20-24 years,559,Schizophrenia,1,Number,2016,329036.16752779204,504165.3896336355,207553.54927330167
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,10,25-29 years,559,Schizophrenia,1,Number,2016,315543.22893773724,448025.4732410557,213263.5404072227
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,10,25-29 years,559,Schizophrenia,1,Number,2016,274564.51503526466,388042.9383450936,184971.6765787553
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,10,25-29 years,559,Schizophrenia,1,Number,2016,590107.7439730015,832402.5687644556,398792.5800133556
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,259560.25984648592,350971.1993283734,180136.0227351282
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,207644.1919965841,281383.18470914464,143816.42771051757
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,467204.4518430702,627713.792192569,324154.8961969232
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,240371.1957687188,320207.6690756057,164941.2537145011
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,193229.81947311969,256052.49701367284,132645.176164634
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,433601.0152418386,573178.9540166929,297059.8764970865
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,203660.8120712792,266382.37638442864,142282.31478474656
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,163056.24097955736,213831.5048247901,113765.9984967396
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,366717.0530508366,479354.4424569346,257900.0371119427
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,164430.14336921295,214701.32726227088,115662.8046800619
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,131583.9432391039,171092.9056432844,91814.78573877184
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,296014.086608317,386644.8355350997,208128.91724438645
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,122665.7578023646,159400.9924012091,85401.30590260503
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,99155.91552775598,128927.0392240564,69468.99670646989
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,221821.67333012083,288556.18902166025,155103.57795781147
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,86131.32445093332,111199.86828480948,60957.150295510015
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,72197.4546672556,93793.3872532085,52173.81306111608
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,158328.7791181889,203191.11687968427,113115.22358829636
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,58642.6049924085,77340.69885576787,42125.34854401103
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,50909.64127769024,65992.76286604538,35883.785004101424
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,109552.24627009878,143745.55852977803,78635.46561900333
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,36375.82132010879,47678.98521552143,25490.273078838363
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,31824.7096370346,41181.30520248375,22985.54570657257
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,68200.53095714348,88920.32861385253,48846.1494488416
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,19200.83010074156,24969.878670278056,13956.761172305334
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,17775.984365831162,23052.38130151308,12739.064168104607
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,36976.81446657273,48464.77194428697,26560.37570550154
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,8931.649784447178,11711.27075060116,6375.501128893093
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,9223.555891418166,12171.332560459665,6532.016889941778
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,18155.205675865345,23759.84566387744,12933.888424744033
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,1643585.743932631,2163350.6764569604,1204164.833500897
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,1332734.9594585532,1746199.746745388,976506.7393417826
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,2976320.7033911827,3911661.868455454,2184244.8431186303
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,3291.7333655814336,4385.430803991485,2333.1328977694675
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,3644.232498552243,4744.499426606577,2556.833277677132
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,6935.96586413368,9108.14354014028,4971.170119532435
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,916.2254891495622,1250.8726015045204,634.3264357384498
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,1060.1881380714192,1415.1946484879973,746.3361144188127
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,1976.4136272209803,2641.730656607402,1394.0304070506102
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,169.70349562200715,235.1171678636265,114.567705776665
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,228.218492086984,316.69982328008507,154.69454155797217
+3,YLDs (Years Lived with Disability),44636,Low-middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,397.9219877089914,548.0623872550473,271.9101710960121
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,11,30-34 years,559,Schizophrenia,1,Number,2016,351502.93814052467,476533.8985063307,242874.80855940387
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,11,30-34 years,559,Schizophrenia,1,Number,2016,299931.25630332663,404762.2663194549,210283.8492932587
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,11,30-34 years,559,Schizophrenia,1,Number,2016,651434.1944438512,881278.3596126346,452222.1236379172
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,12,35-39 years,559,Schizophrenia,1,Number,2016,334459.2393216916,443468.1181921017,231930.4763015791
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,12,35-39 years,559,Schizophrenia,1,Number,2016,280340.3979817723,367831.2051839726,194881.9925740976
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,12,35-39 years,559,Schizophrenia,1,Number,2016,614799.6373034642,812768.1579740401,428767.8180016865
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,13,40-44 years,559,Schizophrenia,1,Number,2016,323083.73274402274,420837.7070747004,227532.57576461675
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,13,40-44 years,559,Schizophrenia,1,Number,2016,271263.013669594,352087.37259258376,191640.1283217901
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,13,40-44 years,559,Schizophrenia,1,Number,2016,594346.7464136167,771478.326871667,420139.5774257717
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,14,45-49 years,559,Schizophrenia,1,Number,2016,291904.3632202744,376375.4421431145,205374.50786825
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,14,45-49 years,559,Schizophrenia,1,Number,2016,247530.89109257425,319442.6234801196,173747.20660729182
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,14,45-49 years,559,Schizophrenia,1,Number,2016,539435.2543128483,698443.9458554811,378917.7332529308
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,15,50-54 years,559,Schizophrenia,1,Number,2016,232041.1359835893,299998.974269768,164614.20070762065
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,15,50-54 years,559,Schizophrenia,1,Number,2016,203255.0116187693,261112.7394268951,146292.13081108828
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,15,50-54 years,559,Schizophrenia,1,Number,2016,435296.1476023589,560460.151416563,311616.07029792946
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,16,55-59 years,559,Schizophrenia,1,Number,2016,150557.70504386016,194602.64655187464,108541.28408446762
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,16,55-59 years,559,Schizophrenia,1,Number,2016,131575.91819186887,169813.094833692,95813.7119891114
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,16,55-59 years,559,Schizophrenia,1,Number,2016,282133.62323572906,363780.2436294752,206281.46266819083
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,17,60-64 years,559,Schizophrenia,1,Number,2016,114137.58878543424,147654.39873290545,82044.17429303177
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,17,60-64 years,559,Schizophrenia,1,Number,2016,102982.19425178044,131749.88516113986,74001.62048075894
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,17,60-64 years,559,Schizophrenia,1,Number,2016,217119.78303721463,279276.07910055254,157323.123603428
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,18,65-69 years,559,Schizophrenia,1,Number,2016,66174.45654823551,84590.91673956829,48176.98774053957
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,18,65-69 years,559,Schizophrenia,1,Number,2016,61630.18773661397,79342.66101242363,44157.88004626121
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,18,65-69 years,559,Schizophrenia,1,Number,2016,127804.6442848494,164372.77202670934,93264.80592437292
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,19,70-74 years,559,Schizophrenia,1,Number,2016,34670.914141737216,44723.84848422991,25076.053886799884
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,19,70-74 years,559,Schizophrenia,1,Number,2016,33915.255536810764,43118.200997872365,24670.90179575084
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,19,70-74 years,559,Schizophrenia,1,Number,2016,68586.169678548,87827.8160975328,50323.42844666015
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,20,75-79 years,559,Schizophrenia,1,Number,2016,17520.47087319007,22446.274496755104,12540.35220980632
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,20,75-79 years,559,Schizophrenia,1,Number,2016,18890.00698683781,24317.24567411886,13559.695665905883
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,20,75-79 years,559,Schizophrenia,1,Number,2016,36410.47786002784,46615.29178104136,26428.680417159303
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,2016,2477993.3770464,3209891.8902144614,1826566.574467
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,2016,2135824.253724115,2758742.0100476155,1576715.8750852607
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2016,4613817.630770519,5982626.033696071,3402544.2061666856
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,30,80-84 years,559,Schizophrenia,1,Number,2016,6893.327474094375,9111.52582303977,4896.11492663522
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,30,80-84 years,559,Schizophrenia,1,Number,2016,8795.502914992298,11425.801666758336,6261.903245096159
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,30,80-84 years,559,Schizophrenia,1,Number,2016,15688.830389086668,20445.746955307608,11105.818622242456
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,31,85-89 years,559,Schizophrenia,1,Number,2016,1900.9825193116533,2518.833197942461,1361.8523056439335
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,31,85-89 years,559,Schizophrenia,1,Number,2016,2945.8693244301044,3842.1236763360457,2086.936171854547
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,31,85-89 years,559,Schizophrenia,1,Number,2016,4846.851843741755,6333.736717108302,3439.8844946766167
+3,YLDs (Years Lived with Disability),44639,Middle SDI,1,Male,32,90-94 years,559,Schizophrenia,1,Number,2016,350.2860883725997,481.4267705234169,243.89983766961527
+3,YLDs (Years Lived with Disability),44639,Middle SDI,2,Female,32,90-94 years,559,Schizophrenia,1,Number,2016,684.5329977173818,909.6802403216795,481.4836359919592
+3,YLDs (Years Lived with Disability),44639,Middle SDI,3,Both,32,90-94 years,559,Schizophrenia,1,Number,2016,1034.8190860899822,1393.0754546317658,733.3669942900061

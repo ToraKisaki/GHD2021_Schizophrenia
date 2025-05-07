@@ -1,0 +1,1153 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029735365902581,0.0034908777977679,0.0024860020626594
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026673419255622,0.003145740666006,0.0022221865081981
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028219903700293,0.0033177170068654,0.0023553097312409
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,289.1864947014,339.52494243905,241.48046930905
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,261.97752108689,308.72087527185,218.1304256475
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,275.78422199006,324.02132680128,229.94073387252
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0029768240515753,0.0034939367041722,0.002488157248021
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0026673609755017,0.0031457868901728,0.0022223137193994
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0028236510811365,0.0033206731334504,0.0023563151141821
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,289.31390592493,339.62600301562,241.54650091882
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,261.89093771333,308.6218776171,218.07230831438
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,275.80714485223,324.11105593584,229.93783231734
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0029795496670214,0.0034993996935192,0.0024897101128091
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0026672257550623,0.0031455115302526,0.0022221692735107
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0028249322443892,0.0033232140179021,0.0023569067911034
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,289.38195424417,339.92764171656,241.55118288545003
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,261.7866056168,308.50387085677,217.98834975939
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,275.78937659367,324.15606034369,229.93085551828
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0029818721211384,0.0035056205261785,0.0024908222013931
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0026670344470264,0.0031443961026359,0.0022218574014665
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0028259560875558,0.0033254713930673,0.0023572073782403
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,289.41500881295,340.28055571185,241.5564879946
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,261.68097195634,308.26995501045,217.89427963789
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,275.75081091055,324.18044822489003,229.89657590797
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0029840767722633,0.0035102368252978,0.0024917754506062
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0026668982958414,0.0031434294974189,0.0022215187880338
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0028269194110083,0.0033276507280848,0.0023574065034843
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,289.44680866744,340.58489797476,241.57663445701
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,261.58816685510004,308.06020449217,217.8059633279
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,275.71529635866,324.27164852975,229.86016841927
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0029858005351757,0.0035109460647851,0.0024921957215649
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.002666722165407,0.0031425862537993,0.0022210679877132
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0028276060194738,0.0033294983292834,0.0023575623028301
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,289.45368202682,340.65442237601,241.56580953562
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,261.50612714595,307.88240331905,217.72020241401
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,275.67092486088,324.3556971653,229.80805780316
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0029868076174133,0.0035114627005661,0.0024925737636344
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0026663808024282,0.0031425168198212,0.0022191860261549
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0028278309094907,0.0033307277670009,0.0023566049048608
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,289.33742449398,340.29614470042003,241.3345288186
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,261.39214759346,307.77203929241,217.46644190612
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,275.54734876378,324.16776443562003,229.55663684452
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0029874894730592,0.0035147077327236,0.0024926404083958
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.002666130926401,0.0031427263910009,0.0022175057715128
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0028279153638146,0.0033317894987541,0.0023558154440034
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,289.08766005997,339.7958592691,241.04245193967
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,261.25241281734003,307.64529796125,217.19717223903
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,275.34267307947,324.00597208884,229.23926901062
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0029881108269535,0.003517711557262,0.0024924894448275
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0026659171772195,0.0031428735698739,0.0022163854079195
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0028279789698805,0.0033327888066326,0.0023550454150406
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,288.79862087114003,339.54601903866,240.7789517046
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,261.11100368048,307.51843967663,216.98132835824
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,275.11699917982,323.81725822113003,228.97130270809
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002988901047534,0.0035207063551323,0.0024919516621667
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0026656471880216,0.0031419863654598,0.002216520211332
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002828098557645,0.0033338366470541,0.0023543240151702
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,288.56415999628,339.39250206275,240.55751312623
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,260.98415778298,307.4100892827,216.9064070745
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,274.92567924408,323.67232036611,228.76642098203
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0029898615908822,0.0035237073402282,0.0024915395720519
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.002665221726883,0.0031409901157053,0.0022170827872079
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0028282381074889,0.0033349559285875,0.002354575979177
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,288.4558041093,339.39737135483,240.41381410522
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,260.88146917985,307.33201131566,216.90495165882
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,274.8098859101,323.62720924453,228.70650980427
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0029912937816429,0.0035260902857449,0.002493322198472
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0026646942060528,0.0031418834200536,0.0022169515926696
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0028285678850593,0.0033355488621808,0.0023543868786261
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,288.43866136971,339.44415631294,240.2979163706
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,260.77643444583,307.22067539842,216.84797314814
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,274.73879923785,323.56360562858,228.60552121404
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0029934077664015,0.003529293807966,0.0024943375825737
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0026644473862889,0.0031424035534855,0.0022171680950715
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0028293738751895,0.0033367049654724,0.0023547407040196
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,288.43509848143,339.50706835675,240.18504010118
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,260.66860552048,307.09891436653,216.7987492408
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,274.67312901299,323.50399185969,228.52098535459
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0029960620762379,0.0035329890101609,0.0024959159767821
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0026644920383902,0.003142418325409,0.0022177784859861
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0028305952569206,0.0033382813655233,0.002356475474409
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,288.4627698126,339.59386434231004,240.10984858387
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,260.57562408997,306.98203623422,216.77189724847
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,274.63072684937,323.46411670361,228.49024004063
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0029990401110448,0.0035367303317348,0.0024977513314786
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0026647923323505,0.0031426072924064,0.0022200567444909
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0028321174551609,0.0033400930100552,0.0023589025969373
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,288.53194801390003,339.71355814656,240.14549124523
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,260.51256250907,306.88722066784,216.85854443988
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,274.62513809256,323.45607145515,228.58281480939
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0030021555443946,0.0035403348619817,0.0025001889275606
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0026652683613017,0.0031429735072364,0.0022224858944911
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0028338139629363,0.0033419442845686,0.0023613928652349
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,288.65387598193,339.88776766079,240.2408301004
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,260.48659373302,306.83362448489,217.02801997127
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,274.66596950428,323.49631193802,228.70874357878
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0030078268172993,0.0035478935464591,0.0025067552941402
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.002667221443991,0.0031464558978353,0.0022227709302565
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0028375482854683,0.003347116425162,0.002364754022634
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,289.01921682195,340.36013753241,240.72012048405
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,260.60278186797,307.15755150647,216.99241435149003
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,274.90208039982,323.86196132865,228.9279072992
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.003017056558752,0.0035591672248254,0.0025161850078605
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0026712416227739,0.0031522561296854,0.0022247756151895
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0028441102937945,0.003355591315132,0.0023704194959267
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,289.66757923841004,341.16446644768,241.42773667125
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,260.88820349143003,307.59872999594,217.0980695664
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,275.36671431117,324.48298030157,229.33386691509
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0030274098386369,0.0035716989110237,0.0025264065351906
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0026758932802419,0.0031572220305296,0.0022272489500646
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.002851565099787,0.003365113530183,0.0023767277518759
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,290.40387449402,342.06789765302,242.19646781118
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,261.22331504344,308.10418201368003,217.28453068227
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,275.90186000787,325.18773204982,229.79019640748
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0030365661252647,0.0035827256811841,0.0025355036798888
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0026799223691719,0.003160662373831,0.0022297640205864
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0028581124790725,0.0033735957408028,0.0023821659953973
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,291.0421261106,342.84821514333,242.87251237467
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,261.49937927341,308.50535069441,217.4524454149
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,276.35829634681,325.80231572213,230.17102653081
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0030420056900266,0.0035893700709987,0.0025408470395271
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0026819803595599,0.0031617931911206,0.0022307958491529
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0028617993766113,0.0033786615340173,0.002385168676482
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,291.39091837605,343.26941163541,243.30758253435
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,261.61293752962,308.51874364682004,217.4752095887
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,276.5862334459,326.14363527921,230.3570395184
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0030450080039168,0.003596890746804,0.0025380845896791
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0026845203554131,0.0031661852417665,0.0022314861784134
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0028645191190154,0.0033850929055033,0.0023833084388265
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,291.53710306877,343.86017170968,242.87495959102
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,261.76017283923,308.83056238129,217.46799661225
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,276.72873038742,326.62163348867,230.08507885814
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0030483976163563,0.0036050671332914,0.0025345552248905
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0026897686758672,0.0031738499191573,0.0022343036363996
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0028688165977738,0.0033934925245151,0.0023831746810743
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,291.67718471104,344.38086408230004,242.39570591266
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,262.11234002735,309.39248476667,217.61044837369
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,276.97190499212,327.22352901065,229.99359266276
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0030518025861391,0.003613529208982,0.0025312296560931
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0026959935842759,0.0031826877608826,0.0022378265357034
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.002873631804113,0.0034024942509527,0.0023844173804267
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,291.78763454511,344.88517034378,241.95226593490003
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,262.52936512547,310.03368842912,217.79659687129
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,277.23412097552,327.84370640228,229.9449537965
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0030545233937692,0.0036214370799201,0.0025295310123557
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0027013301161118,0.0031905018011543,0.0022406099444671
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0028776760519809,0.003410502409546,0.0023849704497013
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,291.83178903625,345.32375809292,241.61206873972
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,262.87030796516,310.58728498561,217.92118254964
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,277.42679817550004,328.37308529788,229.83609028229
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.003055872399687,0.0036277339793846,0.0025267750353604
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0027038231728177,0.0031951593067656,0.0022411387447715
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0028796192814412,0.0034142507994966,0.0023838723861787
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,291.76049867473,345.63243696793,241.18715597609
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,262.98192071597,310.88336906495,217.86803308546
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,277.44886464349,328.67275677614003,229.59737341924003
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0030555695879713,0.0036247024673363,0.0025271151460723
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0027040361749638,0.0031983052257543,0.0022396461857828
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0028795875913342,0.0034152228794299,0.0023830639608946
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,291.53895187850003,345.09440194059,241.03431463236
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,262.93157287104,311.12142945794,217.66974424786
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,277.3151089053,328.41123262715,229.42296731699
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0030546842417739,0.0036209683265329,0.0025287595190064
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0027041179710502,0.003201499626328,0.0022380574045426
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0028791946131387,0.0034150257849889,0.0023819740648805
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,291.26184506712,344.48346138494003,241.02488802336
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,262.90711246177,311.40906154722,217.49482600887
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,277.16652206271,328.12614727315,229.2409832356
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0030545165091739,0.0036178518463171,0.0025309734717139
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0027045802964489,0.0032050362820341,0.0022368446384767
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0028793575210951,0.0034139984611429,0.0023828287078006
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,291.07964895411004,343.96603430877,241.11450356086
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,262.9386337808,311.70973756206,217.37254053348
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,277.09411894106,327.90691286622,229.19390280041
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0030563812821655,0.0036204782556268,0.0025346979823378
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0027059688267914,0.0032094393313761,0.0022364666877914
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0028810186920848,0.0034145308060551,0.0023853957647205
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,291.14078432824,343.9263630559,241.39166659509
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,263.05483963136,311.87257668160004,217.32607089853
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,277.18724144672,327.86932880794,229.39668161503
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0030636061256548,0.0036326862572667,0.0025334742009116
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0027052412932805,0.0032010164099755,0.0022370778994897
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0028843369607299,0.0034179216218806,0.0023852740081362
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,291.95722269569,345.45585481589,241.49746628884
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,263.09424119592,311.17037297867,217.48652591365
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,277.62496913012,328.42631685828,229.57754450931
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0030601071278641,0.0036281600183193,0.0025348623145829
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.002710720428945,0.0032123630677644,0.0022394830411048
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0028853504337933,0.0034187364245635,0.0023871807604629
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,291.60512985741,344.99518287972,241.63936235996
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,263.6238318004,311.90225368607,217.73315986047
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,277.71140975644,329.05609692170003,229.77211716199
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025024827111413,0.0030237437522663,0.0020348506321209
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023743886618857,0.0028967445328237,0.0019236631371862
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024384165411391,0.0029581571527587,0.0019795358692887
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,249.48623227456,301.4169259937,202.87903106925
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,236.85628772965,288.94378335302,191.90963594464
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,243.17300863475,294.98195673871004,197.42543742643
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0025011173833948,0.0030189440134328,0.0020358395006405
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0023726742709532,0.0028937445962972,0.0019202338586272
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0024369137461025,0.0029539727666099,0.0019783136976813
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,249.3383409872,300.97699734062,202.96119170779
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,236.67889383677,288.63460434997,191.55859170049
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,243.01409882466,294.54918521038,197.29087600312
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0024995353510136,0.0030183869594686,0.0020366258097264
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0023710870867671,0.0028906417260673,0.0019166396155927
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0024353673827208,0.0029496235808851,0.0019768253814258
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,249.16436093578,300.91604795947,203.01915965452
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,236.51053615358,288.31025097808,191.18820200975
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,242.84676327682,294.09511650588,197.12542683179
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0024978330205263,0.003014196505572,0.0020371418449229
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0023695726381685,0.0028874622213471,0.0019128526047266
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0024337855176167,0.0029452403573447,0.0019751090622228
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,248.97415081684,300.45421323413,203.04497244607
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,236.34581129771,287.97328933604,190.79624506315
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,242.67196995968,293.70247882511,196.93530118609
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0024967714588226,0.003012662286486,0.0020380442809176
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0023684244911085,0.0028843335483397,0.0019093007524605
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0024326824670249,0.0029443435025262,0.0019737620455542
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,248.84870005656,300.32379432259,203.11149080779
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,236.21832293896,287.64937052726,190.42820441311
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,242.54580321048,293.59149144333,196.7825498679
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0024958273950703,0.0030168702502636,0.002039021840084
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0023678919902305,0.0028797566216531,0.0019063153753931
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0024319438404871,0.002942844555038,0.0019727338475354
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,248.72889012366,300.71393621404,203.18038515394
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,236.14948790052,287.17345534486,190.11460364056
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,242.45155174878,293.42219113284,196.65800918502
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0024938095664146,0.0030123739328703,0.0020353249767318
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0023671044518692,0.0028835146357872,0.0019061272453934
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0024305444988236,0.0029390788327915,0.0019708189178008
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,248.49072968901,300.21530431725,202.77641334821
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,236.04781598971,287.55636702408003,190.07333655857
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,242.28207213012,293.00644484905,196.43822534808
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0024913536735874,0.0030047472478237,0.002030430228679
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0023660254149023,0.0028843509314701,0.0019056886256364
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0024287622361024,0.0029411475885202,0.001968507796669
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,248.19466274948,299.42031282794,202.24357713529
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,235.90748482029,287.59784163016,189.99745213697
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,242.06258704307,293.11352345178,196.16741483014
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0024890224037351,0.0030046139677653,0.0020257107536758
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.002365085387996,0.0028853979564638,0.001905316770123
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0024271076990143,0.0029410739481748,0.0019662430129846
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,247.90476538927,299.2433759375,201.71318765443
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,235.77707694309,287.65634740570005,189.92465594895
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,241.85076438859,293.07003849945,195.89632087104
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0024871302532231,0.0030041198104973,0.0020214268364259
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002364560988771,0.0028869826290276,0.0019052091423104
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002425886188953,0.0029408871794422,0.0019643219691748
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,247.65826517021,299.2087318577,201.22593185357
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,235.68705736779,287.76744811757004,189.87705041956
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,241.68138389073,292.98551211154,195.65851770839
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0024858211352921,0.0030029354563617,0.0020167913275795
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0023648200381819,0.0028894994147125,0.0019054210230198
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0024253437734374,0.0029415549703247,0.0019630391162507
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,247.47496499512,299.03579839733,200.75598763959
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,235.67828207132,287.9765280015,189.85666136548
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,241.58378588912,292.99954827161,195.4887874317
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0024847649752044,0.0029990004055465,0.002018513255738
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0023660534770057,0.0028917450466027,0.0019115460967781
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.002425414698242,0.0029421343944167,0.0019662487233146
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,247.30047289242,298.47121701126,200.86886716987
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,235.75736447388,288.14527741384,190.43630194914
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,241.53453901222,292.98841889075,195.75993402744
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0024837264378924,0.002998547183518,0.0020202119324759
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0023679861631781,0.0028948111882547,0.0019181018810594
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0024258505429132,0.0029432514951705,0.0019698748821334
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,247.09332323788,298.28724911779,200.95162215897
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,235.88215939724,288.36703166135,191.03180073781
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,241.49249501536,292.99648135005003,196.04938164573
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0024828884158686,0.0030000750321895,0.0020208148518019
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.002370240102236,0.0028965988588988,0.0019249230012143
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0024265515278783,0.0029448022700038,0.001973526726359
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,246.88140526091,298.34270734753,200.87507078801
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,236.0228235494,288.36565336701,191.64190439201
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,241.45643271466,293.02368007131,196.32901131965
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.002482491736737,0.0030076551171059,0.0020193360335305
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0023725545911455,0.0028952911493266,0.0019314746435327
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0024275005282256,0.0029466671496926,0.0019754488007273
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,246.70631191494,298.91970526501,200.61721526057
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,236.16632409886,288.12282253924,192.22069922684
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,241.43991854797,293.07495681281,196.42755543819
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0024827043132961,0.0030156445382776,0.0020185829196258
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.00237457972577,0.0028939120940227,0.0019365700266717
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0024286013723211,0.0029486326742999,0.0019776066722543
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,246.60544542601,299.55154744819004,200.44314334568
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,236.29274245391,287.89410206447,192.66293949009
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,241.45118467627,293.1494380637,196.56030660985
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.002483553373694,0.0030133944017524,0.0020234022213938
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0023765228277801,0.0028970917904961,0.0019374615646421
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0024299802109242,0.0029505397377871,0.0019810125908836
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,246.56730032869,299.18256811975,200.81519013091
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,236.4140238472,288.12272691049,192.6998184089
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,241.49139376624,293.22515905751,196.8156479346
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.002485066243049,0.0030102062293862,0.0020290815251905
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0023788695115239,0.0029006794551849,0.0019369606354075
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0024318907275159,0.0029528837159271,0.0019850306477625
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,246.56643709183,298.65869365001,201.24728173216
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,236.56094771925,288.37651397707003,192.58267386243
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,241.56302750142,293.22300333957,197.11288867615
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0024870511293572,0.0030048902966787,0.0020297802901554
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0023814627808681,0.0029045415678207,0.0019364055993557
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0024341541200066,0.0029523451434178,0.0019893923450946
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,246.59257698277003,297.95476725032,201.17953908822005
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,236.72302574791,288.64697485363,192.45185208345
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,241.65524628123,293.02376028329,197.43145145826
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.002489287682637,0.0030037518377543,0.0020293019520106
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.002384029379609,0.0029084275098509,0.0019358210933053
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0024365266569136,0.002952142733722,0.0019927547877814
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,246.63867677424005,297.75300767558,200.99162237622
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,236.88091187725,288.91905870031,192.31760464551
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,241.75506465455,292.84948112433,197.68197359319
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0024914891090482,0.0030057879118224,0.0020338321387447
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0023864466126818,0.0029112397011825,0.00193522274102
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0024387984520479,0.0029526505275187,0.0019943603509085
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,246.69895625954,297.76026464965,201.28044699342
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,237.03645264261,289.11068880875,192.19288493793
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,241.85988607237,292.77805820349,197.7629477609
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0024962562939057,0.0030116363129658,0.0020347138277446
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0023912030694909,0.0029167538218588,0.0019409985610013
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0024435117623714,0.0029615759158828,0.0019966824653548
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,246.99210206597,297.91826597601005,201.22506316461
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,237.40422591288,289.52960179452,192.68105527127
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,242.1862562323,293.47609512663,197.88312196333
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0025048404698851,0.0030255246910219,0.002039242549253
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0023990987319415,0.0029261917771903,0.0019477892598959
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0024516950849247,0.0029753000983852,0.0020014191792753
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,247.60604610064,299.26751755922,201.52806194165
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,238.04288596704,290.274102949,193.2356328314
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,242.80792822003,294.6023232261,198.19407224533
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.002514607509294,0.0030454020156008,0.0020468914618797
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0024079351654933,0.0029362004023504,0.0019554780851618
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0024609364246227,0.0029903659083237,0.002006780555553
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,248.30331152072,300.84149246175,202.0754819037
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,238.75451484364,291.06156253529,193.86220137824
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,243.50753365269003,295.82762025554,198.5531463993
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0025230983765396,0.0030643198255891,0.0020529117749234
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.002415579716785,0.0029405120731029,0.0019621415538959
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.002468945292732,0.0030039893799864,0.0020106124448577
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,248.87338859271,302.25058874120003,202.46254289464
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,239.34980950489,291.53984871828004,194.38915757311
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,244.08558598007,296.91197732873,198.74538713674
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0025277967229164,0.0030763102589086,0.002052438557219
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0024198935139513,0.0029413925213269,0.0019658154395219
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0024733978832521,0.0030133343855767,0.0020111811172795
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,249.11042718934,303.08358907177,202.21694317416
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,239.64838077363,291.48901369353,194.64808882383
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,244.34918636823,297.61933367286,198.66047838637
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.002528887600723,0.0030738063917792,0.0020537512728438
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0024228276793487,0.0029526012119166,0.0019711261892463
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0024753728085087,0.0030149892610185,0.0020137676010688
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,249.00227291561,302.54357755609004,202.24821212068
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,239.82601059952003,292.19161591759,195.08390139925
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,244.38103506611,297.58025808495,198.82212469643
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0025290668796145,0.0030674062393308,0.0020570971807698
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0024267689233427,0.0029569483973498,0.001973246152957
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0024774115102802,0.0030164081060187,0.002015016138975
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,248.76875632758,301.84578756703,202.38913616893
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,240.09079122479,292.46770724369,195.2220047036
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,244.3952131805,297.48867039634,198.80146808991
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0025289174475808,0.003064280912227,0.0020600992107437
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0024303767935639,0.0029615199480212,0.0019721868395273
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0024791260897761,0.0030104627925997,0.0020157181271567
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,248.50506855004,301.00990738386,202.50147591455
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,240.3250754978,292.75824951115004,195.02138906945
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,244.37958987216,296.85884418769,198.73289932773
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.002529025869399,0.0030674688654908,0.0020632103580487
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0024322807994938,0.0029618798330241,0.0019695079161981
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0024801105565061,0.0030030608781831,0.002015848828209
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,248.30382993322,301.04662846192,202.65708373139003
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,240.40865894222,292.89060411047,194.67662651049
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,244.31915267488,295.94392828291,198.63137033953
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0025323216138818,0.0030702678614107,0.002074232946869
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0024231203415689,0.002950081076027,0.0019655710623854
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0024770373719509,0.0030045419697727,0.0020208724476934
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,248.53111437169,301.22447604235003,203.62465062771
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,239.46320801943,291.6196068371,194.21055922119
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,243.94864316819,295.62116888018,199.0558942418
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0025280639299568,0.0030646475761787,0.0020517440031118
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.002428230575788,0.0029508962399211,0.0019658352166878
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0024774770018261,0.0030179836166739,0.002009202482667
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,248.00741377967,300.97693605002,201.2673182376
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,239.92301073207,291.67756565334,194.20030665214
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,243.91673009278,297.12742674868,197.83124168856
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030011099274972,0.0035987781459309,0.0024536597627717
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024433760999824,0.0029400143230711,0.0019965422965615
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027260973918812,0.0032790427940966,0.0022278134627671
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,297.11163111716,356.37859810539,242.92091403727
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,242.72898207596,292.12067482381,198.30720811852
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,270.34450123221,325.04063219026,220.90391872892
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0030020674373836,0.0035999174088798,0.0024540211853458
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0024428338459485,0.0029403168938491,0.00199464687658
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0027262287930742,0.0032771667380842,0.0022259946903114
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,297.08679231522,356.38838416926995,242.8496812879
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,242.63319487,292.09380257767,198.07780370754
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,270.27935026642,324.76908444256,220.64764169076005
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0030028735885519,0.0036006315889801,0.0024543314547553
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0024424497852638,0.0029406854134327,0.0019929943818539
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0027263073104243,0.0032753331686345,0.0022241489379577
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,297.03825543257,356.32241692166,242.76641161766
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,242.54460383144,292.06292381811,197.86513917327
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,270.20027548706,324.49608651252,220.38149557689
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.003003497772423,0.0036006620234154,0.0024545515399453
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.002442210305577,0.0029390348313585,0.0019914373448948
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0027263095297525,0.0032734042064435,0.0022223569114198
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,296.97218780415,355.96799612331,242.67580435962003
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,242.47086790219,291.85459450963003,197.66084817548
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,270.11415274583,324.21952266479,220.11225065034
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0030038626501404,0.0035983400309333,0.0024545766512203
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0024421664717981,0.0029375647490292,0.0019900702255117
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.002726230977479,0.0032724436613474,0.0022214134427222
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,296.88264121931,355.57102878953003,242.56782213788
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,242.41835259631,291.56101694771,197.4777413213
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,270.02197119298,324.15685043484,219.8987974498
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0030038852458586,0.0036000582642127,0.0024550593625323
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0024423618410481,0.0029342718170437,0.0019889536813093
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0027260685245542,0.0032720501689624,0.0022203652398685
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,296.76637750711,355.74745743159,242.53681253391
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,242.39295013526,291.17889933092,197.32241054117003
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,269.92655148091,324.09382996696,219.71750165003
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0030036652381382,0.0036005851190349,0.0024547456464141
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0024426492270082,0.0029345173496157,0.0019877133029287
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0027257963330576,0.0032702188134806,0.0022208747530766
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,296.61214813092,355.65467949342,242.35242403485
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,242.37006084257,291.24793161356,197.15256596744
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,269.81010986899,323.85473261182,219.68212756063
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0030034101808219,0.0036011365611295,0.0024551806212791
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0024429118494688,0.0029322392631998,0.0019863648400639
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0027254654838846,0.0032710496630222,0.0022214151983046
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,296.42084289586,355.67190688262,242.2363612796
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,242.33082634446,290.94965587844,196.96181861599
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,269.66463933742,323.758581874,219.62982245305
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0030030736536163,0.0036107304043671,0.0024555708773855
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0024431837048052,0.0029322152201535,0.0019848036343472
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0027250875767888,0.0032733331472093,0.0022219052811718
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,296.21152629861,356.30100624545,242.10616753114
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,242.2882963965,290.72812509044,196.74555449493
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,269.50753353239,323.84817012896,219.56771150848
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0030027594007777,0.003620663030398,0.0024545491661039
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0024435790477969,0.0029318488032405,0.0019832957842648
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0027247866319698,0.0032758301787976,0.002222437765903
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,296.01238145877,356.89411653189,241.85666395823
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,242.25993734698,290.60375418431,196.53484741383
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,269.36273990111,323.95098277353,219.51343421693
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0030025372501124,0.0036224911483053,0.0024509712953611
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.002444238050761,0.0029311458315521,0.0019831872736738
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0027246708757814,0.0032771016817732,0.0022230836775481
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,295.84809160973,356.73233448975003,241.3627908223
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,242.26394040775,290.40787858252,196.42567068209
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,269.25159177840004,323.8106775378,219.48433280812
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.003002610643234,0.0036179681435596,0.002455205265279
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0024455123737189,0.0029336529755975,0.0019850854184869
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0027250105447918,0.0032745653456642,0.0022229290299463
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,295.68501284022,356.21758946489,241.63892363139
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,242.31268685456,290.56358351276003,196.55329874858
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,269.16367698032,323.45706083705,219.37361967543
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0030031943918593,0.0036145212039511,0.0024558850857301
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0024475196385731,0.0029372208123277,0.0019876283465929
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0027259772531051,0.0032719468421984,0.0022232973763023
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,295.48859058121,355.18782313681,241.46659281506
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,242.39332359247,290.77170737998,196.70957320817
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,269.07677167934,323.04720107673,219.26047892574
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0030042213243398,0.0036119467009135,0.002456274921732
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0024498754021131,0.0029390572758692,0.0019903979488983
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0027273511860815,0.0032697410018557,0.0022239571777521
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,295.28688772457,354.63583848763,241.23046575043
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,242.48533195503,290.83237862989,196.86810774845
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,268.99484797502,322.51829684944,219.14467014366
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0030055265552113,0.0036069286004237,0.0024563401529523
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0024521534783026,0.0029400431013336,0.0019929811817605
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0027288415751734,0.0032695473271594,0.0022246325756867
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,295.10582632265,354.12810212545,240.90619797092
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,242.56878526469,290.75257019500003,197.00811796943
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,268.92093415024,322.08384842211,219.02843936177
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0030068572811076,0.0036023924316182,0.0024556551622712
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0024538783116921,0.002941735590379,0.0019949776801051
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.002730093270447,0.0032691002953595,0.0022250345805086
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,294.96575472132,353.40043779558005,240.61854896359
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,242.62321731883,290.69945442712003,197.11262907684
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,268.8554581178,321.78581066775,218.91527927048
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0030088633914396,0.0036063106622772,0.0024565423962723
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0024551434842503,0.0029457331805535,0.001995042775464
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0027314729646565,0.003270271031744,0.0022249511183623
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,294.88167731547,353.49704375531,240.46688749209
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,242.63466115696,291.01277679969,197.06044605079
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,268.79930457039,321.65226222387,218.74498693906
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0030121868151141,0.0036120008103917,0.002458659625562
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0024565321440717,0.0029476594166555,0.0019985780877422
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0027335657965376,0.0032721991385568,0.0022256663862399
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,294.85015309512,353.22515856816,240.46103174872
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,242.62887699371,291.10127850044,197.29271613451
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,268.76199358196,321.67184151984,218.68425521673
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0030164006668263,0.0036137866209268,0.0024623938226035
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0024582480708422,0.0029506123208324,0.0020023736156282
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0027362589185756,0.0032761731022957,0.0022280200448768
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,294.86807544924,352.95523684513,240.49576181954
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,242.64351974243,291.20157458237003,197.5415126685
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,268.75991340541,321.83668587756,218.70840640006
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.003021078437458,0.0036158195512512,0.0024663528387023
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0024605603894209,0.0029541689690338,0.0020063495268617
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.002739490472316,0.0032816208637481,0.0022308637231001
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,294.93302508228,352.70985902959,240.5584277038
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,242.71485989025,291.29453498757,197.82564158757
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,268.81049120894,322.06065594628,218.78121420909
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0030255414589056,0.0036172146334299,0.0024700786609643
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0024635467653376,0.0029585227588657,0.0020106617885399
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0027429716483071,0.0032874262957505,0.0022339421600615
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,295.04271319887,352.48463255842,240.65644504977
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,242.87735364659,291.5316019925,198.15143514339
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,268.92955834196,322.36007380567,218.91426089307
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0030342039148781,0.0036311879241637,0.0024743324440704
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0024723052852906,0.0029681652332903,0.0020170709492446
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0027514631636164,0.0032948572745238,0.0022395818627834
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,295.58834556478,353.52552793633,240.84657507099
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,243.60716283221,292.32493873146,198.67381663173
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,269.55118128628,322.83584701389003,219.30455675754
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0030491540780041,0.0036524820358601,0.0024868103458308
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0024885103433234,0.0029862301710299,0.002029005232581
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0027668435924587,0.0033117257162961,0.0022529519290174
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,296.70097227157,355.23600114964,241.66338160687
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,245.03721176242,293.95826222059003,199.70222061171
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,270.80832404761,324.15139419267,220.27699002932
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0030660794000781,0.0036734768629602,0.0025016136526473
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0025071778689639,0.0030069851484229,0.002042429855644
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0027844706298456,0.0033341474172502,0.0022698475332266
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,297.98465645881004,357.03369620625,242.80079984151
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,246.69374066275,295.81184068059,200.8844424115
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,272.26677831422,325.82326265156,221.70813537773
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0030806114244852,0.0036917382575209,0.0025141605723244
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.002523386023992,0.0030250432313368,0.0020588459093147
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0027996969088765,0.0033537725531728,0.0022845742743385
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,299.04283061812,358.37317571741,243.73695970785
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,248.11300935229,297.53560770734,202.27279841569
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,273.496231287,327.32507126025,222.92927402144
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.003088429169116,0.0037025046619141,0.0025207481716099
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0025322495037995,0.00303886306963,0.0020692942593845
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0028079132910845,0.003365209989921,0.0022931503441049
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,299.48894005521,358.98665064532,244.11240006948
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,248.84075112611,298.6863942002,203.18159835665
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,274.07586102869,328.16329685327,223.57921711635
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0030898553048913,0.0037060373888524,0.002520024071429
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0025353905185452,0.0030434666418715,0.0020703348363319
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0028100840800194,0.0033717147685554,0.0022931036066946
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,299.32253463724,358.45167755523,243.77485528208
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,249.03086817629003,298.87672057945,203.18058554709
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,274.08214303116,328.55957067421,223.39363238405
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0030891732392575,0.0037076838546619,0.0025175087981175
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0025377227761147,0.0030449621743759,0.0020704674041399
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0028107987627129,0.003376657778656,0.002291840494795
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,298.92488928084,358.22342911928,243.22949360172
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,249.14438019091003,298.75061030379,203.11775728916
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,273.935372627,328.61252342134,223.08188624408
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0030881120677403,0.0037056355459459,0.0025145873812724
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0025394119860634,0.0030458078434349,0.0020683878812183
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0028109887825571,0.003376798657436,0.0022902192581355
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,298.49938229103,357.80449620509,242.66366266211
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,249.20227189209,298.70281851225,202.83392866803
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,273.74566260745,328.38181266348,222.74436564587
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0030880944114618,0.003696497588477,0.0025125977269417
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0025404612892011,0.003045861829337,0.002066066521382
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0028113784724741,0.0033769918816526,0.0022888903508813
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,298.23672065531,357.07769326871,242.29344683092
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,249.2139850947,298.59749067869,202.52904322544
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,273.61314511867,328.24212434007,222.48719903574
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0030905601997922,0.0037049571990186,0.0025264091893754
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0025316302128272,0.0030494963207568,0.0020623471407999
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0028080503617722,0.0033762065314203,0.0022909979578104
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,298.47223371491,357.85182990718,243.98138793804
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,248.35836115373,298.94671253941,202.14251313001
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,273.29352483139,328.21675805267,222.77684405143
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0030880633529353,0.0037046190324651,0.0025351422904106
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0025399381306926,0.0030497868617765,0.0020757052333908
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0028107823751363,0.003374534689007,0.0023045847199672
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,298.03700510560003,357.329564051,244.78087009638
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,249.10523107876003,299.14255456147,203.39824609963
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,273.43191943922,328.21973919460004,224.01883068613
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0033442637400844,0.0039418029193672,0.0027997264516974
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030848116389575,0.0036445158864445,0.0025767078153388
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0032184967604406,0.0037835899671817,0.0026907273341466
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,307.33589820857003,361.26959259122,256.25596336362
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,291.63052707121,343.96543946956,243.09675368257
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,299.92509585195,353.06159728734,249.93524561964
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.003351050212841,0.0039455308743343,0.0028088396732407
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0030897728201158,0.003648320251211,0.0025812180556659
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0032244172769404,0.0037908988445657,0.002697947545285
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,307.58189904422,361.5606929823901,256.53861667201
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,291.85650922711,343.93641100724,243.32421673294
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,300.16553854654,353.20216953363,250.18481227973
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0033567785300583,0.0039478624667349,0.002816863137447
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.003093890360375,0.0036454100264092,0.0025849960024131
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0032293705393632,0.003799309311953,0.0027041923076891
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,307.72809897817,361.8261447111,256.83211332523
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,292.00328944781,344.35284988864,243.48284742524
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,300.31521250645,353.45012029453,250.44792935357
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0033615020368158,0.0039507719109527,0.0028234146842518
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0030972049385097,0.0036450534785471,0.0025881375687361
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.003233394921797,0.0038065460830057,0.002709600591033
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,307.79594017513,362.07950136658,257.15634761779
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,292.09073011083,344.72106266135,243.59423937791
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,300.39399758501,353.7772575954,250.69401310676
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0033656790788543,0.0039564942800632,0.00282913584893
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0031001666063815,0.0036476028069677,0.0025913438022059
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.003236944482466,0.0038130550364473,0.0027146479931738
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,307.83613821693,362.17281189443,257.45876934735
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,292.16978622510004,344.76067086471,243.70591585323
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,300.45267951109,354.05574608869,250.92645384486
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0033692105097301,0.0039611201118379,0.0028335985775075
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0031025761796556,0.0036496115895284,0.0025944371153407
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0032398689007268,0.0038185101376455,0.0027192411425624
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,307.85738322441,362.23924810523,257.75156609494
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,292.23706165282,344.75432321115,243.8184220968
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,300.49384563925,354.28893974778,251.15011294858
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0033700844250062,0.0039611108549683,0.0028317989935363
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0031041762774385,0.0036503687796471,0.0025945601011353
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0032410650823825,0.0038180490564963,0.0027159573916281
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,307.57628635221,361.74267019419,257.02568657535
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,292.22949070835,344.62926031445,243.75811026851
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,300.34575679553,353.94362048973,250.63808983078
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0033681303607736,0.003957475316244,0.0028245191344868
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0031049998144682,0.0036505952877478,0.002594947734067
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0032404563739712,0.0038153386024996,0.0027112997289617
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,306.92134439464,360.86873343516,255.99563417987
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,292.12090599885,344.40721125658,243.62971309058003
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,299.95921080896,353.30496790298,250.01423285025
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0033651995445915,0.003952357954238,0.0028164909017622
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0031053682302927,0.0036520772504847,0.0025949336979889
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0032391293288491,0.0038116072528536,0.0027063334631261
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,306.14357065635,360.26616065568,255.21135806303
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,291.96359251644,344.0958947222,243.46300590490003
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,299.48631069686,352.55064180987,249.51147827839
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0033634747967159,0.0039485437788292,0.0028103401816151
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0031057544212412,0.0036565071733261,0.0025947681026165
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0032383901501346,0.003808400712205,0.0027043790904541
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,305.52971630929,359.84759331334,254.57778399119
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,291.82802240749,343.62632138305,243.30446862733
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,299.10506118962,351.89362645395,249.0945674414
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0033647443269115,0.0039528228018558,0.0028097438263268
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0031065471347136,0.003659777645389,0.0025946645491839
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0032393431478159,0.0038072695729456,0.0027038808319586
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,305.32344871955,359.90864559707995,254.29504806646
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,291.76468581106,343.43145036528,243.18323407949
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,298.9641010337,351.52885895721,248.88232711607
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0033711429668099,0.0039560851480088,0.0028175271282382
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0031073486094338,0.0036595595144652,0.0025964544929781
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0032428361271633,0.0038119212271868,0.002708352337212
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,305.62557026639,359.73387181439,254.76066386381
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,291.69172441672004,343.203842017,243.23146408076
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,299.07331016725,351.70676372971,249.10941066444
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0033822144548629,0.0039691621669857,0.0028294161401151
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.003107844630018,0.0036587509061603,0.0025980055800846
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0032484638014717,0.0038189578128619,0.0027148054020145
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,306.26421225635,359.92400184774,255.52419024968
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,291.54020909084,342.94048866192,243.21385415547
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,299.31125463659,352.01946843406,249.46063002056
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0033958089151768,0.0039884443990602,0.0028434623956769
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0031085721964785,0.0036582778927196,0.0025998316452055
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.003255457407712,0.0038277594400916,0.002722548760289
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,307.1039821931,360.8311488767,256.46352533554
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,291.39648362847004,342.76500019772,243.20983726745
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,299.65479431198,352.44641893665,249.91545387762
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.003409140642976,0.0040077937042577,0.0028565627955923
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.003109943291537,0.0036588741347337,0.0026022323817926
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0032626759236868,0.0038368841149229,0.002730438079305
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,307.95764621277,361.86805445602,257.40122900407
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,291.33649786872,342.71942933935003,243.27923349454
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,300.04951931060003,352.94266680333,250.41122586278
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0034196721992219,0.0040241832310043,0.0028642365769875
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0031123368340286,0.0036593515843031,0.002605228873494
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0032690676206165,0.0038452754996979,0.0027352285709587
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,308.66614442277,362.7593690777,258.19816670233
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,291.43458840397,342.79500014291,243.47649587416
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,300.45290805037,353.47599863829,250.90165843284
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0034320545549663,0.0040359011050549,0.0028750098572124
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0031201798681279,0.0036703990892124,0.0026128700069883
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0032792715318709,0.0038552473932996,0.0027447640332764
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,309.62851757731,363.84834584589,259.02744388136
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,292.10813135002,343.53853087403,244.11416719503
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,301.28102106695,354.24489917678,251.58932903512
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0034491226374703,0.0040535604025092,0.0028894089261145
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0031343681471763,0.0036897568908036,0.002625617312877
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0032951560671788,0.0038720790409523,0.0027589494169716
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,311.02660067993,365.51512042736,260.19206070131
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,293.40622866072,345.15282916852,245.27108141196
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,302.65082670461,355.68915243133,252.72220267896
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0034662250321698,0.004071549937992,0.0029038091675319
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0031504445839451,0.0037113292211367,0.002640033750714
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0033121370111991,0.0038903088451689,0.0027739057689159
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,312.45015031887,366.96308523572,261.35460858063
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,294.90196311391,346.91371327282,246.600391096
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,304.14090377025,357.29586378459,253.95390864944
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0034799322424192,0.0040899390114444,0.0029156606059139
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.003164220288965,0.0037296515938925,0.0026526239534489
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0033262024099918,0.0039049022083061,0.0027858849184964
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,313.58843298786,368.08795921691,262.28416069085
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,296.1906317761,348.14734595949,247.76634027797
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,305.37904405346,358.5761695249,254.98483026359
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0034864156179318,0.0040988547161834,0.0029219129761364
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0031714257184947,0.0037355004485372,0.0026597832825665
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0033331194409827,0.0039108671447348,0.0027919633370653
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,314.09320602576,368.66637730959,262.71161954836
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,296.85558826588,348.67538576927,248.41333911342
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,305.96940009348,359.03765671,255.48219895318
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0034812610005131,0.004096776014326,0.0029157835775249
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0031729559367721,0.0037411291638151,0.0026605792428944
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0033313524438562,0.0039144756753654,0.002788340957941
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,313.62793743563,368.125678564,262.07731708634003
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,296.98192968317,349.18180827469,248.44968905603
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,305.79744500295,359.26063804321,255.08070854062
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0034663299858449,0.0040833822048724,0.0029028339918005
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.003172634626788,0.0037445149854541,0.0026596234198454
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0033237699088207,0.0039118301244548,0.0027802815504812
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,312.34707823345,367.06265913782,260.70279397575
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,296.92662189714,349.52422575232004,248.30975136061
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,305.11919577013003,358.90127706165,254.31467850458
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0034464442451903,0.0040641976502527,0.0028852293826216
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0031710354964832,0.0037440451152961,0.0026570721843568
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0033130563962022,0.0039056668038216,0.0027681339475169
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,310.64039309857003,365.58866357658,259.4779811018
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,296.75138730039,349.72791198553,248.05559415028
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,304.16361325203,358.21337219044,253.55265566617
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0034263367161787,0.0040448964042586,0.0028654026740657
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0031688409703861,0.0037428438306744,0.0026532437781009
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0033019073713383,0.0038988178671446,0.0027557449963044
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,308.89351372648,364.06243375436,258.26267703313
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,296.52652262485,349.85849989461,247.71956461874
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,303.16139004952,357.45736413041,252.75774330825
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0034103957822065,0.0040304633466415,0.0028489103681148
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0031664851120204,0.0037412507437206,0.0026498534504978
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0032927326315331,0.003893851302981,0.002745869559852
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,307.46137802571,362.88333977772,256.72438594341
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,296.29802449085,349.78338665467,247.37423793253
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,302.31625089048,356.89719983863,251.99709153339
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0033902224552592,0.0040051136039824,0.0028268891315964
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0031566236782945,0.0037264521343648,0.0026410430489708
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0032776420047964,0.0038714890349464,0.0027299501105576
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,305.64764718854,360.9681973446,254.77929427162
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,295.40251711696,348.56890999386,246.64088761427
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,300.94599018342,355.29779776897004,250.55531900653
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0033609102839187,0.0039699054413092,0.0027972104509391
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0031374318013592,0.0037004229837618,0.0026226377408348
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0032532642807168,0.0038403974934881,0.0027062704609224
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,303.06888674816,358.3858568675,252.15220720041
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,293.67644164623,346.65033462908,245.20950102279
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,298.77412881079,352.84256102782,248.4475310376
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0033326375630032,0.0039400308549316,0.0027687252821428
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0031184642645094,0.0036756040142156,0.0026045860219892
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0032295188071591,0.0038125512797979,0.0026832652562526
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,300.61902409002,356.33217286092,249.65832256993
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,291.99432836107,344.76244037805003,243.70408616537
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,296.68986481233003,350.48550762915,246.4306153535
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0033153204289966,0.0039276148097787,0.0027498737681627
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0031092113219577,0.0036671445592209,0.0025948165899594
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0032161525861845,0.0037960765659553,0.0026690770169542
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,299.1728440411,355.35745130236995,248.04359997714
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,291.22875798338,343.945730472,242.90677761636
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,295.57064418378,349.19054471709,245.23447828888
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0033016178260394,0.0038954632558078,0.0027434355032316
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0031219238164072,0.0036865419778916,0.002604635959669
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0032156200813512,0.0037893670169966,0.0026696390858848
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,298.80633312871004,352.72694203143,248.34019155483
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,293.28160106176,346.20182246246003,244.59896093045
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,296.38949112369,349.30564945134,246.06154696774
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0033038333036504,0.0039049516869072,0.0027611482516701
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0031193653126145,0.003660524151977,0.0026086489627685
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0032153687105837,0.0037860385833122,0.0026863695652278
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,299.10180086527,353.66323345038,249.86879773339
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,293.10707519229,343.4844933147,244.35014407277
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,296.44747376432,349.29837123288,247.61481876197
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028658222939151,0.0033079892007252,0.002452740350502
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026499525986719,0.0030591764840672,0.0022740845617221
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027571324597318,0.0031821751783987,0.002359748209041
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,274.25120983225,316.1925936859,234.18753132051
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,257.20670496663,297.13651329246,220.6744778903
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,265.68976324028,306.33557327251,227.19200787516
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0028747820058864,0.0033191658644682,0.002461912575197
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0026570454663939,0.0030681376326636,0.00227903171181
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0027652588718873,0.0031929735054199,0.0023664197339959
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,274.77220560524,316.67889554676,234.8003602716
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,257.70458903146,297.35948185460995,221.03635738424
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,266.20985498725,306.89849148396,227.61436437992
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0028833756512267,0.003328793386769,0.0024709104787935
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0026635529977041,0.0030741164303513,0.0022833992759399
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0027728788741397,0.0032032627161037,0.0023725562170935
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,275.22922799658,317.10183629753,235.55103785886
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,258.13047860782,297.9323704281,221.28272413481
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,266.65930572241,307.49310154767,227.96790627614
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0028922772550887,0.0033355669521712,0.0024786445049784
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0026700909320294,0.0030814721731307,0.0022877933928539
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0027806265348387,0.0032137249626214,0.0023805542333748
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,275.69799644382,317.5339617791,236.3108508996
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,258.55086081835,298.63998008672,221.52095436493
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,267.10828950586,308.08765991727,228.47962403282
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.002901757907116,0.0033426350039854,0.0024867991562593
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0026767903765369,0.003089131756707,0.0022923250354291
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0027887159140222,0.0032245850378976,0.0023885067707694
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,276.2200006119,317.94805792083,236.87562470169
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,258.98922434952,299.08512593671,221.77181669156
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,267.59058312006,308.7188581297,229.03804610959
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0029109572507276,0.003350306268578,0.0024961631101611
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.002683045600524,0.0030935758230777,0.0022964925004528
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0027964213652693,0.0032338089393964,0.0023950532403941
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,276.73641070131,318.29321529566,237.40955097949
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,259.4042933508,299.34361897262,221.99573860932003
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,268.05652255589,309.29132199336,229.51507695095
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0029202435478046,0.0033609201113089,0.0025027319183402
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0026887047932535,0.0030964760620357,0.0023039481608537
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0028038613735199,0.0032394522769062,0.0024025212030004
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,277.15559261178,318.7323074243,237.54585637891
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,259.73141656214,299.26390972454004,222.38444012265
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,268.42935453128,309.52085019853,229.81399361898
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0029300676513959,0.0033723024361119,0.0025111248383546
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0026938599237053,0.0030959743474654,0.0023092290528408
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0028113008349278,0.0032448044260188,0.0024082826628132
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,277.43315631879,319.06608634839,237.69277156527
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,259.94675188079003,298.89098777858,222.63108946702
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,268.67477028855,309.53782307218,229.95585700483
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0029403169108284,0.0033840856292172,0.0025198444549727
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0026989118563863,0.0030976218584948,0.0023145858678044
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0028188930352585,0.0032501205404324,0.0024145219229164
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,277.67074530434,319.40076023723003,237.91327215364
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,260.13853539789,298.50316118997,222.86276420344
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,268.88795635475,309.50762686202,230.05881546451
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0029504814538997,0.0033956853281532,0.0025285759627551
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002703961511488,0.0031010125919052,0.0023200499229148
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0028264539300142,0.0032553490569966,0.0024226785255488
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,277.95089176543,319.94772491691,238.18564473723
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,260.36426452917,298.54548122279004,223.12948284515
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,269.14006272291,309.51453646641,230.2999585875
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0029596693578576,0.0034065762558603,0.0025366325382814
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0027089477126775,0.0031053779743973,0.0023298882714476
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0028335187022579,0.0032602068193231,0.0024305638136125
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,278.31936673411,320.60657589927,238.54907850851
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,260.64896477287,298.97915578554,224.00315316648
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,269.46660844187,309.69740688759,230.79090475142
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0029676582497593,0.0034158172009076,0.0025478480236921
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0027139440768673,0.0031114605717192,0.0023316031345418
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0028400200269244,0.0032654199479597,0.0024373320115437
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,278.68913235511,320.84910072373003,239.27026548726
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,260.96084782167,299.26198127497,224.00153627169
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,269.80882821783,310.00594638651995,231.180306862
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0029753894175345,0.003425251106099,0.0025591831117819
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0027192789361018,0.0031179131084805,0.002337746292935
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.002846566809413,0.0032705957519167,0.0024467206540955
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,278.98871164405,321.00570909374,239.9686254533
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,261.27281943022,299.6886236853,224.28481923135
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,270.11595465445,310.2814786412,231.75110353373
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0029834350937996,0.0034309774976045,0.0025711538447788
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0027251145917644,0.0031245549200117,0.0023441060997617
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0028535185837814,0.003276174282719,0.002457278594086
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,279.30832170937,320.98477171026,240.71846625163
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,261.62380016514,300.22139026488,224.69724589169
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,270.45206772911,310.5870477177,232.43809371816
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0029918794837106,0.0034355673147494,0.0025836555836124
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0027312776364771,0.0031346768800386,0.0023518224057059
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0028608430576407,0.0032837714354261,0.0024682023667764
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,279.6945791206,320.94867447297,241.37633186699
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,262.02009505339,300.78486594949004,225.25491964092
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,270.8448106323,310.96454944108,233.17810917783
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0030008619342338,0.0034408925148221,0.0025965307806856
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0027373728833947,0.0031433275717319,0.0023594615771493
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0028684025416944,0.0032915767500182,0.0024791702309936
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,280.19610994132,321.08445600019,241.98451916892
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,262.44687452452,301.03589629951,226.09205338273
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,271.31052005313,311.42170887871,233.97181001697
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0030148794268467,0.0034602719707816,0.0026049161861409
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0027458976062536,0.0031512025279234,0.0023656605291706
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0028796930886835,0.003308150093773,0.0024868504475753
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,281.19052003303,322.64435695613,242.81310781113
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,263.11419194399,302.05073803778,226.48874591164
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,272.14428996192,312.68971637728,234.72016458033
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0030353151787222,0.0034883006082869,0.0026227108732874
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0027579915982088,0.0031630480768026,0.0023746822058333
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0028959732680336,0.0033304279840147,0.0024980734146899
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,282.74891798659,324.87947815609,244.00134076435
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,264.09254268343,302.93914114138,227.13465229554
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,273.41690169578,314.47350688673,235.82263275549
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0030578495027875,0.0035186204866431,0.0026421924260523
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0027712122004638,0.0031806903038178,0.0023859819610418
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0029138553387529,0.0033540046214639,0.0025104993076543
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,284.50729331631,327.19617829901,245.31895230746
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,265.16848978642,304.18521943713,228.09842287314
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,274.83789902057003,316.17063350269,236.76173593434
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0030779228064529,0.003545960495971,0.0026580052372989
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0027831266553461,0.0031996470806395,0.0023975679329613
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0029298601816222,0.0033730634334654,0.002521216132421
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,286.07787209857,329.20779286889,246.42054835348
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,266.13089187095,305.79480280662,229.0120998955
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,276.10809586379,317.69645558971,237.55684854073
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0030909203771885,0.0035650929635093,0.002668439922136
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0027910863279103,0.0032139797621167,0.0024058528813725
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0029403686219644,0.0033858399364696,0.0025301243044519
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,287.07256349169995,330.54934942106,247.22523009458
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,266.75178052196003,307.01234144872,229.63412051815
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,276.91929388552,318.70066859166,237.96841896869
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0030971723663449,0.0035695207260674,0.0026718209876387
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0027954473690809,0.0032195580349044,0.0024093347133675
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0029457303312895,0.0033930005207093,0.0025346402112886
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,287.48149527916,331.21586742731,247.39351413789
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,267.00284179404,307.41188736211,229.73463584217
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,277.25263679612,319.29388959672,238.36113711305
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0031012958040504,0.0035718771886077,0.0026711305957882
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0027989410792238,0.0032195659315173,0.0024108411326102
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0029496230513943,0.0033968790624629,0.0025377933029623
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,287.65485046128,331.28222036032,247.50089021449
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,267.09228224842,307.67460662331,229.66464928651
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,277.38851692483,319.60791725162,238.5685883498
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0031045327947392,0.0035755302023925,0.0026684813926418
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0028020265830201,0.003221208304122,0.0024118923331311
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0029528973991733,0.0034012855303882,0.0025405424770539
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,287.73303509096,331.1437845914,247.48170908022
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,267.11598691806,307.36387409918,229.52215046261
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,277.44552759649,319.50721559560003,238.30747529298
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0031077961223379,0.0035829114217247,0.0026691790456798
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0028049965315793,0.0032253876204055,0.0024115115270021
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0029561623988273,0.0034060137360729,0.0025430709406456
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,287.83612432898,331.01995649022,247.24944393765
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,267.16840496321004,307.19777683642,229.4343321079
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,277.53222133303,319.46280432156,238.24807484781
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0031124836768764,0.0035916507888265,0.0026758619167655
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.00280839381632,0.0032346266214075,0.0024128563781194
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0029603793261365,0.0034119882430063,0.0025467892534141
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,288.09251286236,331.60557344606,247.09943337808
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,267.34846136028,307.62077544175,229.58968761099
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,277.76250418986,319.83947680786,238.45154924118
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0031212995504774,0.0036002058753093,0.0026797819378458
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0028147373906301,0.0032379830859223,0.002421840015121
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0029681421519167,0.0034210310988778,0.0025527621493014
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,288.77738149997,332.2968652258,247.67205151294
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,267.96147975381,307.72494343121,230.29830067875
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,278.42537762198,320.46207741705,238.94504347061
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0031353942991047,0.0036149425022973,0.0026909944600156
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0028256055698464,0.003248435506936,0.0024314594593584
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0029808172021472,0.0034338042487007,0.0025627565200225
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,289.99452316579,333.60476771523,248.87381417587
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,269.12546892835,309.31380125917,231.33460277741
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,279.63144088907,321.86849978643,239.89366993664
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0031535234629887,0.003638898348009,0.0027093310720262
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0028400105289619,0.0032664579929479,0.0024434889781779
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0029972931086574,0.0034493526899846,0.0025759081285443
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,291.61127495081,335.39484426974,250.42014320456
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,270.64315202643,311.31940583206,232.63349659578
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,281.21601915573,323.72277456878004,241.15586863682
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0031747214776771,0.0036681234996757,0.0027343318230415
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.002857285832411,0.003283158749969,0.0024595596642817
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0030167611244798,0.0034710935904533,0.0025916129010189
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,293.50505194243,338.1206824961,252.73595617762
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,272.33984231616,313.23169517397,234.15251930405
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,283.031041276,325.42821205299003,242.62380171343
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0032167597983748,0.0037079875574635,0.0027682501450047
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0028918101623964,0.0033322663823667,0.0024883450726101
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0030552959682224,0.0035227654868735,0.0026320543461787
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,297.46315302628,343.01013825155,255.88189397555
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,275.72372768036,318.11012936291,237.19314190157
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,286.72549908408,330.67676397233,246.92355997608
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0032096853091163,0.0037077642880012,0.002770344735987
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0028960329033528,0.0033287165904326,0.00248076361269
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0030540562804869,0.0035115631189427,0.0026269494514999
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,296.87661897530995,340.66639300032,255.94005267636
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,276.15131092446,317.81959383889,236.42867044273
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,286.65309735754,329.24778529188995,246.56555901005
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.00299836412572,0.0035247401078246,0.0025165151138344
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026441850063544,0.0031244756935588,0.0022091331641586
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028242140482847,0.0033215239130768,0.0023668828175442
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,292.68646528487,344.17068500094,245.61441593791
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,260.2536659112,307.84548865536,217.26600569247
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,276.80819561581,325.85354613618,231.87046362316
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0030021810851949,0.0035293049599918,0.0025191826549883
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0026412764443357,0.0031170441411068,0.0022079686787843
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1991,0.0028245829318921,0.0033197368340702,0.0023663848437278
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1991,292.74461127893,344.26122312915004,245.66308077506
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1991,259.8311232515,307.15888284518,217.05309921615
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,276.62116690701,325.29734952758,231.64631451184
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0030056076938089,0.0035334857662325,0.0025218831873155
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0026386809384728,0.0031087574506666,0.0022056355765525
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1992,0.0028248942524408,0.0033179628665816,0.0023658008965646
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1992,292.7502650871,344.2980979248,245.66399574567
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1992,259.43288373631003,305.86666046318004,216.68084514975
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,276.41817589091,324.82960136455,231.40038667941
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0030087036725635,0.0035372929663383,0.002524289140599
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.0026366008856075,0.0030974938128111,0.0022027153097697
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1993,0.002825279797973,0.0033171855680262,0.0023652516222568
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1993,292.71877510185,344.29358666207,245.63475645795
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1993,259.08390152926,304.57441022301,216.29098708098
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,276.2194572855,324.47297441993,231.15374589275
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0030114407773954,0.0035409065323531,0.0025263053831138
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0026350223294868,0.0030934231451098,0.0022000848200469
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1994,0.0028257152210617,0.0033192911055053,0.0023646661380179
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1994,292.66160312295,344.27483897914,245.57781998275
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1994,258.78724700472003,303.96776820176,215.93132191871
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,276.03177289317,324.14236919965,230.90991805433
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0030135450471468,0.0035439470476827,0.002527644518849
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0026337490237031,0.0030969747725588,0.0021975450298699
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1995,0.0028259642553121,0.0033196230559349,0.0023638083483551
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1995,292.56611697698,344.22530513699,245.4783311094
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1995,258.53198271329,304.18120988353,215.58975571371
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,275.84307877704003,323.9194101152,230.65503359571
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0030160846383353,0.0035478420970128,0.0025267705903382
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0026336640755608,0.0030997184347551,0.0021964219882819
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1996,0.0028269722887981,0.0033202136038447,0.0023632248981181
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1996,292.41750771919,343.87789490034004,245.06369040698
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1996,258.35655969524004,304.20837810138,215.34493997038
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,275.66340126468,323.93302691721,230.30387280044
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0030197268942837,0.0035532642372617,0.0025277239760333
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0026350403430621,0.0031029119703264,0.0021964697091068
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1997,0.0028292228263342,0.0033276864523032,0.0023636037088862
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1997,292.20816299516,343.40773914942,244.59641875411
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1997,258.26242417694,304.14313575724,215.1691880036
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,275.49180017557995,323.97035121285,230.03342895554
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0030238042633288,0.003558053845025,0.0025291576248342
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.002637051375745,0.0031086552285379,0.002197115289603
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1998,0.0028319932081743,0.003336368647694,0.0023644093740644
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1998,291.97921868657,342.93603510253,244.12601157501
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1998,258.21867520727,304.43587483812,215.04446392878
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,275.33495520457,324.01920356934,229.78076249607005
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0030275465935782,0.0035623838540569,0.0025302181383339
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.002638747656218,0.0031131785419164,0.0021976300943653
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1999,0.0028344445295736,0.003343680204642,0.0023649731006428
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1999,291.77184740709,342.66298817425,243.79694096877
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1999,258.17689709515,304.66856658357,214.93311697977
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,275.19024692939,324.11566386516,229.5429884026
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0030299094833835,0.0035689413072884,0.0025301496317681
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0026391097067469,0.0031164688291213,0.0021972000383553
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2000,0.0028355641166978,0.0033481561237615,0.00236452258263
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2000,291.61286233518,342.80710279825,243.50600791023
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2000,258.07720460186,304.82013887426,214.78458254217
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,275.04167407952,324.22703006114,229.30641733748
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0030310567989954,0.0035698110804761,0.0025301075204261
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0026386522144729,0.0031194776493829,0.0021961593659275
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2001,0.0028356778341406,0.0033508889332161,0.0023637807013499
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2001,291.44460107652003,342.50764286868,243.25370515011
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2001,257.9344742567,304.97645793472,214.58996743349
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,274.86703289104,324.24551759194003,229.06620263533
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.0030319894238951,0.0035766255981473,0.0025305481598105
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.002638410328475,0.0031229704101533,0.0021954973214884
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2002,0.00283579010104,0.0033538679995333,0.0023632008410612
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2002,291.21937768587003,342.73783412308,243.07579666044
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2002,257.79607538095,305.13636162145,214.4173189777
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,274.66622979918003,324.25668958095,228.81962410558
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0030330947851772,0.0035838541276037,0.0025324398493224
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.002638426654194,0.0031246153922622,0.0021951266074567
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2003,0.0028361182878388,0.003357534375506,0.0023629145111232
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2003,291.00268542769,342.9971925156,242.96991043395
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2003,257.67752751292,305.26538485295,214.26829102112
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,274.47983132244,324.31463847589,228.59534510644
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0030346531482995,0.0035915386477923,0.0025347484502679
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0026385220899381,0.003122179631289,0.0021947390786366
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2004,0.0028367242212451,0.0033585809149451,0.0023640594555971
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2004,290.85092692181,343.32791633978,242.92009346619
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2004,257.577662382,304.94411214797,214.12761083983
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,274.33639449681,324.45749659989,228.53757480496003
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0030371011628589,0.0035977553618993,0.0025377370286962
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0026386460636079,0.0031203535176086,0.0021944712314938
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2005,0.0028378011074101,0.0033588404129908,0.002365992784083
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2005,290.81718609123,343.74708803956,242.9619513171
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2005,257.4868407037,304.66002859146,213.98978457202
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,274.2575697533,324.62107440321,228.55899881036
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0030422200866853,0.0036037248636775,0.0025424305122202
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0026388719261239,0.00312199078387,0.0021949541807322
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2006,0.0028402599859042,0.0033624163354259,0.002368051520979
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2006,291.02941921074,343.87609097548,243.16941208479005
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2006,257.388608958,304.69451609271,213.94327237374
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,274.29873433894,324.64325232162,228.58487216121
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0030505000500838,0.0036127408713692,0.0025496322999335
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0026393591145922,0.0031231746395416,0.0021959184878531
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2007,0.0028444177460871,0.003368054412777,0.0023713602191955
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2007,291.47929773142,344.30615780864,243.56557547895
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2007,257.27024836665004,304.46877242456003,213.88949827476
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,274.44923713599,324.73210313273,228.68685868956
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0030599910094072,0.0036223528852056,0.0025576089661837
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.00263996993058,0.0031222760045144,0.0021968989386494
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2008,0.0028492535786761,0.0033745142652607,0.0023750359407718
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2008,292.03368882931,345.20124923806,244.02841457282
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2008,257.15168176087,304.17347230501,213.82711370701
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,274.65327619317,324.89194050496,228.81535890632
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0030689789558832,0.0036327475685047,0.0025649201207622
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.0026407526251256,0.0031265426162704,0.0021979217586374
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2009,0.002853954376583,0.0033807758831017,0.0023784407119478
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2009,292.56405006301003,346.10853360852,244.44546343786
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2009,257.04943854018,303.93042901519,213.76903091095
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,274.85545355422,325.07322668133,228.9287670583
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0030752389464461,0.0036382157468966,0.0025698881192001
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0026414280942787,0.003130210305572,0.0021989703307201
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2010,0.0028572481382161,0.0033880384231523,0.0023808841718713
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2010,292.91811188261,346.39630477004,244.66443398517
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2010,256.97930054175004,304.00359472016004,213.74932476367
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,274.98480436391003,325.30951473697,229.00174917271
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0030799939687885,0.0036468478472674,0.0025719418350237
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0026446566225403,0.0031334947277298,0.0022003834732259
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,0.0028610966016887,0.0033906738519808,0.0023836392962994
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,293.17869091504,346.77619064454,244.72241225885
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,257.14114316116,304.17496227702,213.75584758425
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,275.183044929,325.69592108024,229.13220201028
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0030859923935245,0.0036584197324224,0.0025748338496203
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0026518882290009,0.0031397126729399,0.0022053479047275
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2012,0.0028676339809376,0.0033997776587234,0.0023886288655813
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2012,293.52264888654,346.97261394295,244.78345937849
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2012,257.60890030285,304.94957419377,214.01495016151003
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,275.57919141238,326.47715614192,229.42757454194
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.003092667619499,0.0036709768171702,0.0025772090516309
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0026608964049519,0.0031481018423742,0.0022132781253938
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2013,0.0028754402326667,0.0034104010378329,0.0023946580567264
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2013,293.90377480115,347.84008100497,244.75111808455
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2013,258.20956068994,305.74596618002,214.51034484615
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,276.06326137131003,327.38404695572,229.79475725321
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0030989105830547,0.0036832480511559,0.002576756459374
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.002669092290834,0.0031580452195585,0.002219577937427
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2014,0.0028826499871108,0.0034204627821593,0.0023979791665517
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2014,294.24876740002,348.70340657234004,244.50994561115
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2014,258.7530100466,306.43215027967,214.9035074353
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,276.50367457524004,328.23273633005005,229.83698777591
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0031037562501073,0.0036910885206014,0.0025770198999018
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0026737915538316,0.0031711762724464,0.0022229473268433
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2015,0.0028874269497968,0.0034305061466852,0.0023984574308928
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2015,294.47084430758,349.43112033978,244.16819247616
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2015,259.03381555075,307.28966096588,215.09401390019
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,276.75496646424,328.64977636355,229.72013301077
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0031082546211925,0.0036981663632832,0.0025823882658158
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.0026771403155953,0.0031738172815931,0.0022218754696892
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2016,0.002891362796329,0.0034344306075243,0.0024011260442571
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2016,294.66568712044,350.03571428668,244.50374824822
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2016,259.28939611041,307.60278956555004,214.97075242313
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,276.98310363445,328.98622220412,229.86125122663
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0031136536544967,0.0037066222445417,0.0025885980354487
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0026818357886383,0.0031796879730299,0.0022241981999427
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2017,0.0028964389116139,0.0034397569743902,0.002405169788113
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2017,294.94988828383,350.50439997454,244.9148058547
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2017,259.74644494787003,307.97249813775,215.21768583963
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,277.35924891629,329.52504594344,230.1332878559
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0031191341531733,0.0037120528543517,0.0025946549268942
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0026861414559058,0.0031842429308976,0.0022261070887978
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2018,0.0029013868995226,0.0034471066567045,0.002409265320824
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2018,295.26900256534,350.34416510509004,245.35018800364
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2018,260.18753764656003,308.59368550286,215.41830176438
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,277.74756095960004,330.09796244401,230.29957370051
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0031239654347108,0.0037148724316221,0.0025971542969538
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0026884737624679,0.0031865215955857,0.0022259305251623
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2019,0.0029050563665518,0.0034532201572347,0.0024105793379811
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2019,295.57590685263,350.56797225233004,245.61062412042
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2019,260.40250591313,308.99499198336,215.38517413152
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,278.01912701237,330.29138373629,230.36840572956
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0031282540271974,0.0037300782518229,0.0025874028952269
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0026751089530763,0.0031712989827969,0.0022161091081598
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2020,0.0029005745201172,0.0034492596398976,0.0023991337866498
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2020,296.03213765436,352.21597365185,244.75785562303
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2020,259.15118173260004,307.2223790553,214.54439830419
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,277.6357353756,330.21744824827,229.51861815386
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0031287045172315,0.0037132393393239,0.0025974857278716
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0026881148580273,0.0031925068087895,0.0022275293537552
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2021,0.0029074335453167,0.0034509462533968,0.0024141324320915
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2021,296.03404087593,351.45636507858,245.68865431063
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2021,260.38124743191,309.42225062994004,215.64749091895
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,278.25630682268,330.63189693559,230.98214419426
