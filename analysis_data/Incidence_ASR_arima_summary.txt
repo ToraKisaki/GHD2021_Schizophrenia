@@ -1,0 +1,25 @@
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:                    val   No. Observations:                   32
+Model:                 ARIMA(2, 0, 0)   Log Likelihood                 121.268
+Date:                Thu, 19 Jun 2025   AIC                           -234.537
+Time:                        19:51:02   BIC                           -228.674
+Sample:                             0   HQIC                          -232.593
+                                 - 32                                         
+Covariance Type:               robust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         15.5265      0.067    230.674      0.000      15.395      15.658
+ar.L1          1.8643      0.096     19.520      0.000       1.677       2.052
+ar.L2         -0.8814      0.097     -9.041      0.000      -1.073      -0.690
+sigma2      2.398e-05   8.39e-06      2.860      0.004    7.55e-06    4.04e-05
+===================================================================================
+Ljung-Box (L1) (Q):                   0.21   Jarque-Bera (JB):                 3.80
+Prob(Q):                              0.65   Prob(JB):                         0.15
+Heteroskedasticity (H):               3.58   Skew:                             0.36
+Prob(H) (two-sided):                  0.05   Kurtosis:                         4.53
+===================================================================================
+
+Warnings:
+[1] Quasi-maximum likelihood covariance matrix used for robustness to some misspecifications; calculated using the observed information matrix (complex-step) described in Harvey (1989).

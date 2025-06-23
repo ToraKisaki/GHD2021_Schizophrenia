@@ -1,0 +1,26 @@
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:                    val   No. Observations:                   32
+Model:                 ARIMA(2, 0, 1)   Log Likelihood                  38.712
+Date:                Thu, 19 Jun 2025   AIC                            -67.424
+Time:                        19:48:16   BIC                            -60.095
+Sample:                             0   HQIC                           -64.995
+                                 - 32                                         
+Covariance Type:               robust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        176.9805      0.299    591.859      0.000     176.394     177.567
+ar.L1          1.7648      0.094     18.677      0.000       1.580       1.950
+ar.L2         -0.8099      0.103     -7.835      0.000      -1.013      -0.607
+ma.L1          0.3810      0.159      2.398      0.016       0.070       0.692
+sigma2         0.0043      0.001      5.169      0.000       0.003       0.006
+===================================================================================
+Ljung-Box (L1) (Q):                   0.13   Jarque-Bera (JB):                 1.90
+Prob(Q):                              0.71   Prob(JB):                         0.39
+Heteroskedasticity (H):               1.88   Skew:                             0.45
+Prob(H) (two-sided):                  0.31   Kurtosis:                         2.23
+===================================================================================
+
+Warnings:
+[1] Quasi-maximum likelihood covariance matrix used for robustness to some misspecifications; calculated using the observed information matrix (complex-step) described in Harvey (1989).

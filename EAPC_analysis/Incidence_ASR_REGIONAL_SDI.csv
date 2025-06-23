@@ -1,0 +1,833 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.477838586459999,15.616909742149998,9.82240988634
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,12.486618880390001,15.638581415200001,9.82700881039
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,12.494342686000001,15.66532382005,9.82872825127
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,12.500575717490001,15.69570188474,9.83827652956
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,12.5056824711,15.717491856649998,9.847595054560001
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,12.50876835742,15.71763985901,9.855224937220001
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,12.51074129141,15.6949138164,9.86312271743
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,12.51276495402,15.67588053559,9.87134485176
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,12.51504745507,15.65900604246,9.87915196439
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,12.51751717844,15.64228373356,9.87786762241
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,12.52027375995,15.622091929719998,9.877150408750001
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,12.52619530314,15.640639217,9.89398568204
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,12.536423773740001,15.662979534329999,9.91261482186
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,12.549012318139999,15.68873764367,9.93043288473
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,12.560028940799999,15.703057848919999,9.94627699812
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,12.56656865431,15.70062291824,9.95497875298
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,12.56920022224,15.706789014480002,9.9423148044
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,12.57038974296,15.712697807519998,9.92514998647
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,12.57080277246,15.717864314160002,9.90320924254
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,12.570849953280002,15.720748649099999,9.87995614005
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,12.57149523762,15.72173902643,9.85862679696
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,12.57333340478,15.73318318966,9.85898399256
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,12.575442347170002,15.744758558220001,9.862971947450001
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,12.57701502305,15.73313987575,9.87800549049
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,12.57781215482,15.705546733259999,9.89079854734
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,12.57788115507,15.696792052540001,9.901535597039999
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,12.575125939,15.70421876791,9.90355688667
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,12.56955255806,15.6943341423,9.91081605775
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,12.56402739577,15.70916122572,9.91679889371
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,12.56177111633,15.7191676449,9.938350395359999
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.5940394168,15.77612877485,9.891592060199999
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,12.59651123143,15.81666991257,9.97222472338
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.16052911633,20.98203123648,15.663056878969998
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,18.15128978408,20.95274833311,15.64486457245
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,18.143284617859997,20.92542921938,15.628234115340002
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,18.13797436534,20.89178708151,15.62910662564
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,18.13724884407,20.88402779005,15.61236680334
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,18.14148815639,20.893496237089998,15.614508361310001
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,18.14470515386,20.898135783689998,15.63255942287
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,18.14324627109,20.89776199046,15.64915806607
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,18.14054366657,20.89508674448,15.65535034567
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,18.13937161612,20.90475161025,15.66691171221
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,18.142284017279998,20.922110514059998,15.679030512959999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,18.14203385295,20.89210947656,15.69092619229
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,18.13295589673,20.85108479824,15.689139961779999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,18.11979588597,20.81652135185,15.665402883279999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,18.10656339903,20.80267747057,15.66455101042
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,18.09704923562,20.767001628070002,15.673374409680001
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,18.08856607046,20.7774191649,15.663238965989999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,18.075678913169998,20.780758284130002,15.648122826579998
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,18.05862433814,20.776035697370002,15.647375636629999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,18.03758220764,20.76922059177,15.644409434209999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,18.01297923064,20.756545920260002,15.63250232142
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,17.96494085922,20.709965025219997,15.57483127605
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,17.88870113278,20.6512193009,15.48774929307
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,17.807504480280002,20.584639980680002,15.39374902758
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,17.743722104339998,20.52684531363,15.31589679032
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,17.71919110867,20.51407230745,15.27362612389
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,17.755333280429998,20.521735346430003,15.31175139024
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,17.84226125165,20.59162832434,15.394326079190002
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,17.95446239127,20.714488708799998,15.482735246699999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,18.06652431782,20.82795827227,15.56375453878
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,18.31346123881,21.132586458909998,15.779417924419999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,18.32254869078,21.16756958623,15.77456412012
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.03526185258,21.35571476038,13.33588735779
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,17.01035634531,21.31304015196,13.37781815831
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,16.99009839132,21.29496860415,13.37987596511
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,16.9747835995,21.282080291529997,13.35548898535
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,16.964656374,21.27524490643,13.33660920078
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,16.96006058211,21.27613167934,13.32305952278
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,16.96651167863,21.27685003666,13.328300123619998
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,16.98425762069,21.280511634459998,13.34414316867
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,17.00552085003,21.27217845691,13.35844740088
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,17.02229724929,21.24624495968,13.35694936255
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,17.02658640511,21.25701416766,13.337540045359999
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,17.01014672957,21.26229954506,13.34894356878
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,16.9773587017,21.27332899858,13.32843947625
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,16.93878987338,21.269844368159998,13.325832192590001
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,16.90481708036,21.26226779269,13.348177654410001
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,16.8858260815,21.2672980532,13.29752518829
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,16.87653601621,21.31317629146,13.31582678362
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,16.86615573636,21.29559450729,13.26875302064
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,16.8568004099,21.3148384285,13.23652798799
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,16.85078009599,21.26708479466,13.21108970997
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,16.85060022799,21.291718031,13.17875742228
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,16.86639570279,21.25216018252,13.19667892519
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,16.899351013220002,21.26541113713,13.2488232021
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,16.93874346395,21.36681931639,13.29858906261
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,16.9739545309,21.37258558534,13.35039596737
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,16.99442420723,21.354373167640002,13.399648968470002
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,17.00342720489,21.397326314359997,13.3842521154
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,17.01063945987,21.405173609869998,13.28626684758
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,17.01505382688,21.35373170383,13.23679872882
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,17.015659864569997,21.30234610755,13.22413554151
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.96324888682,21.41928530617,13.12771319331
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,17.051446823870002,21.66907917706,13.40506975584
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.23195234643,21.064761160710002,14.027623931079999
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,17.18608288032,20.97728907453,14.0100926597
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,17.1458368341,20.88488991336,13.99499784646
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,17.11337556303,20.79339232794,13.97445810142
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,17.09097108945,20.732906829090002,13.9483162625
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,17.08108499907,20.70342790697,13.93051820397
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,17.08058571687,20.693222823710002,13.92486269628
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,17.08362532181,20.71495179996,13.92523149987
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,17.08836792676,20.73946908479,13.93279753242
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,17.09315927798,20.76524936972,13.93935159304
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,17.09650770437,20.79015514659,13.94590762532
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,17.09576906664,20.774947101320002,13.932183033369999
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,17.09144265649,20.75528414408,13.919793958920001
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,17.08626978025,20.733965286169997,13.925849525460002
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,17.08333569371,20.71512464277,13.93603692
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,17.085383929,20.7032212361,13.951535922829999
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,17.09717475905,20.71190435788,13.96961742768
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,17.11903099142,20.73402771082,13.99768284353
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,17.14569140976,20.762531971839998,14.00607045899
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,17.171909574100003,20.789757303360002,14.00713669479
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,17.19273777191,20.813038541420003,14.01204883083
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,17.2308940488,20.85116926852,14.053918773380001
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,17.29904833746,20.93883564209,14.118991294930002
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,17.37710348724,21.04236194828,14.17482730897
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,17.44499340487,21.13470982067,14.21401828037
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,17.48258402081,21.18891409765,14.2414931066
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,17.496729450060002,21.20592690587,14.26971314559
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,17.50478567921,21.24461161891,14.28996283727
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,17.5029419818,21.28994906244,14.29945210901
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,17.48760759407,21.29678874551,14.298099761960001
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,17.22877105765,20.88618967343,14.053744033900001
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,17.33516830591,21.0642516048,14.18430898876
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.436205681790002,15.884818429629998,9.6131388338
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,12.436028996850002,15.84369199025,9.60618758338
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,12.43555021946,15.793508593479999,9.58791732849
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,12.43473842279,15.76701461334,9.57206070332
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,12.43358370277,15.76534663717,9.57857169641
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,12.43228188376,15.791882032560002,9.58333561557
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,12.43108749782,15.755470426130001,9.57253666402
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,12.43009345411,15.740052596349999,9.56301596096
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,12.42917862111,15.72823535848,9.55125895835
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,12.4283239302,15.73124701594,9.53485856807
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,12.42747301204,15.740181622749999,9.52228310886
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,12.42566741057,15.765591300859999,9.52850462576
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,12.42252100875,15.782656633250001,9.53504630378
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,12.41863308482,15.768179099980001,9.53382235179
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,12.414690204980001,15.75591155026,9.51295366432
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,12.41139438452,15.76349209267,9.49395853044
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,12.404181714809999,15.748240818760001,9.50093275486
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,12.391040172370001,15.72541898287,9.49539361852
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,12.37634533334,15.7046920508,9.48558403257
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,12.364549647139999,15.66540704244,9.47963442382
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,12.360187345559998,15.64920414634,9.48643857895
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,12.36756635366,15.71036648577,9.48854908416
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,12.38408861343,15.7073002587,9.496298794629999
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,12.403989423270001,15.695777954079999,9.505411670560001
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,12.421530407110001,15.680755543699998,9.51215091565
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,12.43099368278,15.69097556375,9.51339239684
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,12.434305238759999,15.68849701335,9.53163976222
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,12.43710687676,15.8095809438,9.56048225105
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,12.43927855453,15.85436149823,9.60007181567
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,12.44069518353,15.89379884037,9.619002480259999
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.45542752387,15.764208863619999,9.5841446811
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,12.42777796993,15.74051459898,9.554842947840001
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,11.18092888163,13.55042446133,9.17689694379
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,11.19083700955,13.55224721752,9.19297133134
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,11.198481942099999,13.55194385707,9.19642196203
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,11.20369118248,13.549191621180002,9.19889135777
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,11.206648351530001,13.543640915020001,9.200702326890001
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,11.207206304,13.53852296789,9.20172524373
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,11.2043993217,13.52791906585,9.20340340535
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,11.19880764277,13.52159181507,9.206865307400001
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,11.192014443529999,13.520382620720001,9.20951597558
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,11.185758373979999,13.52025569926,9.211297636780001
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,11.18150927612,13.52377655166,9.197862350360001
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,11.176727201739999,13.51233146915,9.21018384141
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,11.17019829613,13.49985777579,9.21282138446
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,11.16494145597,13.491381916719998,9.20847554002
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,11.16380842671,13.49502985091,9.20733881955
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,11.16972639045,13.509693023279999,9.21243736352
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,11.23485236164,13.579997072760001,9.26014897068
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,11.37676535083,13.750051997589999,9.36734258372
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,11.54596937812,13.957946732229999,9.49585716647
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,11.6926353399,14.13699700821,9.60735097345
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,11.76662203043,14.230870680089998,9.66317670726
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,11.78322731698,14.26720015652,9.69027299382
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,11.79239407376,14.2937532034,9.69945325999
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,11.79583173569,14.313132862600002,9.7046035679
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,11.79548392461,14.32788256408,9.70771202123
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,11.79317825409,14.34054140378,9.7038503033
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,11.78089925706,14.321023361080002,9.701506305219999
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,11.75687294768,14.285775790050002,9.692285256969999
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,11.732425976470001,14.22999201856,9.682124898709999
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,11.71907413914,14.20250237788,9.65947709136
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,11.760132290000001,14.220790342799999,9.65069212116
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,11.7341631442,14.20724999763,9.65277818837
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.22628694955,19.32606445438,11.56279312541
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.25033688324,19.40895697131,11.57084867568
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.268033327980001,19.421793186349998,11.583923703550001
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.28005857261,19.400399312719998,11.62217184672
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.28712572217,19.37241462431,11.655566721409999
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.28980172556,19.34880912678,11.68611578473
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.28195753736,19.32067873516,11.68535453947
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.26215988176,19.29854000662,11.66602687928
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.23817461177,19.24485261835,11.61744317923
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.217931988259998,19.20212918602,11.570847800080001
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.20919998276,19.21899938574,11.57150763958
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.213830407120001,19.19187823482,11.591967565200001
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.22509462965,19.208698199929998,11.66566403985
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.238119423599999,19.26293596345,11.78381912942
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.24819496095,19.33627910032,11.81789088914
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.25062351945,19.40710293429,11.80075809513
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.23925721218,19.35264405501,11.7864885136
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.2164109312,19.3395060725,11.74970657646
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,15.19025086986,19.28581679577,11.67179465556
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,15.168977119800001,19.271084424250002,11.6044520847
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,15.16068771174,19.27096207294,11.570086389530001
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.170597473740001,19.32261588419,11.587680311749999
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,15.19305412076,19.25593033279,11.58016960539
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,15.219789382519998,19.2357253052,11.58948545279
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,15.242568072240001,19.29765292457,11.62375646409
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.25325159534,19.31276721839,11.65787139885
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.243448400250001,19.343160159059998,11.60522662939
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.219358797079998,19.32189227408,11.64707867766
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.194756399660001,19.27102724115,11.68655843196
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.18296870923,19.26101227699,11.64068262168
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.246650210030001,19.53517980345,11.605631248929999
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.24533672663,19.37238625595,11.63501603167
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.20837724844,16.94721892414,11.83886742722
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,14.215272899499999,16.983241900499998,11.84412925745
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,14.221971036069998,17.01950141819,11.84788218242
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,14.22834601891,17.05686372226,11.84468662274
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,14.23348522074,17.09432808724,11.834845374
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,14.236475258719999,17.13015875333,11.82213082825
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,14.24064350774,17.14191078893,11.81784684338
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,14.24684755101,17.15674559756,11.81711336775
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,14.25269777485,17.16959968003,11.825739689199999
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,14.25639867314,17.175011850060002,11.83650115018
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,14.25571290974,17.1495407359,11.84218892024
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,14.24734537351,17.14671321797,11.84798725224
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,14.23152463955,17.10867416107,11.84534536892
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,14.21285666769,17.053197908690002,11.83903462531
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,14.19614186651,17.02383419937,11.8210485643
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,14.18621099118,17.00736237801,11.7977768925
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,14.19149068993,16.97260642614,11.82643005629
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,14.21108303518,16.968402600220003,11.85676167873
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,14.23581749777,17.0121192786,11.87503767544
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.25695430122,17.031179067369997,11.88349221187
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.265512295850002,17.03331634517,11.91332580102
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.26401605004,17.05816917807,11.86380698859
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.26190066298,17.08835221233,11.81783384247
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,14.26006774062,17.11823474401,11.798280653980001
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,14.25831317373,17.13255367607,11.7763725765
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,14.25711674441,17.16140955344,11.75131913001
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,14.22124905666,17.1230847678,11.701617656429999
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,14.14345369024,17.03060111553,11.62107495235
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,14.06628359085,16.935278843269998,11.54657316018
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,14.03274078026,16.90746424776,11.521769228470001
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.086940481840001,16.989951826509998,11.58449307072
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.08252079126,16.96516998536,11.570323206080001
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,20.08594444405,22.62567988195,17.77096752644
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,20.10975821844,22.576805475620002,17.834797010200003
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,20.13248973271,22.632081630640002,17.8806898425
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,20.15311539277,22.59489724398,17.923433599040003
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,20.16950187367,22.644157940899998,17.93012053039
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,20.17995661451,22.6223367301,17.907814609389998
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,20.186041477270003,22.71059129734,17.915294713010002
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,20.189193684059997,22.63968117497,17.90114670467
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,20.18916087211,22.78528739531,17.899812114419998
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,20.18642128907,22.90129017134,17.88991052291
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,20.18521212957,22.95302247904,17.856742252140002
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,20.18820883331,22.920402180940002,17.909627048220003
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,20.19625208355,22.82013400878,17.920529702
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,20.20645793747,22.64793286815,17.99166889346
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,20.21551907875,22.52046509622,18.06035573536
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,20.21651680486,22.48482453882,18.06256162115
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,20.20834989468,22.54112630212,18.05255771883
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,20.19518545752,22.62265941962,17.99051160035
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,20.181458095500002,22.71581284578,17.926485639350002
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,20.171361467639997,22.709119897380003,17.84760649191
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,20.16828362234,22.78602077048,17.83860919137
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,20.179140299729998,22.70672142289,17.871625704830002
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,20.20209592558,22.680370819220002,17.86594847564
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,20.23160285702,22.62710850271,17.98627894531
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,20.25718553113,22.62707736064,18.019770282699998
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,20.27128153577,22.65719280705,18.02757168302
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,20.26589704303,22.609505960219998,18.04289703227
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,20.24210698407,22.57155423041,18.04876696574
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,20.216861164490002,22.55935914595,17.91606959925
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,20.20570097905,22.59610993676,17.83210331003
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,20.270354309090003,22.883804492670002,17.92159318462
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,20.1925327616,22.73659687815,17.87359384241
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.655113406039998,16.91033145108,10.92147246212
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,13.669308457560001,16.886539257880003,10.93817435061
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,13.679909963499998,16.89666797104,10.96207377309
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,13.68695842038,16.93460536028,10.970468823
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,13.690343389819999,16.936194426460002,10.96903190636
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,13.69006033879,16.93443192265,10.980086414399999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,13.68199011812,16.931072100279998,10.97698226121
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,13.6653824072,16.916580737889998,10.96622548144
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,13.64534634802,16.88576506924,10.95328045754
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,13.62707796966,16.86976579687,10.94009963263
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,13.6159418162,16.849822517870003,10.927089192339999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,13.60964075407,16.83251763361,10.919766381379999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,13.602844983639999,16.8153501258,10.91283164141
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,13.59668050978,16.79931495182,10.90459116605
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,13.59228101306,16.78595296779,10.896898904359999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,13.590786785239999,16.77714570349,10.9063574313
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,13.594577289579998,16.789662561110003,10.88997544173
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,13.60318799749,16.83141822189,10.87970975576
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,13.61337127836,16.85524224533,10.86871874803
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,13.621904866809999,16.86634501711,10.855588299659999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,13.62565704799,16.87224665701,10.84159436308
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,13.62320493811,16.86023356606,10.843821065470001
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,13.61677220407,16.84307427529,10.855065960160001
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,13.60874869117,16.871875901699998,10.87178707376
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,13.60158849865,16.88983927935,10.878116895709999
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,13.597756344179999,16.90852049655,10.88527942237
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,13.59608569069,16.87936979533,10.88472911127
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,13.59454182274,16.84868151654,10.88480419772
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,13.594449876779999,16.85081170246,10.89369022394
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,13.59714944963,16.862238063830002,10.90669588786
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.63039946486,16.83202597314,10.95278531702
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,13.61314077255,16.81083194157,10.88374862406
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.407540461099998,20.77181317221,14.42086145801
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,17.422521473070002,20.78948979155,14.439485821699998
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,17.424504955059998,20.777266083919997,14.4298846209
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,17.41715601944,20.7732734782,14.41366520956
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,17.4039015978,20.768698384140002,14.395122543240001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,17.38725659765,20.74840853469,14.376220001410001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,17.33530707092,20.70098300455,14.32120746023
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,17.23543675879,20.59651695271,14.22859325108
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,17.1218821168,20.4756428721,14.12591368396
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,17.02747973795,20.35882627062,14.04094041066
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,16.98554757885,20.30048814061,14.000541500499999
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,17.01058148705,20.31554874634,14.04193621714
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,17.078784109569998,20.38038586866,14.12405755123
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,17.16760691625,20.46979722899,14.2251432642
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,17.25312892693,20.58393217985,14.32224193031
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,17.31183154681,20.65466730681,14.38124430981
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,17.36372587056,20.6925152364,14.417743568390001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,17.433044392950002,20.739086286430002,14.459784469939999
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,17.504706292439998,20.8202471882,14.505295106270001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,17.56312347198,20.91664149069,14.54189234959
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,17.59200092475,20.96012341025,14.555337948230001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,17.55697685267,20.86465730116,14.530070856870001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,17.45471617255,20.74154505649,14.456230138119999
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,17.31776291278,20.6006220401,14.32863125185
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,17.17888306541,20.46032625526,14.185476446780001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,17.06960711883,20.31474085508,14.10194825492
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,16.96907414974,20.19164463081,14.008676709980001
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,16.84976991238,20.01723954113,13.94185649009
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,16.73491256832,19.852237171309998,13.883538205179999
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,16.648541832590002,19.743527677979998,13.83444566775
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.633564585840002,19.83477105021,13.74620076302
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,16.68308813298,19.81663276514,13.807927917819999
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.039235567979999,18.30658891071,12.2439176823
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.049693846730001,18.321449925459998,12.2546199616
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.058756484019998,18.3646658877,12.292432690650001
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.067311060129999,18.37450678733,12.32040441689
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.07297939599,18.38220282549,12.311545437520001
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.07653025315,18.39748155664,12.29889395198
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.07683696062,18.424449953539998,12.339017672969998
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.07053623445,18.42694178287,12.30350232752
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.062509211430001,18.39996860239,12.23978005984
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.055161736639999,18.37990905206,12.18179395078
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.04974761301,18.36462853617,12.15742617952
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.04425195733,18.35265990533,12.19607378731
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.03643615094,18.35214071498,12.217042785019999
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.03182118262,18.37525922287,12.24862463411
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.03229730702,18.40856945877,12.27290821682
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.04204308146,18.45710293432,12.28639780593
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.15375085609,18.556844977089998,12.39348626637
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.394713294330002,18.80491440657,12.579229944660002
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,15.673177297370001,19.103400966,12.772185841050002
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,15.90326122566,19.40990680824,12.93145448942
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,15.99679837433,19.54183214432,12.999044951810001
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.98570011965,19.5129213551,13.00713261456
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,15.961892302410002,19.467618946589997,13.0053081999
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,15.92901179708,19.41721746158,12.98170175114
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,15.89037042724,19.359601132599998,12.947924338790001
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.8467661409,19.29480226351,12.90996596754
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.71589751961,19.1510207643,12.77398095446
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.483383353159999,18.93445533106,12.55140377149
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.248539106329998,18.7015252437,12.3427506112
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.11558286236,18.54410667481,12.233966788860002
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.124353301729998,18.3710001683,12.17438376466
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.138169884749999,18.54682480595,12.25236092072
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.20705999467,17.65902989229,11.234991052609999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,14.20667400872,17.652640747390002,11.24951245085
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,14.204105773150001,17.64563800758,11.25914533265
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,14.19774762561,17.641698180739997,11.261593702599999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,14.190197536260001,17.64864982233,11.261344147219999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,14.185214696449998,17.643822465499998,11.25271367934
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,14.18159889061,17.64968728638,11.23553373147
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,14.177369619020002,17.6420933455,11.21533415916
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,14.17294877247,17.641895980380003,11.19544514296
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,14.16927273762,17.65306180027,11.18913723203
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,14.16801250398,17.66359351379,11.197465838420001
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,14.165293353070002,17.65660287274,11.20488516755
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,14.156325488550001,17.64142587163,11.20762281182
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,14.14357010733,17.63721693623,11.20436608235
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,14.13238893385,17.63495047679,11.19724595685
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,14.12580617325,17.63662768542,11.18006374613
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,14.118321150599998,17.64447107065,11.171422981700001
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,14.1063359398,17.62902603469,11.15148649951
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,14.09445443104,17.61385042887,11.130093014329999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.08324794835,17.60187496924,11.11569426244
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.075062065369998,17.60876478239,11.1102788929
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.07642882404,17.60975946541,11.08638797619
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.08304321714,17.618563766050002,11.0700335285
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,14.091608571870001,17.64417273015,11.06674646501
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,14.098488306259998,17.66471326285,11.06332423977
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,14.099119092099999,17.65526589357,11.05498432736
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,14.091251723760001,17.61136801517,11.0628930967
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,14.078572509579999,17.58239923431,11.0669646952
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,14.065250780609999,17.558465822349998,11.072646200429999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,14.055271024460001,17.54510023518,11.08764623432
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.054835884869998,17.54205154325,11.02126974425
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.070336281400001,17.66418144853,11.05015924418
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.4140913772,15.64427397983,9.67021674155
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,12.40033537968,15.59130127413,9.66467870158
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,12.3864642827,15.499629135730002,9.65631045734
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,12.373414178720001,15.4654784159,9.646579929329999
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,12.36200053786,15.462393841139999,9.63652185658
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,12.35328086308,15.5093853618,9.62206872393
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,12.34478744587,15.46526632367,9.62480244989
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,12.33498009899,15.44191124699,9.62549561783
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,12.325310059,15.4578396612,9.623755311
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,12.316493368620002,15.46609745053,9.622487193889999
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,12.30921897003,15.43008987273,9.64163458114
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,12.30061705995,15.417739449900001,9.6422033343
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,12.2893407959,15.400660384270001,9.6422301527
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,12.27752437605,15.38381898955,9.63484903978
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,12.267230621269999,15.36956401728,9.612547734389999
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,12.26049574946,15.360796659079998,9.5924302751
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,12.25626194151,15.36189512523,9.61109967636
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,12.2528229165,15.337763573019998,9.63091251852
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,12.25051048138,15.312758380090001,9.62859545817
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,12.249312521379998,15.30286384746,9.61972331116
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,12.25113538039,15.298316104620001,9.612399436599999
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,12.25423844784,15.288767308899999,9.61770271119
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,12.256476347620001,15.326885217380001,9.623155901779999
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,12.259264977900001,15.39360087906,9.61330652261
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,12.261965159,15.40770711259,9.59952875182
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,12.263782325529998,15.424945189530002,9.5887800717
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,12.273840434399999,15.41855997638,9.582958122560001
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,12.29253222877,15.45196711354,9.58270994438
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,12.31138998401,15.496473453419998,9.58050911738
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,12.322317653,15.55814465326,9.58375998618
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.360887253929999,15.589317198529999,9.607313371590001
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,12.36284642663,15.613223297680001,9.55155628444
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.34583332961,17.005798425440002,10.25432136673
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,13.354272161959999,17.0058605539,10.26551240959
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,13.35960068766,16.947952034510003,10.274711746
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,13.36232962642,16.897612508759998,10.27617733907
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,13.3631085121,16.87195795313,10.28274116125
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,13.36248007795,16.869652215360002,10.29262551525
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,13.35494940184,16.894018245359998,10.28622793664
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,13.338573596820002,16.90095949224,10.2730287074
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,13.31895329956,16.90445124847,10.259020719519999
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,13.30196878053,16.91219842529,10.24614074198
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,13.293406373140002,16.8914272723,10.24756623937
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,13.29101173268,16.89761910579,10.21586285057
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,13.289047468260001,16.869574438649998,10.22788181922
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,13.287849123349998,16.8439427385,10.2603253881
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,13.287913648399998,16.86211866374,10.28369056983
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,13.28975922051,16.8392279348,10.26849046181
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,13.29680867397,16.81632846733,10.29259364595
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,13.30970130575,16.828317612659998,10.32184943134
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,13.32463492314,16.876652288349998,10.34280578389
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,13.33761043079,16.92516798068,10.35326042452
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,13.344740316260001,16.96755094617,10.34725898735
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,13.34756693844,16.91265988567,10.3417365929
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,13.3502649961,16.85990403986,10.309450383409999
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,13.35288849528,16.83101488417,10.27877659826
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,13.355677399729998,16.84623311815,10.25215504108
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,13.35852996338,16.87539925334,10.24026288236
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,13.36433686024,16.85844596559,10.25012430775
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,13.3738870317,16.87163502965,10.27463016608
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,13.38467526333,16.94901505259,10.27733382738
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,13.39295556969,17.04624067444,10.25712901564
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.360197977359999,17.14395673881,10.35299808102
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,13.36319771684,16.956901267230002,10.3063102333
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.880961531670001,17.5563471876,10.772709255039999
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,13.88791754714,17.50020692731,10.782751910570001
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,13.89150487488,17.49180269019,10.79335581934
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,13.892394055330001,17.47957385135,10.812759368850001
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,13.89121518818,17.45724267697,10.818516597879999
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,13.88870139228,17.43303626225,10.82506281671
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,13.879964938070001,17.434329599090002,10.87760312237
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,13.862877459249999,17.426553212680002,10.84831201672
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,13.84284614175,17.44563871479,10.80167024785
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,13.82532554462,17.43346486579,10.81210930896
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,13.815544946020001,17.41583070368,10.83411762707
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,13.811046741659998,17.42329458835,10.82396155144
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,13.80619446837,17.46281827218,10.81490771061
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,13.8018338228,17.50532711899,10.79511374755
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,13.79894188058,17.53912420166,10.809153177579999
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,13.79851680588,17.557443093499998,10.828111294160001
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,13.80337081841,17.53250119038,10.80575334263
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,13.813129386009999,17.5134810367,10.82132061726
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,13.82436051172,17.49395343116,10.85152232719
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,13.83363469271,17.46831227318,10.88584066638
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,13.837592814230002,17.43109827092,10.91541265323
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,13.833318883619999,17.456725012929997,10.90622558506
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,13.82274642908,17.438888204850002,10.90902000947
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,13.810084648319998,17.42708329877,10.89724928143
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,13.799619322060002,17.41854733554,10.87747412839
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,13.795016727370001,17.42387779457,10.83773071879
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,13.799959339159999,17.496422274129998,10.84932198526
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,13.811515709539998,17.58309774121,10.856993452680001
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,13.823042664310002,17.616579856719998,10.90349258442
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,13.82748786686,17.65650476951,10.919500573919999
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.797868894870001,17.41833314783,10.73090495876
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,13.787156682460001,17.57145717286,10.849344732239999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.29251984245,17.68435337315,11.56102529815
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,14.28740809363,17.70167722356,11.57111686549
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,14.28408486566,17.71711784196,11.56962212907
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,14.280719799300002,17.73468145559,11.57611728837
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,14.27899577274,17.76082189946,11.57810865425
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,14.277908336760001,17.78645729699,11.57793039846
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,14.277342128429998,17.77438422469,11.5749942942
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,14.278724833730001,17.75920288312,11.57105969022
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,14.28080303527,17.74283788516,11.56267982164
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,14.28240027021,17.7280547109,11.56558987814
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,14.281975827060002,17.71577743577,11.55683469761
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,14.279780191510001,17.72708339074,11.55488506882
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,14.27732186723,17.72882808522,11.55294333643
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,14.27477432134,17.730310515510002,11.5526858105
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,14.27242566865,17.72873277074,11.54811383954
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,14.27066330925,17.72335495195,11.53794985878
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,14.27016335113,17.73046162933,11.544441888689999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,14.270667472629999,17.73307800989,11.54470546693
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,14.271178317190001,17.735969596,11.541487228280001
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.270802441070002,17.73889231158,11.5386759137
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.26863070569,17.74053850456,11.539381886800001
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.260545409059999,17.74820039194,11.518804387260001
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.24587416635,17.74704915542,11.49206978284
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,14.22862205189,17.72325972126,11.46793344043
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,14.21331089144,17.69356109924,11.439694189279999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,14.2049919382,17.64254743984,11.42252616896
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,14.20450346054,17.69111027389,11.43981601082
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,14.20713545368,17.72440759184,11.469972242399999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,14.209167021519999,17.720094494450002,11.5024634783
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,14.206426631540001,17.73093956784,11.50873358726
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.16073676127,17.598894293759997,11.434063585599999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.16252582891,17.531043143679998,11.457425518660001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.75141487304,16.60900041991,11.30684788697
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,13.760213066630001,16.62918620201,11.30604431612
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,13.76716301429,16.64174856079,11.30809243259
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,13.772399667960002,16.645468237230002,11.327733830349999
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,13.77595532948,16.63127545864,11.33544741441
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,13.77788741543,16.62113995611,11.341934048659999
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,13.77689498248,16.627428145259998,11.323170730980001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,13.772566605600002,16.64800497006,11.30239201704
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,13.766761541260001,16.67893894965,11.28988911439
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,13.76136886663,16.67953231441,11.28465355709
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,13.758356672059998,16.66614453608,11.280782686330001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,13.753241255610002,16.67076863246,11.27807436501
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,13.74256089587,16.63951476851,11.276101826020001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,13.73037213339,16.6023599172,11.282076737
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,13.720813324899998,16.564887710479997,11.30217960937
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,13.71820839599,16.545343198570002,11.325512147300001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,13.72908420955,16.59363290674,11.33463716803
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,13.751529532389998,16.65214612544,11.349813064300001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,13.777680322040002,16.69894114937,11.36850891989
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,13.79966967674,16.70618729248,11.38583661932
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,13.809687757469998,16.70760850951,11.38098283312
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,13.805269983930001,16.70352130038,11.37590554444
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,13.792379163360001,16.69044108662,11.34726752273
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,13.77603601494,16.62312129638,11.32798137999
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,13.761275019869998,16.556268798199998,11.317960204179998
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,13.7531340695,16.52848972975,11.31365203657
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,13.748511930380001,16.53591397341,11.30129631514
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,13.742807076480002,16.570686602949998,11.30708886783
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,13.73878795221,16.55448824189,11.319461419160001
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,13.73915322425,16.53342456127,11.33054365416
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.785524994740001,16.71271125152,11.31144852471
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,13.75211739588,16.59789789499,11.35035208601
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.19887612607,18.417103000450002,12.41646960225
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.197254693520001,18.4246988728,12.41844929058
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.193622536329999,18.43092589009,12.42188827932
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.188606097760001,18.436120676770003,12.426063993160001
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.182807853209999,18.44067864578,12.41740095237
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.17683864985,18.444849664859998,12.41160400515
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.1687933328,18.43426558602,12.40913138944
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.15770597476,18.40949654803,12.40591973465
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.14554468642,18.384076800179997,12.3996188113
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.13424540473,18.3630093081,12.39182816907
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.12567201032,18.34838982056,12.38691212741
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.114555198929999,18.34965812172,12.373278833039999
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.097300652620001,18.34586143119,12.35307445187
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.07809289369,18.34118334762,12.331024540080001
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.06111911208,18.33905683918,12.3116424378
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.050545928470001,18.34330847056,12.29916215841
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.03940686634,18.31130863348,12.27650452161
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.02184186195,18.2689921072,12.249250684249999
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,15.00387943075,18.22598302948,12.22275814912
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.99164982279,18.19072844148,12.20181304196
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.991275512380001,18.170621312159998,12.1956959368
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.02841363131,18.22886066788,12.2237071969
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,15.106468222330001,18.33724788969,12.29124226396
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,15.19823249688,18.45342052534,12.371481537200001
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,15.276511259989999,18.55565237466,12.44193220339
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.31425890734,18.61037637096,12.479460965909999
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.309239510180001,18.60219992931,12.46819423871
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.2869963014,18.572834367989998,12.441239432940002
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.26224064529,18.53963358908,12.414177334649999
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.249496521829998,18.511658925109998,12.40043335594
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.273925683569999,18.57139737041,12.4503642837
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.26050996656,18.50622238087,12.454996514030002
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.77868333927,18.40365932429,13.53216282654
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.7988120644,18.437537326530002,13.54536054172
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.81418502307,18.47535032584,13.545298401519998
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.827130932320001,18.513849400770003,13.542921488480001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.84166876653,18.55325394735,13.54409203644
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.85714681929,18.57934324624,13.551838615700001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.867654075019999,18.566513805750002,13.56817925538
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.872092369729998,18.54437801956,13.580429759460001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.87487229348,18.51811369079,13.593392742339999
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.88304582192,18.49518805599,13.6141176559
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.90038380465,18.48206473368,13.64542364668
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.920049547249999,18.52219409511,13.645491337040001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.936525172729999,18.55962038441,13.642991307279999
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.953000659399999,18.598347082660002,13.661612046150001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.973376982640001,18.606438716070002,13.70273414812
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,16.000954958599998,18.61535707888,13.74663136629
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,16.04538670342,18.6941072157,13.778097924569998
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,16.10483036177,18.751426263549998,13.84212959798
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,16.16587524054,18.83399812886,13.902570342859999
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,16.21606476658,18.92600219442,13.94526536168
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,16.24478846649,18.99196455367,13.96571058726
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,16.247202237459998,19.00868501159,13.962142759559999
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,16.232959759430003,19.01149642895,13.94216897899
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,16.21131626444,18.99751164773,13.913758631460002
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,16.19188572936,18.98231392469,13.887844292550001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,16.18613435468,18.98266810389,13.86610946491
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,16.2091076955,19.0018003881,13.882641886570001
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,16.25958946865,19.04173684806,13.91377522991
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,16.32485488728,19.095702980909998,13.95465514208
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,16.39428144318,19.15238318735,14.00534910484
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.55532105592,19.23667484528,14.22729912251
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,16.53090495979,19.33196591397,14.15373226611
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.07927510174,18.33920588688,12.273441011840001
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.07326954241,18.33535545082,12.276931908489999
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.065908526900001,18.333578644360003,12.279865865240001
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.05817317008,18.335545968599998,12.28278493298
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.05071781955,18.34912685897,12.2859220894
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.044121851849999,18.36293999935,12.28950914162
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.03582741813,18.323331095420002,12.27983292565
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.02405552133,18.29540024051,12.26853239398
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.010946174799999,18.267041958500002,12.257492431649998
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,14.999009808619999,18.23990742445,12.248038780180002
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,14.990536550909999,18.218844296580002,12.240554731949999
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,14.98146389353,18.22208166907,12.227225620979999
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,14.96829780407,18.22057416431,12.21048566863
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,14.953908287940001,18.21709568973,12.19397645834
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,14.94116437642,18.21508571488,12.18037095945
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,14.932692074430001,18.218300268449998,12.17128227587
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,14.92413731059,18.21995899456,12.150961434860001
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,14.911797340549999,18.21669342185,12.12770967144
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,14.89941900018,18.21315903676,12.1047674404
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.89080457406,18.214507099229998,12.08517505295
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.88966674583,18.20539651088,12.07179575061
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.91124501456,18.21599280934,12.094421673820001
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.95718342039,18.25361312856,12.1361194164
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,15.011101393450001,18.298534311,12.18352248834
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,15.05682471943,18.34297326211,12.223761424430002
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.078511795079999,18.36546129164,12.24456578936
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.0748040542,18.34236670562,12.237361069230001
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.06051014287,18.32199439683,12.22120006917
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.045270808229999,18.30503835959,12.20287467409
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.037531873119999,18.29125457592,12.19124259685
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.03780162132,18.32680127881,12.19503413603
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.03778855412,18.289849056,12.212873024979999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.93718543503,16.95912333939,11.41462315563
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,13.92513543621,16.89577832382,11.42521579446
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,13.91475368111,16.83573627269,11.43173914046
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,13.906296217040001,16.81541203147,11.41332348937
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,13.89982403026,16.82873675411,11.397448707539999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,13.895521418589999,16.8499721406,11.40592607522
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,13.89428507186,16.85004098444,11.38695244542
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,13.895958266470002,16.87408590993,11.38783419392
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,13.898712030710001,16.90077994942,11.37695638421
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,13.900578860260001,16.923846943010002,11.354544351000001
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,13.89965804839,16.95676390663,11.335443291839999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,13.895186602089998,16.92722933352,11.34657992742
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,13.88890089853,16.90565089376,11.354365222859998
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,13.882227042830001,16.88065707714,11.36168219068
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,13.876475371269999,16.85414230233,11.37086596512
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,13.87289752697,16.84715510974,11.37162694475
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,13.86999967502,16.81379366202,11.38058501886
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,13.86658667572,16.80197695201,11.38898463563
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,13.863712204219999,16.790323932190002,11.39617141105
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,13.86227201715,16.797227824710003,11.40115293678
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,13.86308364964,16.80989720273,11.392674243210001
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,13.86726793951,16.78601788108,11.38700517294
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,13.873950534199999,16.789689265830003,11.363552500359999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,13.88102726138,16.83051100103,11.34078762495
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,13.88656095815,16.827014534710003,11.33556763939
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,13.888685917250001,16.8258476075,11.329720671059999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,13.88792213904,16.81644121148,11.35284370868
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,13.88541326423,16.8050023288,11.405068385609999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,13.88058866705,16.81990125934,11.422728679099999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,13.872919086109999,16.83916033473,11.41238612813
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.809055074289999,16.758550810190002,11.33643289307
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,13.83275828907,16.72531353239,11.29120254715
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.62832983602,17.87800511247,11.82630367355
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,14.63247358075,17.892099333490002,11.83661220255
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,14.63406323746,17.90956811165,11.84494783311
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,14.63343245613,17.92616824198,11.8472881178
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,14.632734468449998,17.94175285815,11.848749400740001
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,14.629615795330002,17.95459441177,11.84882219028
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,14.624538133929999,17.94606052332,11.84821089259
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,14.619356557460002,17.93717815098,11.84855664338
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,14.614321750439998,17.92828267671,11.84922275611
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,14.609525471620001,17.91946233527,11.849588008540001
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,14.6052976321,17.910910932300002,11.84932320277
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,14.599202527560001,17.89269298563,11.83431742711
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,14.588404185689999,17.86973140072,11.81623903259
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,14.57546435553,17.84465362973,11.79854616102
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,14.56419201075,17.82074805025,11.78480486605
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,14.557392946999999,17.81340533369,11.77585437855
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,14.55294889005,17.815501210220003,11.76834418488
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,14.547162974319999,17.81597871493,11.76631817687
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,14.541283161910002,17.81668652166,11.769117628950001
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,14.53627093191,17.81960103535,11.773052882750001
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,14.534013161430002,17.82688380292,11.76784114256
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.539617278420002,17.83173437722,11.76477239228
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.552717130320001,17.85512995232,11.76793211832
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,14.568242186540001,17.89408049205,11.77306913646
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,14.58125427858,17.93722499819,11.77612058515
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,14.587136060499999,17.96977584861,11.77291219085
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,14.58542087129,17.95122260024,11.78829687987
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,14.58048129766,17.9264803531,11.77711904384
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,14.574189317500002,17.90399163509,11.77115817143
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,14.56826472216,17.89190857877,11.78465750393
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.544819149250001,17.8676203042,11.7178881215
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.541504957410002,17.865416434249997,11.761507014040001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.969469984489999,18.43378245316,12.18743183751
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,14.99046562133,18.46220182137,12.212736749089999
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.00678592073,18.47543342203,12.216463467910001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.01943716218,18.46931672339,12.21694219084
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.028566957639999,18.45915742928,12.22973747516
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.033792619149999,18.45133424405,12.24076546927
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.035602937279998,18.46423294556,12.234307364860001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.03545685453,18.4822171094,12.226095378080002
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.03425679492,18.49766686276,12.224791980009998
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.0323055459,18.51040046104,12.22369287143
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.030301600869999,18.519360302069998,12.21480563985
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.02631421259,18.505338073340003,12.223372947900002
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.019118151659999,18.48768168721,12.2223939892
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.0110730067,18.46920182112,12.2187558793
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.00428532389,18.44495999563,12.21896683841
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.00064376292,18.419547955469998,12.220843622270001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.00040347352,18.43920460886,12.21685619637
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.0014381378,18.45945124531,12.210514631999999
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,15.00308576163,18.479015445229997,12.208306757829998
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,15.004622607489999,18.495387553209998,12.205931480350001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,15.005104330879998,18.50532113153,12.203508792880001
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.00265419233,18.49508770888,12.197708665479999
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,14.99721590594,18.48026392558,12.18788776302
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,14.99102490185,18.464321080570002,12.18674271981
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,14.985854928279998,18.44867564474,12.1853957052
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,14.98345959542,18.43512705777,12.19321722573
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,14.98392562284,18.44279888546,12.1895556024
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,14.98499652722,18.426001479449997,12.1990468393
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,14.98525547464,18.39962008913,12.221816411499999
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,14.98331582544,18.40305881096,12.22833987715
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.945708430269999,18.4338806159,12.14784493314
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,14.95498696649,18.41042082055,12.12949765496
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.6970718851,18.79739176244,13.00893510071
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,15.704588398539999,18.8173662044,13.01478370524
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,15.7123796694,18.83784466453,13.01086133967
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,15.720213659699999,18.85822031896,13.006262756990001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,15.72480965452,18.87540965255,12.998144731
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,15.727434336810001,18.873840878019998,12.98776210452
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,15.72203468265,18.8682263329,12.975026849610002
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,15.70728028349,18.85954199685,12.95477092935
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,15.691852486430001,18.85149519142,12.93736812373
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.68102967535,18.84110667195,12.927463191180001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.68345074997,18.845592677550002,12.930506320730002
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.705669642670001,18.866259843959998,12.95944724467
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.739270648940002,18.89633196883,13.00058255685
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.779908199700001,18.931403684339998,13.049915548049999
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.820650484480002,18.96496362777,13.10057097726
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.853901225020001,18.99127531801,13.144306975969998
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.90701328088,19.04628166556,13.19087806313
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.9901475023,19.13765425558,13.26205794041
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,16.076979645,19.2346536266,13.3356617789
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,16.14843121558,19.31262793311,13.39766925092
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,16.18224273578,19.343290303299998,13.43010854548
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,16.17056120218,19.33522592246,13.405735483800001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,16.13006314518,19.29175782566,13.359004566729999
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,16.07361557051,19.23249079293,13.301323560550001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,16.01512083172,19.17853424948,13.243792536660001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.96770278845,19.13795715255,13.19576016161
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.898389106329999,19.05122275167,13.144290854300001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.791986862749999,18.91769690839,13.06288177158
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.689316249629998,18.78611665365,12.98456685616
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.63014547476,18.70730268095,12.93977818152
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.66568695968,18.73339010025,12.918987785959999
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.688893052809998,18.76103429351,12.945366169720002
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.26068946005,19.42545107241,13.65085102414
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1991,16.23098098991,19.37858183091,13.616444570639999
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1992,16.197915819669998,19.33440152899,13.56867480608
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1993,16.1645855613,19.30359587598,13.51772107442
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1994,16.13310936801,19.2757513377,13.46864835566
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1995,16.10484525478,19.25277193314,13.423173138420001
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1996,16.07748058229,19.22299163779,13.404077349049999
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1997,16.04929123963,19.17697294832,13.38359478431
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1998,16.022802401539998,19.13274803521,13.359233425270002
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1999,15.99943316675,19.09243829951,13.329766923820001
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2000,15.98123591524,19.05880599786,13.30602542995
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2001,15.963724143630001,19.05034385271,13.29991526894
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2002,15.94306305173,19.03614666221,13.29280623378
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2003,15.92213769726,19.019946847019998,13.279992813129999
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2004,15.90268507111,19.0037678,13.25685775792
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2005,15.887497257360002,18.99237808911,13.248280935690001
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2006,15.87345410157,18.972001222470002,13.24400468182
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2007,15.856017100719999,18.94981666935,13.2310057571
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2008,15.836215447130002,18.92622842322,13.21471862669
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2009,15.814538908240001,18.90093976364,13.197247400050001
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2010,15.79086281182,18.8732676342,13.179887129439999
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.76920274843,18.861157387309998,13.14346852089
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2012,15.754493675560001,18.86385435247,13.10912779135
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2013,15.745350666030001,18.87435728072,13.077959861770001
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2014,15.73818934252,18.88669311221,13.0502844634
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2015,15.72927594043,18.8927774684,13.022672083380002
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2016,15.723751370619999,18.90515594717,13.01353874022
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2017,15.72591636906,18.923406378419998,13.01206863418
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2018,15.730435061469999,18.94116844142,13.014321543590002
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2019,15.73221396677,18.95448977752,13.01523524492
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.71553052637,18.95352964525,12.97980484862
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2021,15.73729625794,18.9593675294,13.01101808225

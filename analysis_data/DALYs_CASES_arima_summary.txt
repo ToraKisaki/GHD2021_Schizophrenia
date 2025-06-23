@@ -1,0 +1,24 @@
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:                    val   No. Observations:                   32
+Model:                        SARIMAX   Log Likelihood                -416.723
+Date:                Thu, 19 Jun 2025   AIC                            839.447
+Time:                        11:28:37   BIC                            843.844
+Sample:                             0   HQIC                           840.904
+                                 - 32                                         
+Covariance Type:               robust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+intercept   8.477e+06   5.75e+04    147.346      0.000    8.36e+06    8.59e+06
+drift       2.103e+05   2850.742     73.769      0.000    2.05e+05    2.16e+05
+sigma2      1.366e+10   3.32e+09      4.118      0.000    7.16e+09    2.02e+10
+===================================================================================
+Ljung-Box (L1) (Q):                  24.66   Jarque-Bera (JB):                 1.16
+Prob(Q):                              0.00   Prob(JB):                         0.56
+Heteroskedasticity (H):               0.24   Skew:                             0.47
+Prob(H) (two-sided):                  0.03   Kurtosis:                         2.96
+===================================================================================
+
+Warnings:
+[1] Quasi-maximum likelihood covariance matrix used for robustness to some misspecifications; calculated using the observed information matrix (complex-step) described in Harvey (1989).
