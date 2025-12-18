@@ -1,0 +1,194 @@
+
+% 1st Table
+% \newgeometry{top=0.1cm,bottom=0.1cm}
+\begin{landscape}
+\begin{table}[htbp] % Using [htbp] float specifier. [p] could also be an option.
+\centering
+\caption{The incident cases and DALYs and their age-standardised rate of schizophrenia in 1990 and 2021, and their temporal trends from 1990 to 2021}
+\label{tab:schizophrenia_data}
+\footnotesize  % Use tiny font for the table content to fit
+\setlength{\tabcolsep}{4pt} % Adjusted space between columns
+\renewcommand{\arraystretch}{1.25} % Increase row height to fill more vertical space. Adjust as needed (e.g., 1.2 to 1.3).
+
+\begin{tabularx}{24cm}{@{}l*{10}{l}@{}}
+
+\toprule
+& \multicolumn{5}{c}{\textbf{Incidence}} & \multicolumn{5}{c}{\textbf{DALYs}} \\
+\cmidrule(lr){2-6} \cmidrule(lr){7-11} % Horizontal lines under Incidence and DALYs
+\textbf{Category} &
+  \textbf{\shortstack{Cases in 1990 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 1990 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{\shortstack{Cases in 2021 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 2021 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{EAPC} &
+  \textbf{\shortstack{Cases in 1990 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 1990 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{\shortstack{Cases in 2021 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 2021 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{EAPC} \\
+\midrule
+
+% Global Data
+Global &
+\valrng{827.03}{730.77-939.75} & \valrng{14.95}{13.32-16.93} & \valrng{1130.49}{1004.58-1281.9} & \valrng{14.39}{12.78-16.3} & \valrng{-0.124}{-0.114 \text{ to } -0.135} &
+\valrng{779.12}{582.92-961.03} & \valrng{157.01}{117.53-193.51} & \valrng{1265.79}{948.19-1556.37} & \valrng{156.45}{117.1-192.28} & \valrng{-0.005}{-0.009 \text{ to } 0} \\
+\midrule
+
+% Sex Category
+\multicolumn{11}{@{}l}{\textbf{Sex}} \\ % Category title spanning columns, left aligned
+\hspace{1em}Male & % Indented sub-category
+\valrng{435.97}{385.74-495.06} & \valrng{15.66}{13.95-17.7} & \valrng{595.28}{528.52-674.57} & \valrng{15.04}{13.34-17.03} & \valrng{-0.123}{-0.111 \text{ to } -0.134} &
+\valrng{405.24}{302.7-500.15} & \valrng{162.48}{121.47-200.61} & \valrng{651.49}{485.92-801.9} & \valrng{161.56}{120.53-198.88} & \valrng{-0.002}{-0.01 \text{ to } 0.007} \\
+
+\hspace{1em}Female &
+\valrng{391.06}{345.31-445.09} & \valrng{14.3}{12.68-16.14} & \valrng{535.21}{476.06-607.34} & \valrng{13.73}{12.19-15.59} & \valrng{-0.125}{-0.114 \text{ to } -0.136} &
+\valrng{373.88}{280.16-459.71} & \valrng{151.38}{113.58-185.79} & \valrng{614.3}{460.78-754.36} & \valrng{151.28}{113.17-185.81} & \valrng{-0.005}{-0.01 \text{ to } 0} \\
+\midrule
+
+% Socio-demographic index Category
+\multicolumn{11}{@{}l}{\textbf{Socio-demographic index}} \\
+\hspace{1em}High SDI &
+\valrng{144.55}{129.85-162.55} & \valrng{14.32}{12.83-16.08} & \valrng{154.54}{139.13-172.69} & \valrng{14.53}{12.93-16.4} & \valrng{0.1}{0.084 \text{ to } 0.117} &
+\valrng{184.48}{139.34-225.68} & \valrng{168.11}{126.81-206.2} & \valrng{236.08}{178.79-288.67} & \valrng{171.25}{128.38-210.75} & \valrng{0.099}{0.090 \text{ to } 0.108} \\
+
+\hspace{1em}High-middle SDI &
+\valrng{186.18}{167.05-210.86} & \valrng{15.65}{14.09-17.59} & \valrng{232.56}{209.73-261.67} & \valrng{15.76}{14.19-17.72} & \valrng{0.042}{0.034 \text{ to } 0.050} &
+\valrng{175.51}{131.91-214.81} & \valrng{157.28}{118.32-192.7} & \valrng{284.77}{214.24-348.97} & \valrng{166.91}{125.25-204.45} & \valrng{0.209}{0.201 \text{ to } 0.218} \\
+
+\hspace{1em}Middle SDI &
+\valrng{264.49}{231.3-302.62} & \valrng{16.1}{14.3-18.25} & \valrng{337.67}{299.38-383.58} & \valrng{15.17}{13.44-17.25} & \valrng{-0.214}{-0.211 \text{ to } -0.218} &
+\valrng{224.5}{166.54-276.4} & \valrng{161.48}{120.43-198.65} & \valrng{377.61}{280.3-464.96} & \valrng{160.62}{119.34-197.64} & \valrng{-0.025}{-0.028 \text{ to } -0.021} \\
+
+\hspace{1em}Low-middle SDI &
+\valrng{142.95}{124.81-164.04} & \valrng{14.23}{12.54-16.25} & \valrng{238.78}{208.99-273.84} & \valrng{13.61}{12-15.54} & \valrng{-0.146}{-0.137 \text{ to } -0.155} &
+\valrng{121.32}{90.46-150.52} & \valrng{144.64}{108.33-178.87} & \valrng{224.22}{166.28-278.13} & \valrng{142.12}{105.26-175.66} & \valrng{-0.046}{-0.055 \text{ to } -0.037} \\
+
+\hspace{1em}Low SDI &
+\valrng{83.78}{72.96-96.15} & \valrng{13.46}{11.84-15.39} & \valrng{161.43}{141.36-185.39} & \valrng{12.99}{11.47-14.84} & \valrng{-0.114}{-0.103 \text{ to } -0.124} &
+\valrng{68.88}{51.18-85.81} & \valrng{134.28}{100.02-166.1} & \valrng{136.35}{102.48-169.69} & \valrng{131.09}{98.2-162.5} & \valrng{-0.067}{-0.077 \text{ to } -0.057} \\
+\midrule
+
+% Region Category
+\multicolumn{11}{@{}l}{\textbf{Region}} \\
+\hspace{1em}Andean Latin America &
+\valrng{4.48}{3.9-5.2} & \valrng{12.23}{10.78-14.02} & \valrng{7.72}{6.79-8.91} & \valrng{12.26}{10.83-14.05} & \valrng{0.004}{-0.004 \text{ to } 0.013} &
+\valrng{3.7}{2.73-4.65} & \valrng{122.69}{91.36-153.44} & \valrng{7.53}{5.63-9.42} & \valrng{125.26}{93.77-155.89} & \valrng{0.074}{0.061 \text{ to } 0.087} \\
+
+\hspace{1em}Australasia &
+\valrng{3.62}{3.19-4.06} & \valrng{17.04}{14.98-19.17} & \valrng{4.52}{3.99-5.08} & \valrng{16.9}{14.74-19.04} & \valrng{-0.021}{-0.013 \text{ to } -0.029} &
+\valrng{4.55}{3.42-5.51} & \valrng{205.02}{154.35-252.69} & \valrng{6.71}{5.03-8.35} & \valrng{204.92}{153.98-255.17} & \valrng{0.008}{-0.001 \text{ to } 0.016} \\
+
+\hspace{1em}Caribbean &
+\valrng{4.33}{3.79-4.99} & \valrng{11.97}{10.55-13.7} & \valrng{5.7}{5.06-6.5} & \valrng{11.85}{10.52-13.52} & \valrng{-0.043}{-0.033 \text{ to } -0.052} &
+\valrng{3.8}{2.84-4.75} & \valrng{120.14}{90.06-148.88} & \valrng{5.92}{4.42-7.34} & \valrng{119.96}{89.44-148.78} & \valrng{0.007}{0 \text{ to } 0.014} \\
+
+\hspace{1em}Central Asia &
+\valrng{7.47}{6.48-8.73} & \valrng{10.66}{9.38-12.32} & \valrng{10.49}{9.17-12.23} & \valrng{10.72}{9.41-12.4} & \valrng{0.021}{0.006 \text{ to } 0.035} &
+\valrng{6.97}{5.19-8.68} & \valrng{115.61}{86.26-143.35} & \valrng{11.12}{8.25-13.94} & \valrng{117.4}{87.4-147.09} & \valrng{0.065}{0.025 \text{ to } 0.105} \\
+
+\hspace{1em}Central Europe &
+\valrng{13.73}{12.11-15.74} & \valrng{11.13}{9.76-12.88} & \valrng{12.21}{10.78-13.93} & \valrng{11.26}{9.84-13} & \valrng{0.044}{0.039 \text{ to } 0.049} &
+\valrng{16.32}{12.21-20.24} & \valrng{119.6}{89.47-148.62} & \valrng{17.43}{13.03-21.59} & \valrng{123.01}{92-152.14} & \valrng{0.112}{0.106 \text{ to } 0.118} \\
+
+\hspace{1em}Central Latin America &
+\valrng{19.77}{17.2-22.96} & \valrng{12.36}{10.91-14.17} & \valrng{33.06}{28.98-38.01} & \valrng{12.36}{10.87-14.15} & \valrng{-0.007}{-0.005 \text{ to } -0.009} &
+\valrng{16.21}{12-20.33} & \valrng{125.47}{93.19-155.78} & \valrng{32.85}{24.49-40.6} & \valrng{126.85}{94.58-156.52} & \valrng{0.028}{0.024 \text{ to } 0.032} \\
+
+\hspace{1em}Central Sub-Saharan Africa &
+\valrng{5.49}{4.78-6.34} & \valrng{11.65}{10.31-13.29} & \valrng{12.67}{11.11-14.52} & \valrng{11.63}{10.29-13.21} & \valrng{-0.009}{-0.020 \text{ to } 0.002} &
+\valrng{3.81}{2.81-4.81} & \valrng{99.09}{73.49-124.01} & \valrng{9.03}{6.7-11.36} & \valrng{99.77}{74.42-124.44} & \valrng{0.055}{0.006 \text{ to } 0.104} \\
+
+\hspace{1em}East Asia &
+\valrng{282.31}{252.28-318.44} & \valrng{19.93}{17.97-22.29} & \valrng{304.92}{275.35-341.91} & \valrng{19.66}{17.72-22} & \valrng{-0.059}{-0.051 \text{ to } -0.066} &
+\valrng{245.49}{183.96-301.84} & \valrng{197.08}{148.01-241.38} & \valrng{382.25}{286.61-468.75} & \valrng{205.23}{153.13-253.34} & \valrng{0.134}{0.115 \text{ to } 0.153} \\
+
+\hspace{1em}Eastern Europe &
+\valrng{23.77}{21-27.27} & \valrng{10.37}{9.13-11.97} & \valrng{21.59}{19.12-24.73} & \valrng{10.55}{9.3-12.18} & \valrng{0.089}{0.051 \text{ to } 0.127} &
+\valrng{29.21}{21.91-36.2} & \valrng{114.04}{85.76-142.27} & \valrng{30.42}{22.79-37.53} & \valrng{116.48}{86.83-144.22} & \valrng{0.112}{0.057 \text{ to } 0.167} \\
+
+\hspace{1em}Eastern Sub-Saharan Africa &
+\valrng{18.75}{16.47-21.53} & \valrng{11.8}{10.5-13.35} & \valrng{41.6}{36.48-47.7} & \valrng{11.8}{10.51-13.39} & \valrng{-0.002}{-0.009 \text{ to } 0.005} &
+\valrng{12.59}{9.35-15.81} & \valrng{98.28}{73.6-122.16} & \valrng{28.86}{21.53-36.12} & \valrng{101.85}{76.52-126.34} & \valrng{0.151}{0.121 \text{ to } 0.181} \\
+\midrule
+\multicolumn{11}{r}{\textit{(Continued)}} \\ % Right-aligned "(Continued)" text
+\bottomrule
+\end{tabularx}
+\end{table}
+\end{landscape}
+
+
+% Second table
+\begin{landscape}
+\begin{table}[htbp] % Using [htbp] float specifier. [p] could also be an option.
+\centering
+\caption{The incident cases and DALYs and their age-standardised rate of schizophrenia in 1990 and 2021, and their temporal trends from 1990 to 2021}
+\footnotesize  % Use tiny font for the table content to fit
+\setlength{\tabcolsep}{4pt} % Adjusted space between columns
+\renewcommand{\arraystretch}{1.25} % Increase row height to fill more vertical space. Adjust as needed (e.g., 1.2 to 1.3).
+\begin{tabularx}{24cm}{@{}l*{10}{l}@{}}
+\toprule
+& \multicolumn{5}{c}{\textbf{Incidence}} & \multicolumn{5}{c}{\textbf{DALYs}} \\
+\cmidrule(lr){2-6} \cmidrule(lr){7-11}
+\textbf{Category} &
+  \textbf{\shortstack{Cases in 1990 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 1990 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{\shortstack{Cases in 2021 \\ \tiny{(No. $\times 10^3$)}}} &
+  \textbf{\shortstack{ASR in 2021 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{EAPC} &
+  \textbf{\shortstack{Cases in 1990 \\ \tiny{(No. $\times 10^4$)}}} &
+  \textbf{\shortstack{ASR in 1990 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{\shortstack{Cases in 2021 \\ \tiny{(No. $\times 10^4$)}}} &
+  \textbf{\shortstack{ASR in 2021 \\ \tiny{(per 100,000 persons)}}} &
+  \textbf{EAPC} \\
+\midrule
+\multicolumn{11}{@{}l}{\textbf{Region}} \\
+\hspace{1em}High-income Asia Pacific &
+  \valrng{26.66}{23.51--30.38} & \valrng{14.51}{12.78--16.69} & \valrng{24.81}{22.03--27.86} & \valrng{14.72}{12.95--16.93} & \valrng{0.13}{0.164--0.095} &
+  \valrng{32.95}{24.43--40.67} & \valrng{165.63}{122.56--204.74} & \valrng{38.64}{28.92--47.41} & \valrng{166.21}{124.33--205.22} & \valrng{0.095}{0.06--0.131} \\
+
+\hspace{1em}High-income North America &
+  \valrng{42.32}{37.69--47.93} & \valrng{14.53}{12.93--16.38} & \valrng{47.10}{42.16--52.66} & \valrng{14.16}{12.63--15.95} & \valrng{-0.06}{-0.03--0.091} &
+  \valrng{61.22}{46.08--75.17} & \valrng{195.35}{147.1--239.79} & \valrng{79.70}{60.09--97.26} & \valrng{190.82}{143.29--233.16} & \valrng{-0.034}{-0.065--0.003} \\
+
+\hspace{1em}North Africa and Middle East &
+  \valrng{38.31}{33.44--44.06} & \valrng{11.90}{10.5--13.6}   & \valrng{75.42}{65.95--86.74} & \valrng{11.82}{10.4--13.5}   & \valrng{-0.007}{0--0.014} &
+  \valrng{30.62}{22.58--37.89} & \valrng{116.48}{86--142.97}   & \valrng{71.15}{53.07--88.21} & \valrng{118.47}{88.13--146.38} & \valrng{0.079}{0.073--0.085} \\
+
+\hspace{1em}Oceania &
+  \valrng{0.91}{0.79--1.05}     & \valrng{14.59}{12.89--16.61} & \valrng{1.85}{1.62--2.15}     & \valrng{14.56}{12.87--16.71} & \valrng{-0.01}{-0.003--0.017} &
+  \valrng{0.68}{0.5--0.85}      & \valrng{132.11}{97.45--164.01}& \valrng{1.47}{1.09--1.85}     & \valrng{132.50}{98.76--165.21} & \valrng{-0.017}{-0.032--0.003} \\
+
+\hspace{1em}South Asia &
+  \valrng{162.16}{140.74--186.84} & \valrng{14.92}{13.07--17.06} & \valrng{274.57}{239.02--314.67} & \valrng{14.41}{12.65--16.49} & \valrng{-0.085}{-0.059--0.112} &
+  \valrng{148.84}{111.41--184.39} & \valrng{162.44}{122.02--200.97} & \valrng{278.81}{208.24--345.21} & \valrng{160.04}{119.72--198.08} & \valrng{-0.013}{-0.034--0.007} \\
+
+\hspace{1em}Southeast Asia &
+  \valrng{67.05}{58.3--77.37}   & \valrng{14.20}{12.54--16.15}  & \valrng{102.87}{90.75--117.04} & \valrng{14.63}{12.9--16.66}   & \valrng{0.106}{0.111--0.102} &
+  \valrng{53.82}{39.75--67.21}  & \valrng{134.46}{99.64--166.68} & \valrng{102.19}{76.44--126.35} & \valrng{144.23}{108.05--178.27}& \valrng{0.246}{0.238--0.253} \\
+
+\hspace{1em}Southern Latin America &
+  \valrng{5.24}{4.58--5.96}     & \valrng{10.67}{9.31--12.13}   & \valrng{7.18}{6.31--8.14}      & \valrng{10.58}{9.28--12.02}  & \valrng{-0.012}{-0.002--0.021} &
+  \valrng{5.59}{4.17--6.95}     & \valrng{116.51}{86.84--144.78} & \valrng{8.39}{6.3--10.44}      & \valrng{116.75}{87.19--145.78}& \valrng{0.027}{0.021--0.034} \\
+
+\hspace{1em}Southern Sub-Saharan Africa &
+  \valrng{5.95}{5.19--6.85}     & \valrng{11.81}{10.42--13.42}  & \valrng{9.63}{8.46--11.09}     & \valrng{11.79}{10.45--13.35} & \valrng{-0.006}{0--0.012} &
+  \valrng{4.46}{3.3--5.57}      & \valrng{107.38}{80.6--133.4}   & \valrng{8.09}{6.1--10.12}      & \valrng{107.72}{81.54--133.92}& \valrng{0.002}{-0.022--0.026} \\
+
+\hspace{1em}Tropical Latin America &
+  \valrng{19.30}{16.83--22.34}  & \valrng{12.43}{10.94--14.20}  & \valrng{29.49}{26.04--33.82}   & \valrng{12.45}{10.97--14.29} & \valrng{0}{0.005--0.006} &
+  \valrng{16.43}{12.34--20.47}  & \valrng{123.53}{92.51--152.58}  & \valrng{30.77}{22.98--38.03}   & \valrng{125.50}{93.83--154.81}& \valrng{0.052}{0.039--0.065} \\
+
+\hspace{1em}Western Europe &
+  \valrng{55.31}{50.31--61.32}  & \valrng{13.78}{12.48--15.32}  & \valrng{55.90}{50.68--61.81}   & \valrng{13.82}{12.45--15.49} & \valrng{-0.008}{-0.003--0.014} &
+  \valrng{67.41}{51.14--81.55}  & \valrng{150.64}{113.42--183.06} & \valrng{80.13}{60.84--97.32}    & \valrng{151.72}{115.4--185.53} & \valrng{0.011}{0.006--0.016} \\
+
+\hspace{1em}Western Sub-Saharan Africa &
+  \valrng{20.10}{17.66--23.09}  & \valrng{12.18}{10.78--13.75}  & \valrng{47.19}{41.35--54.17}   & \valrng{12.22}{10.85--13.80} & \valrng{0.014}{0.021--0.008} &
+  \valrng{14.47}{10.64--18.02}  & \valrng{105.89}{78.39--131.13}  & \valrng{34.32}{25.57--42.92}   & \valrng{109.11}{81.72--135.43}& \valrng{0.134}{0.106--0.162} \\
+
+\bottomrule
+\end{tabularx}
+
+\end{table}
+\end{landscape}
+% \restoregeometry
