@@ -38,19 +38,12 @@ MeasureData = Dict[str, Dict[str, Dict[int, Tuple[float, float, float]]]]
 
 
 def default_sources() -> List[Path]:
-    """Return the default CSV sources that are already in the repo."""
-    paths: List[Path] = []
-    primary = Path("IHME-GBD_2021_DATA-575f1e63-1.csv")
-    if primary.exists():
-        paths.append(primary)
-
-    region_rates = Path("EAPC_analysis/Incidence_ASR_REGIONAL_SDI.csv")
-    if region_rates.exists():
-        paths.append(region_rates)
-
-    for csv_path in sorted(Path("Schiz").glob("IHME-GBD_2021_DATA-851501aa-*.csv")):
-        paths.append(csv_path)
-    return paths
+    """Return every CSV file that is tracked in the repository."""
+    repo_root = Path(".")
+    csv_paths = sorted(
+        path for path in repo_root.rglob("*.csv") if path.is_file()
+    )
+    return csv_paths
 
 
 def baseline_category_specs() -> Dict[str, Dict[str, Iterable[Dict[str, str]]]]:

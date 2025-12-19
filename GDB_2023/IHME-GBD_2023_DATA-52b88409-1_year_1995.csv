@@ -1,0 +1,325 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,157186.0923207917,203033.35494166,114391.49205005825
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,157759.45735955023,203106.96177167114,114052.38788529839
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,314945.54968034185,405427.44939974824,228620.82450153743
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,173.63096427525483,224.27478588000656,126.35917577874373
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,169.51671671119476,218.2438116673424,122.55231255850295
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,171.5454317200972,220.8293684703517,124.52583654262303
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,1144630.8969465678,1446489.4185189763,831928.5823048328
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,858250.4840428714,1082249.3676026678,623665.3796828755
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,2002881.3809894403,2525495.984982634,1455593.961987708
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,183.75483894315772,232.21409700016514,133.55475818574743
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,149.2326082759463,188.18153783210914,108.4429464729959
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,167.18246679744937,210.8056186771636,121.49985092994417
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,5692518.734839127,7178684.359708229,4160281.7174494807
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,4890926.047144529,6148245.476692927,3572796.7309396015
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,10583444.781983651,13323272.41050089,7733078.448389081
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,197.00390070190414,248.4363928598012,143.97699235319715
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,172.0512449706226,216.28077759785407,125.68256392754334
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,184.6295020928093,232.4261336521651,134.90450916332992
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,467671.19107473886,597400.3150139013,333743.29153102
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,427402.04808048974,547979.9200806336,307844.07824767823
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,895073.23915523,1145413.744908177,642463.1866773934
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,185.52204339259382,236.9847219155439,132.39373858183623
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,167.34454106409623,214.5554721838026,120.53294134883463
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,176.37385914566454,225.70336556884504,126.59713935840485
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,134673.62590524816,170295.13921647664,96315.78532624216
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,131440.4982641646,166236.47038034027,95247.97430799087
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,266114.1241694126,337803.5666480784,191563.75963423302
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,219.0426966053665,276.9800416527566,156.65479563435107
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,203.74931460004092,257.68745058659516,147.64634750008724
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,211.2122287570556,268.1114518686793,152.04231924070797
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,60383.06709162897,80212.26583917516,41953.65983948108
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,61138.85868088044,79766.42203960006,43448.14874851368
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,121521.92577250944,158775.40743218607,85948.10829900324
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,168.73758253225876,224.14932660838053,117.23748859845753
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,164.17903199813622,214.20049766993355,116.67334257701393
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,166.41292584916584,217.42808909353784,117.69790580848155
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,37281.92385968297,48123.40135461681,26660.015824068298
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,34865.132266741544,44906.53163922539,24497.08935567468
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,72147.05612642452,92475.82594050816,51271.12152551488
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,199.63874847299024,257.6931291115188,142.76012722462454
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,181.62945817782293,233.93999907633366,127.61727196570138
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,190.5102096213577,244.18999098123703,135.38559483607884
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,32492.947484701515,42398.50326656953,23659.71680671551
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,18856.326676029494,24204.745199185014,13248.251780780538
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,51349.274160730994,66696.09419929491,37117.75943032132
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,304.45118221455175,397.26388163807474,221.68591372197008
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,173.40767009411618,222.59311382996387,121.8343590242213
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,238.31711430051277,309.5432401817003,172.26723184141096
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,6499.018513705459,8569.358706739018,4456.862075246186
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,5183.113726808246,6922.514324707965,3603.5942607894067
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,11682.132240513716,15512.998392953428,8160.651474577592
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,170.07653442905382,224.25645165467236,116.63417400452491
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,145.06362178980135,193.74550757779866,100.85644700930817
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,157.9899437532284,209.7988357850379,110.3652005399245
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,168277.32368139765,214196.31794995305,123068.98252794896
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,171826.44530520902,213317.39498742306,127902.69110017989
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,340103.7689866063,427361.0141947788,252004.33771980216
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,158.73519544015613,202.05036334379423,116.09038322466924
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,142.54520841686315,176.96561477142262,106.10657589737204
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,150.12101564345443,188.63616151182205,111.23413080006942
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,696805.9506162925,887787.7005704839,511869.2603288055
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,573558.1736991352,724529.5939355183,418317.97408804746
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1270364.1243154295,1606385.2212508353,931189.645248395
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,173.23098021952237,220.71041939386208,127.25438643653212
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,148.36255574694906,187.41440223456604,108.20650214139276
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,161.04343490931765,203.64066401607917,118.04645310146947
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,687096.308726739,877328.0885417277,497593.9773237376
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,593629.9679731919,749039.5633853876,436740.7273337375
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1280726.2766999311,1620179.7717653546,935485.4934883736
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,149.7483551931234,191.20818516302108,108.44750395518207
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,132.73947104153265,167.4900540692496,97.65802984392548
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,141.35297823829674,178.8182535073687,103.24896350532684
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,41151.82849773033,53190.41274625792,30113.954779920823
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,43984.60739647041,56360.49019676989,32591.708668984014
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,85136.43589420067,109597.68792194295,62384.330037410444
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,145.05148794539403,187.48495012074332,106.14531864577383
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,144.69421293693222,185.40660591222453,107.21549908632036
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,144.8666865449923,186.48952984095376,106.15209680705567
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,434548.8303814243,537491.652799578,315949.49475277413
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,423576.49901728204,517149.7045180022,307929.37352184
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,858125.3293987067,1060065.6913305193,623878.8682746142
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,298.2715866789211,368.930893143785,216.8657479243371
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,279.58176502258624,341.34478070784735,203.2488533978431
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,288.7438405045845,356.6931640584468,209.9240918124301
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,150875.97703684727,193396.34194213132,112953.22756331804
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,141980.70344956973,179913.7171576235,103444.68056151338
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,292856.68048641714,371965.6227651447,216847.59285261037
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,183.81816972580538,235.62241190184017,137.61538425856074
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,168.35514745861317,213.3346267907275,122.66064350025226
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,175.98188624579475,223.519613088826,130.3069076473823
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,605308.6654584409,776706.8865095463,436538.07798924786
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,526954.1821520837,667480.5339043811,380326.66834776266
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1132262.8476105253,1443875.1583790476,816282.5806948252
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,180.44379572660077,231.53796858768945,130.13292600382076
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,159.63386800667342,202.20448580776963,115.21498306834252
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,170.12252985202775,216.9422897274418,122.64648442277014
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,1255423.7526165359,1582425.0335582136,920863.1727335413
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,1042871.6781951601,1328339.4514238387,762036.2513588944
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,2298295.4308116976,2918180.1520695724,1677886.1347650415
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,200.17766818929772,252.31811381762918,146.83189023228837
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,174.77136343723447,222.61194918495744,127.70709706977935
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,187.79055799850212,238.44048582725387,137.09776788539114
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,344038.739994664,444789.22119557066,245691.382348445
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,292043.8015086426,372537.19321954076,209784.6728477142
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,636082.5415033067,814963.9861850328,455031.6202545515
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,175.34431014704916,226.6932472563708,125.22015964722806
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,156.43913298649952,199.55703634670115,112.37537713390442
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,166.1268815662829,212.84568712383515,118.84146970656745
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,28514.75605951116,37393.535836497045,19916.58148194146
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,25083.865620947956,33513.90584703434,17314.392534799248
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,53598.62168045914,70160.83694556316,37677.66728844538
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,135.28638958718957,177.4111778007474,94.49291433486418
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,117.5600494530293,157.0689497495654,81.14701591051013
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,126.36894303444332,165.4175150264199,88.83226549424731
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,145260.9390203924,187135.9467594935,106164.47827337745
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,144800.6511337934,186757.02394939133,104669.73867256494
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,290061.59015418566,373578.20286854624,211881.79008920433
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,130.62021268327277,168.27467405383578,95.4642509197225
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,129.27020774769477,166.72659339060635,93.44349460554056
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,129.9427750204869,167.35683046521683,94.91952300842122
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,41117.96061036353,54614.46903560692,28202.904168470166
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,44487.411564379865,58478.17552669465,30919.653675828024
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,85605.37217474336,112539.20715049442,58488.980513812734
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,159.2910475843398,211.57654360298292,109.25809751332991
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,165.07987319611192,216.99553786617992,114.73386130111957
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,162.24777444210815,213.2954443603741,110.85410502489168
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,240432.75196657356,295789.2825201389,184270.53180031857
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,218574.9990319597,268193.8376905117,166667.36944840816
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,459007.75099853356,559340.3997551237,353814.38829559844
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,277.7787076868133,341.7336613835239,212.8929181635393
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,246.41219412363554,302.3503707580668,187.89373156347017
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,261.90327923296803,319.1516582991516,201.88144608198547
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,38498.423612484956,50270.62321114963,26929.079049238957
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,38623.81796166405,49885.09099892357,26331.40870075045
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,77122.24157414897,100822.49416281148,52996.72402112042
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,121.54519618416339,158.71176498036738,85.0190706259758
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,120.14001621734819,155.16838981488314,81.90427656514078
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,120.83737897477266,157.97162644215962,83.0368139495073
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,1458197.9474262935,1839644.595994008,1061853.201244528
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,1147469.071790923,1458212.943694071,831257.5840796847
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,2605667.019217217,3297708.837892186,1899239.9721615436
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,220.9072269267201,278.693840537246,160.86365126504606
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,185.40808469859672,235.6180882078559,134.31462367421355
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,203.72951863503417,257.8382537704702,148.49604437067612
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,2442514.6549600787,3060520.91450003,1793046.971086335
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,2148895.3988748807,2656779.9213491688,1575037.0832849836
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,4591410.053834959,5707419.525259923,3361114.989256419
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,229.7344807801448,287.8620121200173,168.64779667971445
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,199.08896526932375,246.14300247776671,145.92264627501248
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,214.29605172081372,266.38384623388436,156.87417658888683
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,433004.1492628988,547262.4180254638,314592.6408958252
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,374070.9692332089,474658.67861734715,271119.587092612
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,807075.1184961082,1026730.3288098675,583389.3722451936
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,226.46159241642445,286.21877842667726,164.53225804194693
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,186.25838805178446,236.34328142406505,134.99656860474755
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,205.86620634839161,261.89517294101006,148.80914320823157
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,127780.34409148,165292.3699278313,92274.57660978725
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,129507.28503294327,167018.37892758264,92475.99447994775
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,257287.6291244232,331313.70940963307,184887.014591799
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,118.75548900670098,153.61811990272264,85.75741868668386
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,118.36721216390966,152.6516434095933,84.52131210913807
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,118.5597296339511,152.6714049381351,85.19707899454261
+6,Incidence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,149396.90359410492,177875.99554658704,126170.40509266252
+6,Incidence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,119842.3368048542,143832.67666662834,101423.2856065226
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,269239.2403989591,321447.7335952252,227070.57795227252
+6,Incidence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,23.8213780278,28.362377198260003,20.11790635099
+6,Incidence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,20.08397489242,24.10443540988,16.997187938219998
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,21.999167953679997,26.265052112059998,18.55362455454
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,5798.578302232559,7190.604618706209,4557.524659474036
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,5511.380012146516,6765.941430312755,4301.001317718863
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,11309.958314379071,13967.22763546107,8865.908812106518
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,18.30696613524,22.70179833493,14.38877691268
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,17.14323748875,21.04557125787,13.378334803000001
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,17.72077277745,21.88425990432,13.891364685680001
+6,Incidence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,844.7093189528164,1047.7261595613911,668.0275808083793
+6,Incidence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,664.1439066227374,845.4173458169405,519.5697006847627
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1508.8532255755545,1895.356205832506,1194.07928821369
+6,Incidence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.10568153705,27.4185454116,17.48199602867
+6,Incidence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,18.58788472767,23.66131799767,14.54157993171
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.40583271381,25.63292506767,16.14880877033
+6,Incidence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,7481.093742134942,9173.532581124284,5954.342584162693
+6,Incidence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,6865.874533319004,8480.006595439756,5366.111872290322
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,14346.968275453944,17707.797315975233,11380.43253966395
+6,Incidence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,20.90555736146,25.63499645804,16.63912453628
+6,Incidence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,18.43725347548,22.77175767123,14.409870772769999
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,19.6468328872,24.249174319469997,15.584439304390001
+6,Incidence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,57494.14552103751,69418.29694532596,47965.805119410485
+6,Incidence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,50342.58199999317,61259.15031891981,42073.51014601429
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,107836.72752103068,130522.464500102,90049.52335003598
+6,Incidence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.80754419715,27.53777556521,19.027715088180003
+6,Incidence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,19.71108074611,23.98534223721,16.47341719105
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,21.24918828818,25.719404582810004,17.7442261177
+6,Incidence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,4539.032755635847,5549.05328707199,3584.317581062004
+6,Incidence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,4352.9883657601085,5237.71722099056,3432.8114330122985
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,8892.021121395961,10746.30715982389,6980.395432578838
+6,Incidence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,17.58422042173,21.497041635280002,13.88565225237
+6,Incidence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,16.15267650274,19.43564851883,12.7381669587
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,16.85303854872,20.36746498331,13.229936333309999
+6,Incidence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,21037.65465366108,23862.24136128505,18218.80000810904
+6,Incidence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,18082.172647834363,20390.433478104904,15637.726854843511
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,39119.82730149543,44180.21497297779,33939.438915018865
+6,Incidence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,24.30539298268,27.56871729676,21.04869108082
+6,Incidence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,20.3850754039,22.98731087601,17.629310774209998
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,22.32121577685,25.208600842720003,19.36536001371
+6,Incidence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,3797.235342939718,4719.403099212896,3017.8950149304974
+6,Incidence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,3229.152190618084,4026.994807760104,2533.001925367923
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,7026.3875335578,8731.360786247742,5595.099007292345
+6,Incidence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,18.01573399004,22.390898416469998,14.31820492768
+6,Incidence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,15.1340027473,18.87323572456,11.8713692742
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,16.56604476248,20.58584342688,13.19150988508
+6,Incidence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,38617.744823922905,45455.72611388071,33280.26761300152
+6,Incidence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,33790.58678570357,39916.94128966052,28708.224956083403
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,72408.33160962645,85146.11136650291,62042.9323313467
+6,Incidence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,26.506977391889997,31.20052478274,22.84336657244
+6,Incidence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,22.303484533749998,26.347186224820003,18.94887044609
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,24.364109806829997,28.650145098520003,20.87633815688
+6,Incidence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,19685.28808845287,23189.693050732894,16789.63393881936
+6,Incidence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,17256.290204302313,20328.499199251928,14703.893098301269
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,36941.57829275521,43548.572348281305,31586.60247915893
+6,Incidence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,23.98336499959,28.252920158699997,20.455475030629998
+6,Incidence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,20.46183186411,24.10473675049,17.43529952053
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,22.19873768308,26.168977577810004,18.980853962919998
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,644948.7663779086,762843.198308987,548349.5593376196
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,527288.5823344507,625465.1789875885,447414.9696671298
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,1172237.3487123586,1389754.8470338397,995807.9341434598
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.32007107007,26.40010383646,18.97701301825
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,18.54876891921,22.00239007772,15.739003576759998
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.44982540994,24.24444504833,17.371992470160002
+6,Incidence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,21481.58184921075,25715.85644428488,17814.674534221136
+6,Incidence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,20402.55616682415,24758.67498238141,16842.886976440048
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,41884.13801603492,50602.20344929108,34667.0010211643
+6,Incidence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,23.72899354876,28.40625964842,19.67845292135
+6,Incidence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,21.923087159410002,26.60385224048,18.09812830223
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,22.81357061713,27.562151125819998,18.88252005037
+6,Incidence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,2904.366065441043,3516.7752869707333,2306.9940340664484
+6,Incidence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,1682.2224281887625,2070.941092062182,1319.5571414847063
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,4586.588493629804,5550.960462781928,3618.365698627933
+6,Incidence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,27.21321857992,32.95134718711,21.61598486453
+6,Incidence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,15.4701536977,19.04491133647,12.13498967175
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,21.28681567853,25.76256238687,16.793196902480002
+6,Incidence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,40689.45656600487,47650.81770933975,34025.47637552724
+6,Incidence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,30446.969668720027,35558.01609813396,25227.962976636096
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,71136.42623472489,83146.49174030719,58862.89683911127
+6,Incidence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,21.28062547248,24.921424140550002,17.79535733282
+6,Incidence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,15.160234174760001,17.70513968067,12.56157281461
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,18.14525794007,21.2087480254,15.01456430663
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,20269.475920772067,24430.51745425767,16864.792562430917
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,20968.457675098,25561.358709863835,17217.63883095902
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,41237.93359587009,50240.9759564597,34045.099752313814
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,18.22653270455,21.968186405490002,15.16500448241
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,18.71950753387,22.81980174028,15.37097886767
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,18.473909367690002,22.507122821910002,15.251639265
+6,Incidence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,17857.648426972555,20722.72998251223,15144.49432485952
+6,Incidence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,14471.523702762595,16768.97334809727,12170.738214832674
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,32329.17212973517,37491.66676553895,27359.833888794747
+6,Incidence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,16.845034441619998,19.54765218429,14.28572913989
+6,Incidence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,12.00540672686,13.911344069270001,10.09670200846
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,14.270021674519999,16.54873484577,12.07656728844
+6,Incidence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,44458.43563539003,54461.4116818933,36381.00099986516
+6,Incidence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,37201.038180543816,46084.250848262425,30385.735980604102
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,81659.47381593384,100312.95849645702,66730.474276305
+6,Incidence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.65888349325,27.75704463149,18.542102330909998
+6,Incidence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,19.927483922260002,24.6859553594,16.27673029664
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,21.32715937042,26.198925278340003,17.42812429777
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,5971.684683125517,7149.911213884297,5001.601327469434
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,6015.063818906195,7242.8268301958415,5074.523692959882
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,11986.748502031704,14382.265178050546,10084.276561324325
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,21.04892493114,25.201924145570004,17.62958636696
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,19.78748877299,23.82640631953,16.6934356186
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.396443892660002,24.4726136286,17.15923054916
+6,Incidence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,127955.84708350513,147818.1578139937,109207.59186179515
+6,Incidence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,96032.03136330738,112120.10232381098,81719.22232133069
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,223987.87844681265,260249.79697443775,191732.61942454168
+6,Incidence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,20.54156159456,23.7301839872,17.53178558037
+6,Incidence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,16.698051192319998,19.495445235440002,14.20933972078
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,18.696487174370002,21.72330496188,16.0041091725
+6,Incidence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,13821.930212451223,16379.158944278097,11305.732270443155
+6,Incidence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,11584.977225438815,13753.231881446558,9501.991923637455
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,25406.907437890022,30112.05126706389,20859.457081383058
+6,Incidence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.48096348246,26.64022089823,18.38844144107
+6,Incidence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,17.958172713219998,21.31924031319,14.72928334374
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.16521882305,23.89964636568,16.55595107765
+6,Incidence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,166558.0472035711,198531.96513185455,138954.61645400283
+6,Incidence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,125354.54659827409,150441.3076026721,105365.25878843835
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,291912.5938018454,347931.4204620606,244319.8752424412
+6,Incidence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,25.23242910539,30.0762636177,21.05069414183
+6,Incidence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,20.254791143749998,24.30831068817,17.02492146062
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,22.82379589569,27.20374487068,19.10265978308
+6,Incidence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,4377.9350045087685,5375.98619306035,3500.6858343623708
+6,Incidence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,3884.465004790607,4827.969575894849,3070.6254773232217
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,8262.400009299377,10157.082528814475,6643.301970333978
+6,Incidence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,23.44314280791,28.787547537240002,18.74561359546
+6,Incidence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,20.23607048821,25.15124541791,15.99638393585
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,21.81754380925,26.820608152250003,17.542182853979998
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,19306.87517798497,23453.35962140284,15854.59307211664
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,19149.559855296186,23429.71920105953,15570.881267172634
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,38456.43503328116,46957.83772234537,31554.122993822868
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,17.943271473040003,21.79689850182,14.734816740929999
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,17.50233597793,21.41432076896,14.23149134862
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,17.72096293843,21.63846183939,14.54033489179
+6,Incidence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,83367.8996864059,96723.99141874028,70575.2182129459
+6,Incidence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,68079.09605109555,80346.93231848675,57435.35652223048
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,151446.99573750148,177026.23423386316,127646.3940826826
+6,Incidence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,20.725860576739997,24.046281219890002,17.54550778365
+6,Incidence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,17.6100509874,20.78337781905,14.85683000369
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,19.19886112448,22.44152860145,16.18167056468
+6,Incidence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,75632.50891053259,90428.74318212851,63541.86861856407
+6,Incidence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,63349.87211387521,76356.82984987921,53127.04290367159
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,138982.38102440778,167060.2862304555,117174.30777868844
+6,Incidence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,22.546211159560002,26.95699994681,18.94196567037
+6,Incidence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,19.19101406874,23.13130156379,16.09414184708
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.88210729039,25.100813465090003,17.60544357261
+6,Incidence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,87429.5380145581,104187.14393055398,73205.8226625284
+6,Incidence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,76860.49003053432,93010.60158873184,63550.248287656665
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,164290.0280450925,198137.65434403825,136369.75949600383
+6,Incidence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,19.05472252825,22.706938223519998,15.95475247798
+6,Incidence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,17.18649889842,20.79776750202,14.210243413179999
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,18.13259021971,21.86833209579,15.051047204300001
+6,Incidence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1995,248520.629770326,292559.96849254,211303.659800214
+6,Incidence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1995,198645.529156044,234479.272129875,167985.61030716
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1995,447166.15892637,526674.840537851,379892.291559504
+6,Incidence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1995,23.37499090435,27.51717879039,19.87449142733
+6,Incidence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1995,18.40393575032,21.72382875866,15.563382635420002
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1995,20.87070011118,24.58162907355,17.730809752520003
