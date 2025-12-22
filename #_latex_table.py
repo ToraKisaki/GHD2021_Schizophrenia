@@ -157,7 +157,14 @@ def parse_sources(
         logging.error("No category members defined. Check the category map.")
         return measurements
 
+    expanded_paths: List[Path] = []
     for csv_path in csv_paths:
+        if csv_path.is_dir():
+            expanded_paths.extend(sorted(csv_path.rglob("*.csv")))
+        else:
+            expanded_paths.append(csv_path)
+
+    for csv_path in expanded_paths:
         if not csv_path.exists():
             logging.warning("Skipping missing source %s", csv_path)
             continue

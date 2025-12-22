@@ -1,0 +1,1135 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,4678795.284965659,6007267.72642624,3455578.3377334033
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,4083516.5131479013,5247387.122607357,3025334.854779087
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,8762311.798113562,11263749.704158926,6477261.1717657
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0033908437067339424,0.004325099299809981,0.0025084265702909787
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.003382083348124065,0.004316471828979653,0.002514464696485149
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.003386510124023767,0.004331126953848378,0.0025165706207276174
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,174.20859951576085,223.67246989833293,128.66377476867
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,154.21831324425693,198.17311583841553,114.25496549380344
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,164.2844104064559,211.1838201776873,121.44204145774079
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,187.29833415947292,238.8039698475254,138.75324719923105
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,165.63711545968133,212.75657158238243,122.87960814681892
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,176.6127774209845,226.01956600484394,130.8525308888481
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,113395.66032508621,146134.48540929175,83401.09106025644
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,93901.20328104327,121261.82190598676,69539.40427188118
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,207296.8636061295,266944.7769628833,153327.28699922495
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.003676680469970123,0.004673464164778762,0.0027068145496970666
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.00387243595598949,0.004922825695501363,0.002842889412812465
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.003762262326195951,0.004780967377326015,0.0027866064301418974
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,150.33013809396405,193.7324348117859,110.56593788802984
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,121.75906885740048,157.2368192027799,90.16980418984598
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,135.88640030247535,174.98655884131182,100.50848206780657
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,169.9737557239812,218.58071716810457,125.11662556932804
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,135.1454430968908,173.82878604153157,99.90137468801909
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,152.15209369741987,195.7486347391421,112.3123138595575
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,180171.51529952468,234930.33451507534,132419.9528464648
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,171332.25254198673,221808.78338204123,125622.42938622352
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,351503.76784151164,455383.3420504089,257850.5889615569
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.007560990090280771,0.009601419821752569,0.005594427526950639
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.008422979438981315,0.010617911543790437,0.006239225985739362
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.007956621035624717,0.01012100528828076,0.005873293084076088
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,210.11059474992663,273.9686804970324,154.42416079519614
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,195.51942773727563,253.12178968364555,143.35669519398658
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,202.73596780806244,262.65033556023434,148.71985305878883
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,184.96354833509213,241.75673104764786,136.10253592717982
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.55174505434468,224.02327993914653,125.25973015242438
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,178.60132123225472,232.88290625483762,130.93510675811615
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,365862.35938593844,463131.05113418144,271623.5408335392
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,352382.5942743518,443488.5339109089,261719.80094965408
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,718244.9536602908,907333.0414844919,533903.9623259195
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0076612270909946845,0.009536113044412351,0.00576466447414033
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.00821438285957659,0.010210217222717158,0.0062687944577579325
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.007921846071538357,0.009839598315718866,0.006029251448761631
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,265.9577347033665,336.6656396060239,197.45234719811947
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,244.97338272420214,308.30945715487627,181.9453798408232
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,255.2313695092596,322.42461795091106,189.72502179989715
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,239.3595664484986,302.5829522381522,177.62770525132947
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,220.59542892560765,277.92957959229057,163.83674412429093
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,230.04631524326228,290.8668578601438,170.4740052920328
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,111932.86160373405,148269.138346999,80911.8792018551
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,94589.51749074331,126505.69659175609,68673.9552544245
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,206522.37909447734,274689.1078902343,150230.73839595125
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.003533117803709508,0.004628127575914832,0.0025436728650568285
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.003770983119413353,0.0049267737095064195,0.0027041109038922198
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0036379058000625725,0.004757155896759089,0.0026121882904475346
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,137.8801537126855,182.63958674178735,99.66815983878912
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,113.65284764023188,152.00133209022133,82.5143290761265
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,125.6157923815873,167.07772831939943,91.37679570815583
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,172.18639188953685,228.1989350541994,124.78457149759267
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,138.38603742791258,184.02747710803075,100.0141920624745
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,154.8190916610677,204.8026580070968,111.5000760519767
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,84884.20097525415,114692.50123900984,61162.23461690174
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,94336.71925139966,126082.88664222046,67704.7609922238
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,179220.9202266536,238903.5654756445,128318.13317842594
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0007582663289551504,0.0010204794212112225,0.0005483645797295187
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.000976747756527964,0.0013050581965807395,0.0007002659603446745
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0008594263301112965,0.0011542318944557854,0.0006190481069186382
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,89.67562909294969,121.1665078151645,64.61463738817774
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,98.09579096766196,131.10696016144496,70.40261877360291
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,93.91904705686004,125.19517910957453,67.2439175794429
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,132.3952574710978,176.52642160130387,93.98035533814796
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,138.56308072099745,183.4969852034249,98.8405422131441
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,135.56038099331565,180.06777559226944,96.62111868624147
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,227890.01923755795,305490.057053898,163874.28062359343
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,190421.1019496541,255252.14077409942,137436.39549689696
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,418311.12118721195,560220.3327741993,300207.09612119815
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0026098000165549755,0.0034997032444067325,0.001873310888842375
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.002503474877808588,0.003337561407865227,0.0018010610966140823
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002560156982787753,0.003400519170711026,0.001844594348686224
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,131.17083357805993,175.83650906535553,94.3241220625561
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,115.08827640329363,154.27139444718108,83.06494244005184
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,123.32582011154352,165.1632683980673,88.50657909207786
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,164.799364783971,220.4097271012873,118.36971058047938
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,145.62148084482615,194.08585163491057,104.60692256074012
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,155.4720307547709,207.69819168927356,111.33083147013834
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1281910.5998918412,1616185.6815492744,966126.0311629383
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1124840.6150431207,1410730.8637420204,851681.060629199
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2406751.2149349647,3020636.238132297,1820500.071219271
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0054368396836310525,0.006832794261904945,0.004049810727419703
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.005840995154589083,0.007469899214496789,0.004433341277131684
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.005613824310130785,0.007130715820008932,0.004261176225854231
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,204.4325360549179,257.74101379818575,154.07283059830863
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,190.5276582994814,238.95229632090397,144.25936966498958
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,197.68954420219598,248.11380478856293,149.53511898782963
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,202.01413494931268,252.5513468873653,152.2201668184101
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,188.00359232007622,234.23897915191804,141.4966696320868
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,195.28363086425912,244.06499374098803,147.49411169716146
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,984896.4423107384,1276856.078391262,729152.7992558326
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,669327.7590759288,866160.2741077394,493467.1672756064
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1654224.2013866694,2138134.1153938407,1222741.940741364
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.002777225120480138,0.0035651428572840383,0.0020428016526280695
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020352617329502634,0.002610172138556451,0.0014838735330951196
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002420086471223783,0.0031190217895341655,0.0017704680974583238
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,173.30291085453413,224.6762863802638,128.30212105578804
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,127.46577509319039,164.95026419716868,93.97514761178586
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,151.28995152999877,195.54677438004646,111.82799090557948
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,207.03683124471908,267.1778786116389,153.26307467917303
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,154.09826037341452,198.90070132913795,113.81192478010973
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,181.72457780003296,234.54461543597438,134.3810761953066
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,5258.771072645456,7358.513047255014,3707.02698849581
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,4097.944187004348,5677.268281089104,2874.1844604568964
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,9356.715259649816,12927.58954490296,6534.732367149789
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0030001176875227124,0.004260105888287938,0.0020385120954108157
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0028267224389609486,0.0039696090706274854,0.0019437999596254435
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002921447039374099,0.004088118705105627,0.002003083552672197
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,155.04120846845208,216.9466477275963,109.2920639027606
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,129.76004865699628,179.76882426294583,91.01010126511866
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,142.85175586816757,197.36935605983902,99.76770339496595
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,192.29931101652855,264.7355332520656,135.7582008688337
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,158.59569012642476,219.02209052201954,110.5488786139849
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,176.00908769910075,239.71842247294822,123.115059990455
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,94840.314438931,126504.00319975277,68139.85199230487
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,95730.7094812326,126512.18495531986,68656.35094179069
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,190571.02392016363,254061.3053891884,136791.25317965233
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0035106410784944146,0.004596871446875053,0.002520067943883769
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.004394394868761626,0.0057061425613793605,0.0031941304324019093
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0039047732957808025,0.005083664044756082,0.0028127415741770675
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,154.8158970542241,206.50322441656508,111.23046537475867
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,149.97306704275607,198.1957566056622,107.55799866627694
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,152.34469812727667,203.0995692794962,109.35252245292202
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,142.3213528961294,190.66426576215247,101.82486248344796
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,138.02088370714955,184.46050598650794,98.41518704471432
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,140.16025306226226,187.75705646799545,99.73526664508458
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,93727.2385513837,124699.81019609816,67530.03307086241
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,113497.40952841741,150329.28087582526,81763.42832834649
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,207224.6480798009,275372.67218593706,148970.40086209396
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0008564188602673878,0.0011458964910590263,0.0006162761099552899
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.001149334050818523,0.0015256792963601084,0.0008357889426473626
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0009952641786684442,0.001324687045541046,0.0007205223821066819
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,97.65657272080321,129.9276098485442,70.36109979712573
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,116.78803799183328,154.68777515856013,84.13399401474969
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,107.28203052705013,142.56286449279148,77.1232922386701
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,132.13061637636466,174.94849650917303,94.85000014617931
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,163.29415312822834,216.49304475929748,116.73527414680711
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,147.3845422957126,194.73399683744464,105.47939763270838
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1522769.4330414308,1962847.5386205763,1122241.189109201
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1278782.9856110248,1645677.6704725241,950658.5366969176
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2801552.418652457,3596383.47398396,2077439.1790063067
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.004120520954338953,0.005270011673794748,0.003084965447909712
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.00417555854167044,0.005360159454121979,0.0031270819890930742
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.004144697470367382,0.0052895344712196295,0.003098244476353957
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,173.62138516420902,223.797707733598,127.95441352687527
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,151.1843305522744,194.56051551728575,112.391763161952
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,162.60614158592642,208.73928200465613,120.57756514873051
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,190.4876627370388,244.49417507261813,141.01887985161227
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,165.51789049507593,212.3310773786493,123.2247214911139
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,178.26261651087907,227.98466340754374,132.35193275950604
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,41181.539446149065,56253.787632132946,28507.840572767094
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,42212.7904417498,58513.01383938879,29683.65832644302
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,83394.32988789893,114805.59627495724,58566.93468004669
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0026922646030338874,0.0036959480065945132,0.001893282398851003
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0032874267276337345,0.004465785215865935,0.0023047232952514768
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0029636430024771987,0.003989456716035921,0.0020951816379213874
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,121.36886895332908,165.78929955206394,84.01736343885297
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,119.30944772402306,165.38009671450212,83.89734116827816
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,120.31761629357314,165.63638918297193,84.49775882601261
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,140.1642787164806,189.8677509502112,98.0059674723529
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,134.53020909789157,183.3609470098567,95.1670853062804
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,137.24380898240815,186.75098851830913,96.79658335190297
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,398526.66863658285,529473.0467702339,289893.7025712585
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,345120.8571857465,463233.14988877974,252446.65202671825
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,743647.5258223285,992006.2621998929,543820.8548920695
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0035934024466325906,0.004765584146489241,0.002625800459760779
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0037174581734423116,0.004903988058108665,0.0026847081565780076
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.003649599787169392,0.004825579392762407,0.0026741119472494124
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,172.4241270006312,229.07859133254877,125.42364795770021
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,147.25131764083966,197.6458109552254,107.71039005894097
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,159.75001680632303,213.10232543726988,116.82334397948783
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,199.07390639427695,261.2233679405623,144.8180241413917
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,164.6453550831164,217.50993356948024,120.80833111137463
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,181.45565051420678,237.19256123195123,132.1598571762224
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,144290.58674512894,188091.04663248995,104802.78016302294
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,167386.60680392917,215132.14111726574,123291.71192985827
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,311677.19354905776,402512.7840094811,228697.86374078068
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.00282320270017595,0.003594712652918739,0.002055601615971023
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.003749188530398862,0.004772041474711576,0.002771359512536967
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0032545570117826156,0.004154620840893365,0.0024026622067545777
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,136.29744572114117,177.67152935837595,98.99711105843534
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,138.7643302791426,178.34561589879,102.2094429272709
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,137.61128033336513,177.716883700615,100.9743622255786
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,122.60633674614796,159.6028561862086,89.49805540247618
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,125.15658710135364,162.21568329064118,92.72245992897003
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,123.93505451408677,160.78523439846234,91.09991262795087
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,42635.63043685873,57560.372170257935,30079.566106319988
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,42332.93821295786,56965.35933548058,29265.557200588268
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,84968.56864981657,114349.50812537472,59895.24411057033
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.00498021621255063,0.006641853570239697,0.0034948803194183335
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.005837657159591983,0.007725629210776618,0.004106416014655447
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0053726833807844696,0.007118157499209523,0.0037869537730266336
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,175.7869176043398,237.32170244211756,124.01820154944434
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,167.42807510227655,225.29975153318398,115.74618053301698
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,171.5205897203827,230.83000431292191,120.90668060598757
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,182.81363079111452,246.54540518205528,129.081961042861
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.84116821026024,230.83621172354214,118.50400948787568
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,177.36254216670514,238.438863826665,124.80653975832064
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,984950.4041844518,1251961.5667298664,735384.441406495
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,915007.2803018455,1147957.703693905,686083.8636996849
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1899957.684486301,2407953.2076317808,1421043.176490305
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.004863241348907305,0.006117364124818074,0.0036584644191163386
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.005419140966598568,0.006840141008634588,0.0040934601794635345
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.005114716388839076,0.006392762235892289,0.0038446349625464813
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,186.1019157080051,236.5524649478609,138.9475579137699
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,171.26021797638583,214.86111727704989,128.4130460781995
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,178.6459997029723,226.41094142665926,133.61543836374253
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,178.58554722675004,225.93900749913448,132.906306315115
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,164.15617999908028,206.0799625958412,122.92928241000516
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.34892518853516,216.45838043862358,127.9205932025986
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,25466.153937961062,34877.88919215993,18018.981527707612
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,20512.345101509203,28154.999718349216,14352.624717459013
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,45978.49903947025,63107.599439806145,32483.555628404447
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0031828212938734713,0.004342630362265671,0.0022501255952052644
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0028063307245025696,0.003878822204402705,0.0019448144025554052
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0030028545066804135,0.004108017281500618,0.002109330674299613
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,146.1743940842854,200.19726308192625,103.42801324633297
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,114.78159467715236,157.5478449594302,80.31344757121165
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,130.2783008511575,178.8129451280177,92.04090001371534
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,162.01753461342534,220.88962362630375,114.06112893825298
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,124.76003817095558,169.55779769297078,87.40821022689501
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,142.95537922922583,195.00511730897804,99.85684583258669
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,28176.497793364768,36880.556827191336,20567.780887160687
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,31848.749905901906,41365.52619935127,23241.373530946148
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,60025.247699266736,78352.4727577231,43878.51216317616
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.001910220258774372,0.002518690787633838,0.0014024460089906788
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0025062923466885696,0.0032486848495211253,0.0018418009422908862
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0021858704852776973,0.002850337921098475,0.0016102912526825147
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,110.83244292022583,145.0699174678266,80.90350397304381
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,117.97788401969486,153.23104570130582,86.09342843890575
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,114.51237053250993,149.47589117038146,83.70864987378064
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,138.96416777244056,181.30034028037264,100.9572396118793
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,144.09527614588976,186.81969388264952,105.96312278758126
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,141.6635625124908,184.10494820863093,103.60332890917103
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,26013.13632429286,35779.55814210398,18106.079059637974
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,21036.356430235,29429.96450947839,14842.129534756254
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,47049.492754527855,65165.16057903261,33025.24810185435
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0029779373720558943,0.004065446748268889,0.0020655309576036156
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027126269072022644,0.003675733263903426,0.0019254175166730169
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0028530063200531254,0.0038715131171770693,0.002009358384552363
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,137.7763476241729,189.5033639531672,95.89729633261558
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,110.06473113512705,153.98109182046616,77.65579567608732
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,123.83592585639646,171.51700308413297,86.92361885106087
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.12287967828104,234.67364173960053,118.2527077981992
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,133.9736064748404,186.7404434181858,94.19219487554888
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,152.2208472637085,206.79861004797434,106.12131891300474
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,25285.1302895645,35446.83220764819,17258.75444577315
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,27987.621653044334,38157.17044549891,19624.58302045223
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,53272.7519426088,72947.04968636553,36839.10723191792
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0008225316414264088,0.0011558495338205737,0.0005552758247577769
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0010251540387121,0.0014045926299677733,0.0007125598303447646
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0009177833226997152,0.0012715066241498498,0.0006323651379412927
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,92.82106815301597,130.12441662254545,63.35644722022388
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,100.95824763876257,137.6423159776466,70.79070658262815
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,96.92528245460524,132.72100909482046,67.0256508932712
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,131.3730981514251,179.87535183615313,89.40538748601193
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,137.4768126241766,186.21612534640226,95.37766958246452
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,134.53912061292178,182.49060881266888,93.38900606529766
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,967130.5126249165,1233149.6199349165,721221.6268512306
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,917168.3227907271,1173341.2192212488,679754.5936131813
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1884298.8354156446,2411617.8602136727,1399687.3095294582
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.006648253941053112,0.008319635494803137,0.004950967504871495
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.007039183250846516,0.008832962746414607,0.0053188210355692035
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.006832007031783628,0.008557091368777057,0.00511792827536583
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,223.15055099247763,284.5303850436609,166.41084250638363
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,205.58068627881642,263.0011166900784,152.3650701661462
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,214.23839698017224,274.19278449374184,159.13970747688535
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,198.6966200184544,253.50872730227854,148.19669734998632
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,184.29986971665218,236.67503188427088,136.92038178357936
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,191.77660980990717,245.66351827422184,142.73389278992124
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,31000.129454497455,37669.932458529816,22841.22225257502
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,23184.965013399436,28850.861680501683,17667.476664341157
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,54185.09446789688,66507.07347321964,40430.803083806066
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.009836960627187166,0.011735661252266839,0.007578210130107012
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.00834443654987707,0.010322167460228014,0.006353713891460437
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.009136127054444946,0.011043870640590855,0.007042865753150062
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,307.82913636063483,374.05981779828846,226.8117534719328
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,227.17646954306002,282.6934134282109,173.11369553586982
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,267.2340240354186,328.0044640615636,199.3996007420536
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,282.90922611987565,344.1525631101207,208.45398707559568
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,208.90955982804286,260.5534412935282,158.60567511390624
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,246.10367439329255,302.08609104359607,183.50469852860454
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,910075.2755018995,1183994.4447411047,665621.9063039725
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,699161.9897999967,923939.7620613417,514573.15557494876
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1609237.2653018958,2103025.302168764,1180195.0618789212
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0023420798362887617,0.0030486346149597404,0.001699405020338195
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019687937093326464,0.0025718279611801056,0.001429045270530554
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0021637399255699037,0.00283586741668192,0.0015669564632871248
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,153.92358938614078,200.25230841184535,112.57850394391802
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,122.62579860297545,162.04950045443042,90.2508217874968
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,138.5588934733403,181.0751373323903,101.6174093047527
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,190.90610717802542,248.72900578302477,139.4892328832336
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,151.28386921741748,198.2555798426027,111.04927883063783
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,171.40020042615174,223.05312096509078,125.35487566937104
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,371449.8288086182,478581.2740063403,271150.20024377154
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,357435.45629454445,462564.7092331392,262739.40582421416
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,728885.2851031623,936539.1490733199,532945.7433402329
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.005644863994652711,0.007090893578712086,0.004116740734246971
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.005711065494677586,0.007207425578740177,0.0041995250479597065
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.005676294121429247,0.0071216665802768956,0.004130904953484775
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,198.41292551003733,255.63805204724764,144.83706899409646
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,181.2532385629713,234.56361174297203,133.23347576494038
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,189.61007273874856,243.62853772434812,138.63893705337426
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,173.3319024722955,224.63318189791474,126.97905522803498
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,157.57121602101373,204.50730064273952,116.85352395889704
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,165.75686431890384,213.89447984390443,122.23628159183434
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,290074.55749212386,382082.27073488175,210401.96158064943
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,269930.57741287106,359048.744865187,193209.33027319267
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,560005.1349049949,743413.446727219,400560.24579717295
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0010656343443961073,0.0014035779732366285,0.0007681019254250301
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0010995962091552734,0.0014469094734768145,0.0007944211347019441
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0010816949210600186,0.0014213432544815997,0.0007805559159121411
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,114.95723203567587,151.4201060352574,83.3827941592045
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,108.4197902241954,144.21481986830312,77.60408345860117
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,111.71044989075779,148.29694481788198,79.90420529616401
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,159.49392586231284,208.60381627229472,115.70759354315909
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,146.91579456492695,192.46513588339198,105.64793404654175
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,153.19464336428257,201.1147992865689,110.13952352828274
+5,Prevalence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,8069.327246826518,10376.07108355777,6150.622275081816
+5,Prevalence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,6408.255890583931,8289.622315113644,4818.657006659236
+5,Prevalence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,14477.583137410444,18633.21772519839,10957.073536289265
+5,Prevalence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.002414456976906,0.003106465269157,0.0018423237009129
+5,Prevalence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020499854033374,0.0026523408994353,0.0015407299648117
+5,Prevalence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0022383086544285,0.0028831417336287,0.0016944923632176
+5,Prevalence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,237.90315847424998,305.91151007075,181.33512510594
+5,Prevalence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,202.91530538791997,262.48815158792,152.58118195664
+5,Prevalence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,221.03356942208,284.47887914225,167.28490184857
+5,Prevalence,21,Oceania,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030090551756796,0.0037796637674359,0.0023247123399853
+5,Prevalence,21,Oceania,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025218018113941,0.0032049368053177,0.0019338073826489
+5,Prevalence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002773175335773,0.0034915593597887,0.0021498311757231
+5,Prevalence,21,Oceania,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,297.69812869593,373.98750452932,230.00903781049
+5,Prevalence,21,Oceania,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,250.41165362229998,317.95395948059,192.06277756205998
+5,Prevalence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,274.85056240766,345.65102697125,213.20494788274002
+5,Prevalence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1939009.7877296316,2234311.257650821,1670338.0085189445
+5,Prevalence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1738006.459251563,1997696.5561414915,1497740.468637749
+5,Prevalence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,3677016.246981191,4222686.6980394125,3168631.9229612406
+5,Prevalence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.003200283115746,0.0036798565234786,0.0027601708216371
+5,Prevalence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.003009935889843,0.0034563509566451,0.0025932851037036
+5,Prevalence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0031073965512878,0.0035630364534943,0.0026752202639204
+5,Prevalence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,309.22334862846003,356.31651440915,266.37694951523997
+5,Prevalence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,294.38686366946,338.3736697843,253.69014988757002
+5,Prevalence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,302.02858582931,346.84972981997,260.27010881207997
+5,Prevalence,5,East Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0031769762436398,0.0036259641811709,0.0027601864043346
+5,Prevalence,5,East Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029902071630697,0.0034197130405072,0.0025914936748623
+5,Prevalence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030868888791149,0.0035285028518835,0.0026738729739917
+5,Prevalence,5,East Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,307.49308063341005,352.37299024970997,266.76041646335
+5,Prevalence,5,East Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,292.24972268871,334.03586309374,253.44342976004
+5,Prevalence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,300.19507649023,343.12842888399,259.78388789673
+5,Prevalence,1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,7186585.946481211,8531481.978659276,5971576.474137574
+5,Prevalence,1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,6434816.319166947,7625655.696494097,5361020.879024926
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,13621402.265648164,16166722.181246417,11333556.702644613
+5,Prevalence,1,Global,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027627465605088,0.0032795407655781,0.0022964792409491
+5,Prevalence,1,Global,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024796519728367,0.0029405488281237,0.0020667151934646
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0026213676028464,0.003108127544325,0.0021817270108463
+5,Prevalence,1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,267.58278505132,317.65816556923,222.34355450505
+5,Prevalence,1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,243.01763335188,287.99093994313,202.46461464487
+5,Prevalence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,255.38740137082002,303.10955407028,212.49263021009
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029735365902581,0.0034908777977679,0.0024860020626594
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026673419255622,0.003145740666006,0.0022221865081981
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028219903700293,0.0033177170068654,0.0023553097312409
+5,Prevalence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,289.18649470139997,339.52494243905,241.48046930905
+5,Prevalence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,261.97752108689,308.72087527185,218.13042564749998
+5,Prevalence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,275.78422199005996,324.02132680128,229.94073387252
+5,Prevalence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,276363.08199261606,332621.8759542021,228293.34702829525
+5,Prevalence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,267958.5619473618,318313.2407859783,222486.10300172545
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,544321.6439399779,650697.5953366407,450438.56031792687
+5,Prevalence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0034444221445093,0.0041420914191098,0.0028437088978092
+5,Prevalence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.003175843699222,0.003782409018985,0.0026384173103575
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.003306754086192,0.0039515696530476,0.0027273931091406
+5,Prevalence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,322.28630273691,387.89361385671,266.22882558224
+5,Prevalence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,305.78658665806,363.24989461292,253.89472730905
+5,Prevalence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,313.94706224827996,375.3012593607,259.79834590365
+5,Prevalence,65,High-income Asia Pacific,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030794217157729,0.0037211409341328,0.0025382946415772
+5,Prevalence,65,High-income Asia Pacific,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028299774423593,0.0033913300171513,0.0023443848443637
+5,Prevalence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029597572914058,0.0035519183229711,0.0024367298831544
+5,Prevalence,65,High-income Asia Pacific,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,283.61514157,343.03155087978,233.80484695959998
+5,Prevalence,65,High-income Asia Pacific,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,267.53591028019997,320.20571929335,221.49343977885002
+5,Prevalence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,276.12071796199,330.80530337071997,227.68116524167002
+5,Prevalence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,63026.00573674668,81010.52969052216,47560.42020700773
+5,Prevalence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,66110.72187634677,84854.5165854907,51651.82709150184
+5,Prevalence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,129136.72761309343,165054.17741806884,99439.53261940904
+5,Prevalence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.00194228210072,0.0024951071095564,0.0014614033802628
+5,Prevalence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019241906838971,0.002468953832651,0.0015059780910671
+5,Prevalence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019329741871429,0.0024741892789957,0.0014853399334538
+5,Prevalence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,185.74815642619,238.75154970118,140.1684950369
+5,Prevalence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,186.85411774868,239.83123135804001,145.98776578695
+5,Prevalence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,186.31270571087,238.13279887173,143.46691850869
+5,Prevalence,32,Central Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022380119950069,0.0028317249085121,0.0017533236223747
+5,Prevalence,32,Central Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0021666378925189,0.0027330207915971,0.0016951571675185
+5,Prevalence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002201298380808,0.0027750612084898,0.0017138373865357
+5,Prevalence,32,Central Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,216.07292024640998,273.33223172963,169.03597173778
+5,Prevalence,32,Central Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,211.51665283340003,267.15237841076,165.63160527815
+5,Prevalence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,213.70829151727,269.11272804353,166.39229975193
+5,Prevalence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,147797.71634919272,183034.89475710856,117539.8105385486
+5,Prevalence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,151672.6311540433,186964.88843139543,120921.98303990944
+5,Prevalence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,299470.3475032364,367673.22934672737,238748.1802498034
+5,Prevalence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024934391888442,0.003082740750908,0.0019780232164384
+5,Prevalence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024339134416554,0.0029945573349847,0.0019418497586992
+5,Prevalence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002462929832282,0.0030258891188122,0.0019607545679584
+5,Prevalence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,241.26276019359997,298.78339809062,191.87021168963
+5,Prevalence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,237.61246316758002,292.90180652907003,189.43806817751
+5,Prevalence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,239.40008690704002,293.92226573633,190.8580785284
+5,Prevalence,42,Central Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023015444852214,0.0028447904991316,0.001820114830342
+5,Prevalence,42,Central Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022450875758848,0.0027776382776899,0.001768234596745
+5,Prevalence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002273039276228,0.0028032621180203,0.0017983294393546
+5,Prevalence,42,Central Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,221.53387294488,273.3183255788,175.68963231036
+5,Prevalence,42,Central Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,217.61816529393,269.36130006514003,171.48842025727
+5,Prevalence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,219.54396396503,270.73112510926,173.78631797258
+5,Prevalence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,48131.22909322531,51871.4209009542,44456.514635241736
+5,Prevalence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,37064.10501284836,41473.317636140215,32827.96399616543
+5,Prevalence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,85195.3341060736,92735.51529543544,77871.13552060764
+5,Prevalence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0051337183209873,0.0055349412113863,0.0047337459647967
+5,Prevalence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0038473468488976,0.0042968295815261,0.0034050851426328
+5,Prevalence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0044817849328995,0.0048840700930802,0.0040917843827409
+5,Prevalence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,477.93976813841,515.07961349571,441.45010832478
+5,Prevalence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,363.17037867971004,406.37378039479,321.66280857553
+5,Prevalence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,420.1725988629,457.35981761700003,384.05057895965
+5,Prevalence,70,Australasia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0047824536422633,0.0051523347043111,0.004409584089635
+5,Prevalence,70,Australasia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0035974912738969,0.0040145709790573,0.0031855220585998
+5,Prevalence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0041906548431194,0.0045717599929812,0.0038225578534467
+5,Prevalence,70,Australasia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,439.19847044221,473.55512410762,405.50044952815
+5,Prevalence,70,Australasia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,333.41582240479,372.68845280701,295.52870021545
+5,Prevalence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,386.60789913587,420.60367220604,353.38288880102
+5,Prevalence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,607188.7517172612,747841.5774102809,486602.8307161341
+5,Prevalence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,535417.955441804,659729.613798196,426405.7231708341
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1142606.7071590645,1407312.482677769,914321.4877866016
+5,Prevalence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0026668416869418,0.0032815351533179,0.0021331612536274
+5,Prevalence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0023061814315915,0.002842412183431,0.0018363639959005
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024847520248347,0.0030602579066095,0.0019872690497731
+5,Prevalence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,262.70259603359,323.55659299008,210.53062413439997
+5,Prevalence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,228.44460943412997,281.48416097083003,181.93280202913
+5,Prevalence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,245.45424321802003,302.31821522019,196.41411820576
+5,Prevalence,9,Southeast Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030951200468277,0.0037578163684361,0.0025088684268961
+5,Prevalence,9,Southeast Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025932080353222,0.0031539818507547,0.0020971126825422
+5,Prevalence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028377224803659,0.0034345176147543,0.0022977440643501
+5,Prevalence,9,Southeast Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,305.80836584054003,371.12776768881,247.792989157
+5,Prevalence,9,Southeast Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,257.32077667993,312.91541026672,208.04971318949998
+5,Prevalence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,280.98281394088,339.98885403647,227.46886766282998
+5,Prevalence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,569420.8100875941,663208.1393820966,480459.1645654958
+5,Prevalence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,562570.7379432311,656405.6223824074,478494.0970454828
+5,Prevalence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1131991.548030825,1321674.957534439,957789.1652075774
+5,Prevalence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0044774528456276,0.005228452455424,0.0037718204245635
+5,Prevalence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0041139572916592,0.0047883722940417,0.003488820358707
+5,Prevalence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0042891069021851,0.0050148546397957,0.0036197784241444
+5,Prevalence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,413.93126365344,482.1084483327,349.26203187389
+5,Prevalence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,391.09439267112,456.32760632044,332.64502694345003
+5,Prevalence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,402.257964507,469.6627630149,340.35441403558
+5,Prevalence,100,High-income North America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0040914937600357,0.0047715227981166,0.0034567220492442
+5,Prevalence,100,High-income North America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0037616893978288,0.0043870946511584,0.0031792298967021
+5,Prevalence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0039269945873887,0.0045913402627515,0.0033136756785248
+5,Prevalence,100,High-income North America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,372.71709634615,433.89946417385,315.23296616401996
+5,Prevalence,100,High-income North America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,351.26538842465,411.11321344571,297.67557177383
+5,Prevalence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,362.14038588747997,422.68594054260006,306.42260469985
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,175912.56066735915,211192.8720734539,143104.36761824798
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,149905.0764547827,180171.91600934905,122567.88601170549
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,325817.63712214184,392477.2667793535,265949.7690498953
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024031043555484,0.0028820280282277,0.0019556412966949
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019794976504955,0.0023818762649135,0.0016198830169949
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0021877066816992,0.0026352004029861,0.0017869050398019
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,233.20962602778,279.9812050324,189.71536727443
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,194.3777277433,233.62389363524002,158.93035606731
+5,Prevalence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,213.57865764775,257.27510805244,174.33431528481
+5,Prevalence,134,Tropical Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027254973589988,0.0032419580650983,0.0022557482355985
+5,Prevalence,134,Tropical Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022070087774641,0.0026432459459292,0.0018273500973215
+5,Prevalence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024591733903317,0.0029292373333236,0.0020361835067714
+5,Prevalence,134,Tropical Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,265.89557263066,316.44245537929,220.15238316056
+5,Prevalence,134,Tropical Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,217.21924217525,259.84874691177,179.80341538594
+5,Prevalence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,240.97633396092,286.79174094093,199.53294799354
+5,Prevalence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,225628.5583289628,271622.056347998,184405.0973726638
+5,Prevalence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,267432.5205035705,319429.605057044,224512.2908145968
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,493061.0788325332,588697.0712609726,409730.07723249466
+5,Prevalence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.00224482951416,0.0027051145549786,0.001835822905544
+5,Prevalence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0022855686071642,0.0027327974749473,0.0019146273377235
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0022667412120501,0.0027087782689314,0.0018820154983688
+5,Prevalence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,213.12960793694,256.57524386639,174.18976744649
+5,Prevalence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,221.70289075762003,264.80873269026,186.12180669159002
+5,Prevalence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,217.69564069825,259.92071085552,180.90345295084
+5,Prevalence,56,Eastern Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020372123962061,0.0024452502054585,0.0016729870989611
+5,Prevalence,56,Eastern Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020712020121278,0.002492100327259,0.0017084787082081
+5,Prevalence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020558405718984,0.0024674930393693,0.0016931048790057
+5,Prevalence,56,Eastern Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,191.92280276291999,230.21372867204002,157.71890630618
+5,Prevalence,56,Eastern Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,198.52703534091,238.39997529756002,163.91827912145
+5,Prevalence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,195.34131412162,234.33526516265002,160.69762726157998
+5,Prevalence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,65818.65599066042,82747.05619155554,50620.58931844564
+5,Prevalence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,67071.36755809162,85105.4428349561,52465.344854842944
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,132890.023548752,167191.65554447775,103984.70041535584
+5,Prevalence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.002846242246283,0.0035676564440433,0.0021922621090571
+5,Prevalence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027441613417216,0.0034863370080576,0.0021468909369053
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027937820746251,0.0035203658824111,0.002183819465617
+5,Prevalence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,271.3706479512,341.1665266751,208.70894302320002
+5,Prevalence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,265.2693254656,336.59464889734,207.50205559638002
+5,Prevalence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,268.25655144288,337.49905183765003,209.90723299865
+5,Prevalence,96,Southern Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029546542170719,0.0036955787294203,0.0022848865951196
+5,Prevalence,96,Southern Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028148576248486,0.0035770844402497,0.00220052300531
+5,Prevalence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028859088045765,0.0036304052206941,0.0022553997417995
+5,Prevalence,96,Southern Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,282.68596776009,354.36725874401,218.28424964661
+5,Prevalence,96,Southern Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,272.20929110540004,345.36947759752,213.12451459318
+5,Prevalence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,277.59837591663,348.42404388588,217.06105082055998
+5,Prevalence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,576536.4028508338,679244.5693779746,482942.3771026897
+5,Prevalence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,572600.5761429284,672449.6224441042,480843.2936555145
+5,Prevalence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1149136.9789937623,1358309.015049564,969245.4845437156
+5,Prevalence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0032940296563987,0.0038901037346528,0.0027591153856779
+5,Prevalence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0029985727429822,0.0035245959387688,0.0025153818433671
+5,Prevalence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0031398665621666,0.0037114016625837,0.0026478113925308
+5,Prevalence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,307.96157510576,362.82397162317,257.967570482
+5,Prevalence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,290.3620975514,340.99491164637,243.83256524089003
+5,Prevalence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,298.93311146068004,353.3465092642,252.13666756906
+5,Prevalence,73,Western Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0029488015685034,0.0035087617989235,0.0024580323629145
+5,Prevalence,73,Western Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026440300315134,0.0031452570986594,0.0022024783097491
+5,Prevalence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028001287987039,0.0033225391349554,0.0023403599231031
+5,Prevalence,73,Western Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,268.3485858516,318.0284514816,223.74866021018002
+5,Prevalence,73,Western Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,250.72512294228997,298.30104294922,209.04425728300998
+5,Prevalence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,260.0561079307,308.90978982675,217.15103672066
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,172533.1676738884,213872.2554478197,138073.67405245162
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,148636.66643960695,185595.4594204098,117928.88300622776
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,321169.83411349513,397632.8020294288,256344.31671687716
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0022157334576153,0.0027418671408803,0.0017741073729983
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018306073551367,0.0022841335705024,0.0014511702933287
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020191405683612,0.0024981425357892,0.0016129961365434
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,212.52829007115002,263.45024181031,170.08069953062002
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,178.59252116669,222.99989503901,141.69596936575
+5,Prevalence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,195.34930489433,241.85737024164,155.91963741699
+5,Prevalence,124,Central Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027629120209352,0.003347524790252,0.0022443744804264
+5,Prevalence,124,Central Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022345333344538,0.0027210316024146,0.0018189834973022
+5,Prevalence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024901374642765,0.0030276353573599,0.0020256527196131
+5,Prevalence,124,Central Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,267.95531489940004,324.5855314238,217.53824196507998
+5,Prevalence,124,Central Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,219.37383683963003,267.04234847813996,178.49647314979
+5,Prevalence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,242.99309956162,295.2763267337,197.59965892661
+5,Prevalence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,39109.08356347619,49035.0334471992,30473.701415225183
+5,Prevalence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,32283.62452433786,41050.30372694496,25035.058169481992
+5,Prevalence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,71392.70808781406,90536.44452888568,55514.30260374734
+5,Prevalence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0022976474355598,0.0028812724665989,0.001786786388633
+5,Prevalence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018387546762956,0.0023403840901763,0.0014238800880821
+5,Prevalence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020646438466994,0.0026179258676029,0.001602801908569
+5,Prevalence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,224.48409787396,281.45853199930997,174.91745517315
+5,Prevalence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,180.65052467303,229.70651578075,140.08948685818
+5,Prevalence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,202.28848042338998,256.53151809507,157.29763187668001
+5,Prevalence,104,Caribbean,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025499014165558,0.0031940117055886,0.0020081414427818
+5,Prevalence,104,Caribbean,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020036439145373,0.0025116369015946,0.0015658978806808
+5,Prevalence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022698409363466,0.0028409393575489,0.0017834141759901
+5,Prevalence,104,Caribbean,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,249.96023052836,313.1956149901,196.99159034952
+5,Prevalence,104,Caribbean,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,197.24175955837,246.7792813624,154.23398944267
+5,Prevalence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,222.98543060961998,279.24830471052,175.24563217239
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,39687.8000599484,51050.0074754758,30458.17968654955
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,32896.73663092633,42770.48062793791,25297.82123093457
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,72584.53669087475,93817.78234206572,55904.64024377649
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0021718936949467,0.002799776481164,0.0016693127445532
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0017570976571829,0.0022838796872712,0.0013490990469552
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019619775335988,0.0025307923753412,0.0015132660814169
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,210.20303239604002,270.38199040956,161.31913892192
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,172.1196579129,223.78026662773,132.36122430809002
+5,Prevalence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,191.04506292699,246.93171505032,147.14298664974
+5,Prevalence,120,Andean Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.00269568302095,0.003391943640216,0.0021047709629297
+5,Prevalence,120,Andean Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0021429111895188,0.0027538210125277,0.0016778469952962
+5,Prevalence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024132546124697,0.0030588423113274,0.0018892132875568
+5,Prevalence,120,Andean Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,262.98834019304,330.59086191517997,205.35988114906002
+5,Prevalence,120,Andean Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,211.02514879957,271.11424795196,165.03453015705
+5,Prevalence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,236.54960809309,299.31689799877,185.40475412089
+5,Prevalence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,144622.57291617832,178783.2770114576,116125.43758608344
+5,Prevalence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,180541.73395724047,225658.9102225125,143945.0409633111
+5,Prevalence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,325164.3068734188,404778.6770312353,259749.38441753623
+5,Prevalence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0015135174224895,0.0018711327945768,0.0012149972948406
+5,Prevalence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018663130668589,0.002332989125435,0.001487648955527
+5,Prevalence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0016910006215873,0.0021050256992183,0.0013508218587011
+5,Prevalence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,150.68559606944,186.2784219676,120.99377316171
+5,Prevalence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,185.77617737813,232.20143516723002,148.11843708688
+5,Prevalence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,168.34043353215,209.55749612006,134.4745504296
+5,Prevalence,199,Western Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020586712882073,0.0025092062281457,0.0016774617107211
+5,Prevalence,199,Western Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002628257729716,0.0032150115013873,0.0021296242124199
+5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023368992825764,0.0028458025996207,0.0019004718904012
+5,Prevalence,199,Western Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,205.29045794897002,250.18332777391998,167.28711306898
+5,Prevalence,199,Western Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,262.12097463434003,320.61218270656997,212.37764541431
+5,Prevalence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,233.05082251168,283.76468814872004,189.53966658094
+5,Prevalence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1405500.284336385,1704619.834871166,1136928.5072816266
+5,Prevalence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1112584.911819968,1352512.8286982756,897960.4353689133
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2518085.196156354,3059205.8840617826,2034913.1656999292
+5,Prevalence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.002408868915471,0.0029244865216792,0.0019491195564101
+5,Prevalence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019695656137325,0.0023932245963952,0.0015900243702324
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.002192771200563,0.0026665571618548,0.0017724884335954
+5,Prevalence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,237.71621367142998,288.30714401891,192.29191411633
+5,Prevalence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,195.13591315879,237.21679404702002,157.49299462416
+5,Prevalence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,216.81271368368,263.40440365281,175.21053149412998
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030011099274972,0.0035987781459309,0.0024536597627717
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024433760999824,0.0029400143230711,0.0019965422965615
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027260973918812,0.0032790427940966,0.0022278134627671
+5,Prevalence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,297.11163111716,356.37859810539,242.92091403727
+5,Prevalence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,242.72898207596,292.12067482381,198.30720811851998
+5,Prevalence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,270.34450123221,325.04063219026,220.90391872892002
+5,Prevalence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1496005.4347983012,1762374.3703485131,1245815.7545695768
+5,Prevalence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1456548.2671108409,1714378.8224481186,1218730.08689802
+5,Prevalence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2952553.7019091407,3473575.549879563,2460547.920856554
+5,Prevalence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0036967562127589,0.0043581219929931,0.0030875859125115
+5,Prevalence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.00339739283676,0.00399918985488,0.0028442833931582
+5,Prevalence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0035427532597423,0.0041658490129909,0.0029587161896534
+5,Prevalence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,345.18033781905,406.64088937789006,287.45290158695
+5,Prevalence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,326.48117571237,384.27316568059,273.17490304372
+5,Prevalence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,335.69535797932,394.93377781107,279.75596670202003
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0033442637400844,0.0039418029193672,0.0027997264516974
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0030848116389575,0.0036445158864445,0.0025767078153388
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0032184967604406,0.0037835899671817,0.0026907273341466
+5,Prevalence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,307.33589820857003,361.26959259122003,256.25596336362
+5,Prevalence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,291.63052707121,343.96543946956,243.09675368256998
+5,Prevalence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,299.92509585195,353.06159728733996,249.93524561964
+5,Prevalence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,450112.8064743977,554134.6058961041,362039.6359633536
+5,Prevalence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,431421.7469700627,534861.8899007131,344415.943075332
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,881534.5534444605,1088125.712338403,706902.1153296359
+5,Prevalence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0017916882553587,0.002205236668808,0.0014413570860168
+5,Prevalence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0017398047719188,0.0021566929756893,0.0013888691701484
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0017659154917817,0.0021794907586628,0.0014162341618982
+5,Prevalence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,178.38076797725,219.60485269627,143.47716255218
+5,Prevalence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,173.28401899835,214.83158543113998,138.33743718845
+5,Prevalence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,175.84949748047,217.06053263893997,141.013623644
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025024827111413,0.0030237437522663,0.0020348506321209
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023743886618857,0.0028967445328237,0.0019236631371862
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024384165411391,0.0029581571527587,0.0019795358692887
+5,Prevalence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,249.48623227455997,301.4169259937,202.87903106924998
+5,Prevalence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,236.85628772965,288.94378335302,191.90963594464
+5,Prevalence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,243.17300863474998,294.98195673871004,197.42543742643
+5,Prevalence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1506839.2674584468,1747344.2954164415,1282388.52828158
+5,Prevalence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1432813.8717722052,1658541.908229886,1228940.53795143
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2939653.139230654,3401078.0443913,2511212.3408678723
+5,Prevalence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0029719337984367,0.0034479992850174,0.0025315368308713
+5,Prevalence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027524427745524,0.0031851208497112,0.0023625643800044
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0028607404275834,0.0033135855327254,0.0024457814937149
+5,Prevalence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,284.71045155848003,330.15278677682,242.30150145759998
+5,Prevalence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,268.17711867642,310.4262171911,230.01852437736
+5,Prevalence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,276.40472107663004,319.79079969477,236.12001612660998
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028658222939151,0.0033079892007252,0.002452740350502
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026499525986719,0.0030591764840672,0.0022740845617221
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0027571324597318,0.0031821751783987,0.002359748209041
+5,Prevalence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,274.25120983225,316.1925936859,234.18753132051
+5,Prevalence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,257.20670496663,297.13651329246,220.67447789029998
+5,Prevalence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,265.68976324028,306.33557327251,227.19200787516002
+5,Prevalence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,131219.23469771002,164657.5009836346,104046.203544198
+5,Prevalence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,149896.22958126795,188966.0324881221,117828.50631443922
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,281115.46427897783,353361.4443584397,221152.3969590351
+5,Prevalence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0013931004467298,0.0017479700803509,0.0011048550580074
+5,Prevalence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0015652412091793,0.0019737169345448,0.0012304755948718
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0014798837525448,0.0018605144505708,0.0011641635972815
+5,Prevalence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,138.62611988352,173.95186402102,109.91926236401
+5,Prevalence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,155.86920258122,196.49583502627002,122.52366435014999
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,147.31592988495998,185.17576005529,115.89284526865
+5,Prevalence,174,Eastern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002070469029185,0.0025443071616443,0.0016737573824626
+5,Prevalence,174,Eastern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022275845393677,0.0027499510943009,0.0017979979730843
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0021511303650675,0.0026468564770115,0.0017398128424828
+5,Prevalence,174,Eastern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,206.41291087275002,253.64963344138002,166.85514854029
+5,Prevalence,174,Eastern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,222.21179633796,274.32011708444,179.32214665111
+5,Prevalence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,214.52214928960998,263.96436535040004,173.50075702014
+5,Prevalence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,348471.7925705921,436538.7698144014,275027.07023601374
+5,Prevalence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,301945.7656041027,376380.39995923697,236010.39390866744
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,650417.5581746945,811854.3957407784,511037.4641446811
+5,Prevalence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020979498768092,0.0026249326947675,0.0016564365218441
+5,Prevalence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018811833443708,0.0023499055105458,0.0014722103882933
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0019914209728682,0.0024876661404855,0.0015660964580495
+5,Prevalence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,200.57629405119,251.26661763104002,158.30236962586
+5,Prevalence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,182.49247260336,227.47989093532001,142.64190874912
+5,Prevalence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,191.75507108008,239.34962303114,150.66325321329
+5,Prevalence,138,North Africa and Middle East,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026214998057004,0.0032424178649356,0.0020792611209063
+5,Prevalence,138,North Africa and Middle East,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023757169537216,0.0029131362116037,0.0018898053794243
+5,Prevalence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0025011947902507,0.0030809285258887,0.0019858277655464
+5,Prevalence,138,North Africa and Middle East,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,253.78847894748,313.68731146757,201.45098886677
+5,Prevalence,138,North Africa and Middle East,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,232.64093328523,284.92860805642005,185.04698022526
+5,Prevalence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,243.50083882442001,299.34782153345003,193.62272723307
+5,Prevalence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,1524930.2047933494,1817080.5409747933,1253625.7867244305
+5,Prevalence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1070721.0476556031,1276664.7308750097,875604.0753921168
+5,Prevalence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,2595651.252448954,3094140.364906636,2130584.056700259
+5,Prevalence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027096534848663,0.0032266403321257,0.0022286181449173
+5,Prevalence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0020516397685579,0.002446542906579,0.0016777812117034
+5,Prevalence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0023930498394548,0.0028539283987809,0.0019647682743814
+5,Prevalence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,268.32754387928,319.73447509795,220.58867169010998
+5,Prevalence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,203.90651126801998,243.12611758369,166.74872755718
+5,Prevalence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,237.38979990898,282.97998871092,194.8562706304
+5,Prevalence,159,South Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0032571703972405,0.0038696259271012,0.0026966001193239
+5,Prevalence,159,South Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0024987727253384,0.0029687066171972,0.0020681483891735
+5,Prevalence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.002893958711067,0.003429109483551,0.0023981781106066
+5,Prevalence,159,South Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,323.16836953967,384.17080353584,267.67927614664
+5,Prevalence,159,South Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,248.75416799958,295.53813007316,205.72760820282
+5,Prevalence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,287.5962404383,340.75742105481,238.39061970767
+5,Prevalence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,39601.25620647997,51068.841911688345,30159.367101403768
+5,Prevalence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,45083.47920800758,58488.55678451633,34437.75274340168
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,84684.73541448748,109579.58920098738,64946.7359008332
+5,Prevalence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0014578440070166,0.0018795716843294,0.0011103771804968
+5,Prevalence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0016301015827786,0.0021147726742234,0.0012453271084704
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0015447466407404,0.0019988644304967,0.0011848296626255
+5,Prevalence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,145.37520112379,187.47241565675,110.71426712507
+5,Prevalence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,162.62721837258,210.98263629138,124.22545983689999
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,154.07673905198,199.37082743552,118.16511241008001
+5,Prevalence,167,Central Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0020819222818025,0.0026406221873327,0.0016317862059014
+5,Prevalence,167,Central Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022346248522019,0.0028296050320984,0.0017520335757935
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0021610229693963,0.0027428386497889,0.0016897464377449
+5,Prevalence,167,Central Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,207.84568519732002,263.61417955533,162.89513095453
+5,Prevalence,167,Central Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,223.16702145784,282.56876186716,174.95326491959
+5,Prevalence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,215.77990329452,273.87040846931,168.70725063291
+5,Prevalence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,2322267.966312704,2755158.4575706767,1928137.6025628245
+5,Prevalence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1995980.5271865423,2378735.4786489704,1652067.638061751
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,4318248.493499246,5127622.64851439,3584548.583000251
+5,Prevalence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.0027241549165025,0.0032324820824382,0.002264844076782
+5,Prevalence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0024034787787476,0.0028637064464421,0.0019905280075426
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0025659140766062,0.0030465646261794,0.0021322378581862
+5,Prevalence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,264.77769535232,314.13450872525004,219.84018990682998
+5,Prevalence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,235.9751288479,281.22639646214,195.31597049524999
+5,Prevalence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,250.63736850402,297.61461139627005,208.05236786870998
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.00299836412572,0.0035247401078246,0.0025165151138344
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0026441850063544,0.0031244756935588,0.0022091331641586
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0028242140482847,0.0033215239130768,0.0023668828175442
+5,Prevalence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,292.68646528487,344.17068500094,245.61441593791002
+5,Prevalence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,260.2536659112,307.84548865536,217.26600569247
+5,Prevalence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,276.80819561581,325.85354613618,231.87046362316
+5,Prevalence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,43507.94620867518,53374.315363089925,35165.660378040826
+5,Prevalence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,50592.06638870517,61661.82186701262,40751.895490369454
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,94100.01259738024,115041.08873162125,75882.75513750018
+5,Prevalence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,0.001740289247202,0.0021334726395204,0.0014052653956269
+5,Prevalence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018924210137855,0.002306065954277,0.0015234223817945
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,0.0018189035963204,0.002222681706651,0.0014656552618536
+5,Prevalence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,171.13879801927,209.94822721646997,138.32436079117
+5,Prevalence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,187.4090806816,228.41497045135998,150.95796268143
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,179.51805153145,219.46811190684002,144.7643201219
+5,Prevalence,192,Southern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0021924248989919,0.0026385397712698,0.001807497045627
+5,Prevalence,192,Southern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0023223143019751,0.0027930106794143,0.001903234416371
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,0.0022608803125094,0.0027208589301294,0.0018508636194355
+5,Prevalence,192,Southern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,216.56906161505998,260.74036435884,178.56690823837002
+5,Prevalence,192,Southern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,230.56393751068998,277.08941224904,188.84833391907
+5,Prevalence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,223.90986319469,269.50686375993,183.30935188496
+6,Incidence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,8002.173946128697,10006.349512509896,6373.28820345885
+6,Incidence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,7421.263710368147,9229.457857026096,5898.004483674528
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,15423.437656496835,19259.592530754824,12258.633855752909
+6,Incidence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.74984154704e-05,4.69584326785e-05,2.92112217494e-05
+6,Incidence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.17292211799e-05,3.94076033861e-05,2.47973399432e-05
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.44812097482e-05,4.30123437879e-05,2.69198537248e-05
+6,Incidence,42,Central Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,13.06262790441,16.33421383281,10.40365941678
+6,Incidence,42,Central Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,11.6262554201,14.458997634720001,9.239896232269999
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,12.329675863250001,15.39634279018,9.79969481084
+6,Incidence,42,Central Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.62556011014e-05,4.5318081667e-05,2.80239693331e-05
+6,Incidence,42,Central Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.29086702202e-05,4.10273051681e-05,2.53503327718e-05
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.45115700672e-05,4.30753521873e-05,2.66343929659e-05
+6,Incidence,42,Central Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.794186650519999,16.0673204949,10.05459588812
+6,Incidence,42,Central Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.16409473471,15.29721168442,9.58911260527
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.477838586459999,15.616909742149998,9.82240988634
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,475763.7138184485,572148.2447368809,388657.10959120287
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,407729.774629967,493099.92253638426,332245.3761489423
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,883493.4884484163,1065739.7493815194,721489.1224016093
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.78976205517e-05,4.55267302144e-05,3.0668043419e-05
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.12324700623e-05,3.75224927423e-05,2.52115424843e-05
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.4499698269e-05,4.14953098006e-05,2.79066715645e-05
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,17.71441690365,21.30316424642,14.47112058338
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,15.39834549473,18.62243927986,12.54759747583
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,16.56460192148,19.98153345919,13.5271852702
+6,Incidence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.6518212191e-05,4.40598837099e-05,2.9934834962e-05
+6,Incidence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.00308219486e-05,3.60979083105e-05,2.45057191854e-05
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.3210069262e-05,3.99901212683e-05,2.71812681419e-05
+6,Incidence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.67941405498,19.830950144350002,13.924364480909999
+6,Incidence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.570988995,17.40727061834,12.1265234947
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.63622785011,18.61784656807,13.037400885270001
+6,Incidence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,138594.42875043204,160133.57929343276,118882.88558979191
+6,Incidence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,121004.16928476968,140378.44209940673,102180.6830634519
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,259598.5980352017,300729.9847196018,221425.3472098244
+6,Incidence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,6.49143555926e-05,7.64865324401e-05,5.43925157591e-05
+6,Incidence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,5.81846886021e-05,6.82554493855e-05,4.8542337044e-05
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,6.15928065975e-05,7.24222133393e-05,5.13831922468e-05
+6,Incidence,5,East Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,22.10232956566,25.537282962840003,18.95883363215
+6,Incidence,5,East Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,20.49591800827,23.77756945405,17.30755985084
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,21.323320916030003,24.701835918150003,18.18778596353
+6,Incidence,5,East Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,5.51995078647e-05,6.47978228348e-05,4.66915236624e-05
+6,Incidence,5,East Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,4.86435132795e-05,5.66499527455e-05,4.12885342906e-05
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,5.19827928627e-05,6.06533031356e-05,4.41544512813e-05
+6,Incidence,5,East Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.964314395880002,21.86951438899,16.37859695566
+6,Incidence,5,East Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.290668256700002,20.00896421075,14.891629658529999
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.16052911633,20.98203123648,15.663056878969998
+6,Incidence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,635.0755011514027,812.7328220579882,484.3858536534808
+6,Incidence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,507.5232303049819,651.8983327737386,379.9907294175754
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,1142.5987314563845,1462.915306308752,863.0565955377295
+6,Incidence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.2337146074e-05,4.19277651625e-05,2.43226065024e-05
+6,Incidence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.69194042281e-05,3.45631759887e-05,1.99940634512e-05
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.96828379781e-05,3.83887503958e-05,2.21237532473e-05
+6,Incidence,21,Oceania,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,18.72355191109,23.96131665614,14.28085898359
+6,Incidence,21,Oceania,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,16.07055539403,20.64214530993,12.03228089216
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,17.44439480221,22.33476325755,13.176541838119999
+6,Incidence,21,Oceania,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.47246760077e-05,4.39490812136e-05,2.67241000217e-05
+6,Incidence,21,Oceania,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.77974544801e-05,3.48324834256e-05,2.12302303853e-05
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.12711256513e-05,3.93628585408e-05,2.41490410769e-05
+6,Incidence,21,Oceania,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.48550183552,23.249355105179998,14.55040550897
+6,Incidence,21,Oceania,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.50245651412,19.471076495600002,12.05746976498
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.03526185258,21.35571476038,13.33588735779
+6,Incidence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,46334.48807695329,56962.29083868511,36681.40996209692
+6,Incidence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,39986.668877495766,49214.82174324425,31338.088078278342
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,86321.15695444902,106067.30181858472,68048.36679655247
+6,Incidence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.67450413933e-05,4.56483673361e-05,2.84469055781e-05
+6,Incidence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.18695625361e-05,3.92026827024e-05,2.45954118934e-05
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.43130880932e-05,4.24553685303e-05,2.6529675747e-05
+6,Incidence,9,Southeast Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,20.0467980826,24.64495865086,15.87035595761
+6,Incidence,9,Southeast Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,17.060949976459998,20.99828856547,13.37089505253
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,18.54347092591,22.78532861301,14.618118613880002
+6,Incidence,9,Southeast Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.62189951863e-05,4.45412046361e-05,2.89523843098e-05
+6,Incidence,9,Southeast Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.01441684897e-05,3.68287761532e-05,2.39215662545e-05
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.31212516782e-05,4.06648334402e-05,2.64063639176e-05
+6,Incidence,9,Southeast Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.875865560799998,23.0512676408,15.41649781105
+6,Incidence,9,Southeast Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.64558651005,19.11424546293,12.67262347864
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.23195234643,21.064761160710002,14.027623931079999
+6,Incidence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,4551.121046711638,5853.131758173651,3444.6224326021484
+6,Incidence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,4408.930377252319,5736.261886044004,3356.3278267042983
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,8960.051423963958,11589.461660147232,6752.341907278973
+6,Incidence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.89363971047e-05,5.04949442294e-05,2.9206099346e-05
+6,Incidence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.50926881414e-05,4.53634318785e-05,2.6269388542e-05
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.69446008196e-05,4.78603828266e-05,2.77599104627e-05
+6,Incidence,32,Central Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,13.41291319697,17.25015603783,10.151877133260001
+6,Incidence,32,Central Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,12.46131901868,16.21286416894,9.48626269892
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,12.92716220213,16.72075790942,9.741977467469999
+6,Incidence,32,Central Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.80746383454e-05,4.84091227909e-05,2.89285115978e-05
+6,Incidence,32,Central Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.45294739497e-05,4.4247376575e-05,2.61770697743e-05
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.62374917548e-05,4.62256854605e-05,2.75460388144e-05
+6,Incidence,32,Central Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.79575083021,16.29096942016,9.79922627338
+6,Incidence,32,Central Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.09106174644,15.515071991680001,9.28570051407
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.436205681790002,15.884818429629998,9.6131388338
+6,Incidence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,12575.038265687544,15291.898092082043,10339.78418315867
+6,Incidence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,12671.579879055407,15420.15541014828,10326.992870694112
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,25246.618144742944,30695.687299141533,20671.80372743084
+6,Incidence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,2.88067851833e-05,3.5591175747e-05,2.32472484186e-05
+6,Incidence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.39463380903e-05,2.93059817498e-05,1.92922799099e-05
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.6142940685e-05,3.21469706395e-05,2.11793646307e-05
+6,Incidence,56,Eastern Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,11.87842973073,14.44478601961,9.767000088240001
+6,Incidence,56,Eastern Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,10.50480279796,12.783385595450001,8.56112849685
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,11.146851675039999,13.552717097610001,9.12698598617
+6,Incidence,56,Eastern Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.67515503808e-05,3.23917421038e-05,2.1501743208e-05
+6,Incidence,56,Eastern Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.49987826121e-05,3.01080247737e-05,2.01352997283e-05
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.57888812332e-05,3.1060023362e-05,2.08278113262e-05
+6,Incidence,56,Eastern Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,11.18515976929,13.566068945269999,9.21917504859
+6,Incidence,56,Eastern Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,11.19922548976,13.59297785101,9.1262016687
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,11.18092888163,13.55042446133,9.17689694379
+6,Incidence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,30441.88663920772,36522.64419762947,25400.15615383524
+6,Incidence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,25336.824910006144,30654.416983882773,21059.290425221032
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,55778.71154921386,66798.31066106702,46652.048181687525
+6,Incidence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,4.25883002903e-05,5.15266440903e-05,3.48310896505e-05
+6,Incidence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.87500597472e-05,3.47772003689e-05,2.3610729813e-05
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.49468817061e-05,4.20916318198e-05,2.86979399492e-05
+6,Incidence,73,Western Europe,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,16.26077956612,19.50886531797,13.56769851545
+6,Incidence,73,Western Europe,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,12.84814220013,15.544659201379998,10.679031764160001
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,14.510109848929998,17.3767159279,12.13592650301
+6,Incidence,73,Western Europe,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.84434811797e-05,4.66337481309e-05,3.13435337205e-05
+6,Incidence,73,Western Europe,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.79221530332e-05,3.39142857455e-05,2.27620503262e-05
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.28255919897e-05,3.95146868563e-05,2.68016195057e-05
+6,Incidence,73,Western Europe,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.370536620269998,18.35204371004,12.80986588
+6,Incidence,73,Western Europe,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.015757551959998,15.658997956679999,10.81152322308
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.20837724844,16.94721892414,11.83886742722
+6,Incidence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,3949.5895380953166,5034.910881747026,2956.3075917336137
+6,Incidence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,3659.048076991113,4711.099717361385,2782.838937231405
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,7608.637615086443,9693.482420615295,5709.967830269884
+6,Incidence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.51863419034e-05,4.50973391304e-05,2.6124661388e-05
+6,Incidence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.81554850636e-05,3.60663708462e-05,2.09979575919e-05
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.14130156031e-05,4.01685269063e-05,2.34240898452e-05
+6,Incidence,96,Southern Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,16.28417742602,20.75896275594,12.188870991609999
+6,Incidence,96,Southern Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,14.471647896379999,18.63254455253,11.00621374865
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,15.35906784645,19.567610089800002,11.52634515439
+6,Incidence,96,Southern Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.48933335097e-05,4.47552639094e-05,2.60693595818e-05
+6,Incidence,96,Southern Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.81896919364e-05,3.61185563708e-05,2.11389910108e-05
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.13043241753e-05,3.99476932014e-05,2.34695283555e-05
+6,Incidence,96,Southern Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.98291524251,20.30676154431,12.09518462712
+6,Incidence,96,Southern Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.48465855902,18.553482192100002,11.05575698341
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.22628694955,19.32606445438,11.56279312541
+6,Incidence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,26943.09200204817,32279.88248137889,22289.97492482728
+6,Incidence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,23676.63402684637,28614.443698133487,19628.34641459493
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,50619.72602889455,60930.94221847002,41922.84053638262
+6,Incidence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.99728939757e-05,4.82680840146e-05,3.25197814937e-05
+6,Incidence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.04174271581e-05,3.70480295856e-05,2.49423423835e-05
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.48513201577e-05,4.22333654872e-05,2.8494842667e-05
+6,Incidence,100,High-income North America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,19.585845690150002,23.4653393578,16.20333736313
+6,Incidence,100,High-income North America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,16.45979461903,19.89251790922,13.6454594994
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,17.98793285312,21.65206695662,14.897457962339999
+6,Incidence,100,High-income North America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.68044312335e-05,4.41768619181e-05,3.01117017826e-05
+6,Incidence,100,High-income North America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.95452636807e-05,3.52997297509e-05,2.42094538802e-05
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.30144991866e-05,3.96674838588e-05,2.69843595402e-05
+6,Incidence,100,High-income North America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,18.41887186888,21.86509620777,15.24627055094
+6,Incidence,100,High-income North America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.37699076388,19.58095300124,13.5512022441
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.407540461099998,20.77181317221,14.42086145801
+6,Incidence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,2447.196405161125,2757.247252795566,2156.739994108308
+6,Incidence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,1806.48928879672,2085.5329312795466,1563.2190315576536
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,4253.685693957846,4797.187802126847,3755.741079723809
+6,Incidence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,5.59961589109e-05,6.44820185384e-05,4.8611138686e-05
+6,Incidence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.63158716859e-05,4.20845215479e-05,3.1095643695e-05
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,4.55182554735e-05,5.19009627541e-05,3.97515269414e-05
+6,Incidence,70,Australasia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,24.30049064831,27.379274070659996,21.41627862281
+6,Incidence,70,Australasia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,17.70077542316,20.43496758222,15.31710660363
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,20.97863916527,23.65912273486,18.52283938647
+6,Incidence,70,Australasia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,5.21809001779e-05,5.99374801387e-05,4.50393712172e-05
+6,Incidence,70,Australasia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.42851125598e-05,3.95757262164e-05,2.9336578902e-05
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,4.28401341356e-05,4.88716137721e-05,3.74538528826e-05
+6,Incidence,70,Australasia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,23.10210796642,25.989672877110003,20.354671796119998
+6,Incidence,70,Australasia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.97301343978,19.61747622798,14.68282377086
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,20.08594444405,22.62567988195,17.77096752644
+6,Incidence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,2646.5044193603458,3387.942072378556,2020.720224597013
+6,Incidence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,2073.262743980534,2678.3880144623936,1580.1305372476493
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,4719.767163340883,6069.461915553554,3596.90416800189
+6,Incidence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.44365189261e-05,4.35939813395e-05,2.60454770739e-05
+6,Incidence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.44859746344e-05,3.16114306181e-05,1.86878868427e-05
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.92200041335e-05,3.74861752318e-05,2.22527213814e-05
+6,Incidence,104,Caribbean,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,15.19079720022,19.446610620079998,11.5988285928
+6,Incidence,104,Caribbean,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,11.6014235701,14.987542669679998,8.84198768916
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,13.37327792987,17.19758587074,10.19168900945
+6,Incidence,104,Caribbean,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.28663539217e-05,4.16262923917e-05,2.5197659513e-05
+6,Incidence,104,Caribbean,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.27438200796e-05,2.89015321466e-05,1.74787721264e-05
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.75005902251e-05,3.48351579088e-05,2.1190342264e-05
+6,Incidence,104,Caribbean,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.240039492429998,17.86112091679,11.057927732189999
+6,Incidence,104,Caribbean,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,10.66209234178,13.483641581770001,8.33231500645
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.4140913772,15.64427397983,9.67021674155
+6,Incidence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,26356.49108963145,33260.45664513988,20134.496948045227
+6,Incidence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,22479.602339372374,28347.837289935484,17228.686866792385
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,48836.09342900382,61571.7452107927,37285.68285773504
+6,Incidence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.45908086134e-05,4.38511408157e-05,2.6281419282e-05
+6,Incidence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.86557023902e-05,3.61712232151e-05,2.16799299923e-05
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.15796938875e-05,3.99718937449e-05,2.38959549761e-05
+6,Incidence,138,North Africa and Middle East,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,15.17048845748,19.1443304008,11.58918129537
+6,Incidence,138,North Africa and Middle East,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.58640749885,17.13309974606,10.41281589009
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,14.397779471129999,18.1524840943,10.99250577847
+6,Incidence,138,North Africa and Middle East,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.65545490042e-05,4.56612030022e-05,2.85808615761e-05
+6,Incidence,138,North Africa and Middle East,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.96311321314e-05,3.70031831143e-05,2.30064248965e-05
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.30173645359e-05,4.13147464982e-05,2.58363002274e-05
+6,Incidence,138,North Africa and Middle East,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.00867539943,18.68807431641,11.91357605627
+6,Incidence,138,North Africa and Middle East,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.36515611814,16.58358441771,10.603614722589999
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.20705999467,17.65902989229,11.234991052609999
+6,Incidence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,14461.682229983073,17723.23278475785,11760.016561817352
+6,Incidence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,13043.2291184817,15813.94889969728,10690.467219801718
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,27504.91134846474,33376.27206340209,22411.462326818324
+6,Incidence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,4.01733397318e-05,4.89006887382e-05,3.19371317783e-05
+6,Incidence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.28175168477e-05,4.00904004036e-05,2.63584619156e-05
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.63129781306e-05,4.41538947817e-05,2.91335096025e-05
+6,Incidence,65,High-income Asia Pacific,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,16.86477826072,20.66830028656,13.71417712708
+6,Incidence,65,High-income Asia Pacific,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,14.884557082830002,18.04642262773,12.19965302532
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,15.86394039514,19.25035074346,12.926204270069999
+6,Incidence,65,High-income Asia Pacific,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.5525576049e-05,4.35835093595e-05,2.80174036703e-05
+6,Incidence,65,High-income Asia Pacific,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.01415449923e-05,3.74260075439e-05,2.38645358007e-05
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.27871650819e-05,4.03612854008e-05,2.60471977075e-05
+6,Incidence,65,High-income Asia Pacific,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.65778068963,19.33504411287,12.72736583347
+6,Incidence,65,High-income Asia Pacific,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.390170070029999,17.519700198379997,11.70396730014
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.039235567979999,18.30658891071,12.2439176823
+6,Incidence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,12931.835952532225,16194.540188217616,10108.670671732674
+6,Incidence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,10713.486838980578,13527.492088539206,8284.606848701807
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,23645.322791512808,29734.567539846557,18376.147889726224
+6,Incidence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.27114693332e-05,4.09660711138e-05,2.55189623708e-05
+6,Incidence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.51795573739e-05,3.15956473701e-05,1.9356234723e-05
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.88069128072e-05,3.60458363781e-05,2.2283325546e-05
+6,Incidence,124,Central Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,15.92958049473,19.948616147790002,12.4519738536
+6,Incidence,124,Central Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,12.872655656849998,16.25378834862,9.95426538704
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,14.3821021799,18.085842701489998,11.177163405770001
+6,Incidence,124,Central Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.32016683231e-05,4.07573158459e-05,2.61741166088e-05
+6,Incidence,124,Central Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.42641127878e-05,3.00403786707e-05,1.90317602815e-05
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.84682374916e-05,3.51586212483e-05,2.23716299826e-05
+6,Incidence,124,Central Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.39729784634,18.99553339515,12.37099520903
+6,Incidence,124,Central Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.00590742974,14.937545994469998,9.55922346861
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.655113406039998,16.91033145108,10.92147246212
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,3423.2262530331022,4408.492325038187,2576.4108552137272
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,3666.28079874009,4727.166914277221,2760.439737163029
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,7089.507051773198,9106.034366063375,5341.895159071526
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,1.94648646698e-05,2.49636395272e-05,1.47308075318e-05
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.08459702846e-05,2.70292922692e-05,1.54740355738e-05
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.01548743427e-05,2.60057905624e-05,1.51362377269e-05
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,12.56657623263,16.183462844290002,9.4579385134
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.22517823704,17.052055865179998,9.95758632267
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,12.89876059335,16.567662093419997,9.7191280393
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.39313951669e-05,3.04313087872e-05,1.8595908387e-05
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.47438391199e-05,3.15623638121e-05,1.88213246447e-05
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.43275428471e-05,3.07526010839e-05,1.87201957669e-05
+6,Incidence,167,Central Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.6567757288,17.28948042032,10.72955533213
+6,Incidence,167,Central Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.115062426889999,17.964667706689998,10.86783149653
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.880961531670001,17.5563471876,10.772709255039999
+6,Incidence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,2916.410113607793,3786.9522832228167,2194.1206937176794
+6,Incidence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,2332.494361259198,3052.5707320089423,1757.4897637210356
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,5248.90447486699,6801.882112666698,3963.806065514952
+6,Incidence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,2.948999198e-05,3.80741481799e-05,2.20288509921e-05
+6,Incidence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.15247542743e-05,2.78709650288e-05,1.60118511457e-05
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.53246621686e-05,3.2697373397e-05,1.89166992172e-05
+6,Incidence,120,Andean Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,15.44651627615,20.05726828572,11.620972252569999
+6,Incidence,120,Andean Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,12.2038892808,15.97141491701,9.19539650121
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,13.815301873029998,17.90279383845,10.43287749347
+6,Incidence,120,Andean Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.07792071871e-05,3.95688762064e-05,2.32353812481e-05
+6,Incidence,120,Andean Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.12883136957e-05,2.74122928764e-05,1.61935725707e-05
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.56978073683e-05,3.29611339369e-05,1.95147750046e-05
+6,Incidence,120,Andean Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.136558001190002,19.36061047741,11.65698435861
+6,Incidence,120,Andean Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,11.61926836127,14.890657249279998,8.95383715653
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.34583332961,17.005798425440002,10.25432136673
+6,Incidence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,97671.25075100872,114517.53159441076,83109.37796879653
+6,Incidence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,86398.86273530616,101632.2350963738,73345.2053210756
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,184070.1134863151,215712.9307311541,156454.5832898721
+6,Incidence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,4.905685953e-05,5.80391015174e-05,4.0931763608e-05
+6,Incidence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,4.00718846408e-05,4.70511284488e-05,3.35451149454e-05
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,4.43850652473e-05,5.230910787e-05,3.71729010724e-05
+6,Incidence,44634,High-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,18.45454024602,21.637568674849998,15.70314036888
+6,Incidence,44634,High-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,16.17111511952,19.02231721073,13.72788623787
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,17.30743253268,20.28268970092,14.7108462826
+6,Incidence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,4.34462107125e-05,5.13089496877e-05,3.65359615328e-05
+6,Incidence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.66094840108e-05,4.29924559005e-05,3.07964807892e-05
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.99106209595e-05,4.68524588592e-05,3.35607705037e-05
+6,Incidence,44634,High-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.55945593925,19.30912702191,14.170908149039999
+6,Incidence,44634,High-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.986559147240001,17.561378068110002,12.83482309268
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.77868333927,18.40365932429,13.53216282654
+6,Incidence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,99381.8599261106,121441.25831577138,80092.47696202269
+6,Incidence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,70639.49556176731,86944.24753418812,56492.18825745344
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,170021.35548787797,208810.0794416779,136997.38446540368
+6,Incidence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.22319816392e-05,3.95998313448e-05,2.57122905639e-05
+6,Incidence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.31696398726e-05,2.86576203536e-05,1.82587880439e-05
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.7725873904e-05,3.41110495795e-05,2.18361807802e-05
+6,Incidence,159,South Asia,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,17.487285841869998,21.36886951747,14.09311557924
+6,Incidence,159,South Asia,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.45247964376,16.557532167999998,10.75828764802
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,15.54959878429,19.09708899871,12.52933407583
+6,Incidence,159,South Asia,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.2993571516e-05,4.01023199897e-05,2.63820997257e-05
+6,Incidence,159,South Asia,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.335179243e-05,2.84993566095e-05,1.8636099448e-05
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.81601457574e-05,3.43095490829e-05,2.26463116919e-05
+6,Incidence,159,South Asia,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.163058165200002,20.76595270255,14.01343480069
+6,Incidence,159,South Asia,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.09661204415,15.89237223059,10.64592052707
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.19887612607,18.417103000450002,12.41646960225
+6,Incidence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,12520.320646239696,15210.635287288296,10134.334375629283
+6,Incidence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,10109.613797628608,12299.604957623107,8178.954387038135
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,22629.934443868333,27506.71748141392,18290.286167271417
+6,Incidence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,2.92699001784e-05,3.53884252605e-05,2.34748532199e-05
+6,Incidence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.21064691736e-05,2.65814449264e-05,1.76660506469e-05
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.55682496991e-05,3.08919227641e-05,2.05062062252e-05
+6,Incidence,134,Tropical Latin America,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,16.598355936489998,20.16494190941,13.43522213999
+6,Incidence,134,Tropical Latin America,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.10885398159,15.948554380840001,10.60542182204
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,14.834282956160001,18.03109201781,11.98957429715
+6,Incidence,134,Tropical Latin America,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.79663774322e-05,3.36323531219e-05,2.27077033961e-05
+6,Incidence,134,Tropical Latin America,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.06599569757e-05,2.46614974106e-05,1.67637352608e-05
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.41517179574e-05,2.89247004607e-05,1.96394249321e-05
+6,Incidence,134,Tropical Latin America,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.49258327157,18.66727063615,12.76261014479
+6,Incidence,134,Tropical Latin America,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,12.06775294856,14.521904711240001,9.9181508815
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.75141487304,16.60900041991,11.30684788697
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,11659.086519440496,14576.109282231471,9097.297752097023
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,13064.60861932093,16370.959231521676,10067.93117624733
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,24723.695138761443,30991.45785336299,19099.27307307728
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,1.78808773451e-05,2.23039972212e-05,1.38627260317e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,1.9958675679e-05,2.51342801558e-05,1.53040992671e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,1.89216345009e-05,2.37212293505e-05,1.46064841046e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,12.317202804139999,15.398881707,9.61080966295
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.58519912887,17.02329917193,10.469111921409999
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,12.95622120576,16.24078363624,10.0087954254
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.25541437437e-05,2.79457526815e-05,1.78984645409e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.29619188233e-05,2.86216843079e-05,1.82281679492e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.27715176602e-05,2.82781492562e-05,1.81011437003e-05
+6,Incidence,174,Eastern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.08061574045,17.35896900624,11.37473737099
+6,Incidence,174,Eastern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.471645081739998,17.85780621546,11.68089618206
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.29251984245,17.68435337315,11.56102529815
+6,Incidence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,77232.32581702113,92343.3592032332,63602.50052149143
+6,Incidence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,66605.80778618091,79850.76209616262,55382.07438665322
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,143838.13360320206,171970.2537940403,118990.98605937208
+6,Incidence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,4.2557554105e-05,5.12278187188e-05,3.46397259221e-05
+6,Incidence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.18612904183e-05,3.84914424433e-05,2.61505989394e-05
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.68315038057e-05,4.45575748251e-05,3.00554856423e-05
+6,Incidence,44635,High SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,17.8201761143,21.30681559282,14.675302713119999
+6,Incidence,44635,High SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,14.9295034887,17.89832254745,12.413735382079999
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,16.353908726460002,19.55243553126,13.528872188060001
+6,Incidence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.84618444669e-05,4.62038099053e-05,3.12928446369e-05
+6,Incidence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.05773866039e-05,3.66793121555e-05,2.48947039025e-05
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.43627117073e-05,4.12167260578e-05,2.79452610284e-05
+6,Incidence,44635,High SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.6075118035,19.92117335209,13.75444706547
+6,Incidence,44635,High SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.75123794005,17.654152720349998,12.19223134885
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.6970718851,18.79739176244,13.00893510071
+6,Incidence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,97613.9526962192,120045.00261735111,78355.12544770661
+6,Incidence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,78226.42220241085,96761.05344820496,61701.32324430908
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,175840.37489863005,217436.73473720255,140125.7768761312
+6,Incidence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,3.01111500186e-05,3.70143066175e-05,2.37301390251e-05
+6,Incidence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.3901540759e-05,2.92917597838e-05,1.8557929528e-05
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.69912572337e-05,3.31296085525e-05,2.1129382486e-05
+6,Incidence,44636,Low-middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,16.5097221929,20.303548715279998,13.25242260763
+6,Incidence,44636,Low-middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.72010726322,16.97089033136,10.82177542268
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,15.14024581659,18.72178454678,12.06513980858
+6,Incidence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.20469756106e-05,3.9311038398e-05,2.57667418774e-05
+6,Incidence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.46430010293e-05,3.016014088e-05,1.94485482117e-05
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.82729419863e-05,3.46449816179e-05,2.24995036514e-05
+6,Incidence,44636,Low-middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.61157165737,20.12400368142,13.5853074306
+6,Incidence,44636,Low-middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.52179204594,16.54420601459,10.93342379784
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.07927510174,18.33920588688,12.273441011840001
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,11446.212561654693,14194.152750141478,9084.065275556888
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,15180.662311951684,18916.202462502577,11836.873622514748
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,26626.874873606343,33116.54437010014,20950.99332925936
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,1.84834991037e-05,2.28613811634e-05,1.45671252303e-05
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.3489821121e-05,2.90584448302e-05,1.81454168559e-05
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.10399831215e-05,2.60213387065e-05,1.63963923805e-05
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,11.92607300376,14.78921529833,9.46489723685
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,15.62079499607,19.46463959865,12.18005989806
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,13.78496829165,17.144727507000002,10.84651428654
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.24986649519e-05,2.78675142762e-05,1.78953494651e-05
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.65881913805e-05,3.30051274706e-05,2.12091617946e-05
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.46876573951e-05,3.06110639656e-05,1.96310160646e-05
+6,Incidence,199,Western Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.31015516303,16.34883677057,10.90947401606
+6,Incidence,199,Western Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.516852586789998,20.2683070667,13.42510028194
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.969469984489999,18.43378245316,12.18743183751
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,3545.993935278197,4340.098721851438,2834.2153991231726
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,3947.906476597426,4843.858478195392,3133.375258383927
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,7493.900411875616,9179.641327935164,5979.393485851804
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,2.04599311809e-05,2.526620886e-05,1.61453717351e-05
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.09830791323e-05,2.60352084149e-05,1.64533588677e-05
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.07319138656e-05,2.56507577428e-05,1.63471272922e-05
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,13.948190911060001,17.07180741145,11.14840526848
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,14.624299345890002,17.94319009181,11.607017038839999
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,14.296389162730001,17.51233904717,11.40710865271
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.12788775058e-05,2.60198548859e-05,1.7120308695e-05
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.10389418692e-05,2.60133733635e-05,1.68281263806e-05
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.11453176779e-05,2.59438092414e-05,1.70001192568e-05
+6,Incidence,192,Southern Sub-Saharan Africa,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.7500187572,16.65683622209,11.316419217550001
+6,Incidence,192,Southern Sub-Saharan Africa,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.11735248471,17.209275768159998,11.50530960487
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,13.93718543503,16.95912333939,11.41462315563
+6,Incidence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,168586.57767570633,202652.4657746919,137714.6124185132
+6,Incidence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,142605.6706325028,172265.87616303627,115714.91282432208
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,311192.2483082091,375053.1736421009,253781.36993548088
+6,Incidence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,4.31066547413e-05,5.18523180843e-05,3.47278457406e-05
+6,Incidence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,3.61943929792e-05,4.36833965217e-05,2.91672084369e-05
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,3.96374837519e-05,4.77271617046e-05,3.19944576288e-05
+6,Incidence,44639,Middle SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,19.22171177135,23.105797273889998,15.70178731372
+6,Incidence,44639,Middle SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,16.85957906081,20.36616177862,13.68041475927
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,18.06204676091,21.76862694035,14.7298366066
+6,Incidence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,4.00142560371e-05,4.81862570382e-05,3.26991047889e-05
+6,Incidence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.28630047383e-05,3.92854231778e-05,2.67674526919e-05
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,3.64111362129e-05,4.35640852529e-05,2.96907669792e-05
+6,Incidence,44639,Middle SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,17.42864607241,20.79507400282,14.568909202730001
+6,Incidence,44639,Middle SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,15.04786403275,18.00343656049,12.62170619696
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,16.26068946005,19.42545107241,13.65085102414
+6,Incidence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,1,Number,1990,34285.52835523257,42635.91460511983,27164.790327835784
+6,Incidence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,1,Number,1990,33570.23067208868,41837.312128578174,26026.62991998381
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,1990,67855.75902732128,84442.08645618023,52972.93287737525
+6,Incidence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,2,Percent,1990,2.16477746172e-05,2.68920018124e-05,1.67572187425e-05
+6,Incidence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,2,Percent,1990,2.1208470251e-05,2.63083395664e-05,1.63216839045e-05
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,2,Percent,1990,2.14280670324e-05,2.65187407276e-05,1.6599842391e-05
+6,Incidence,44637,Low SDI,1,Male,22,All ages,559,Schizophrenia,3,Rate,1990,13.587435839500001,16.89671362662,10.76547054631
+6,Incidence,44637,Low SDI,2,Female,22,All ages,559,Schizophrenia,3,Rate,1990,13.48375349739,16.8042933409,10.453805505150001
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,1990,13.53594261221,16.84460173625,10.567099826260002
+6,Incidence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.61248007005e-05,3.23234910681e-05,2.08707363191e-05
+6,Incidence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.41500747258e-05,2.99912842314e-05,1.91308647603e-05
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,1990,2.51166789324e-05,3.11123762888e-05,2.00087713444e-05
+6,Incidence,44637,Low SDI,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.98459182507,18.34489191977,12.20719462167
+6,Incidence,44637,Low SDI,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.27153830939,17.550413639920002,11.487978993979999
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,1990,14.62832983602,17.87800511247,11.82630367355
