@@ -1,0 +1,163 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,3562684.8154837647,4458782.395985486,2671002.554101214
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,242.4466773920209,303.4276207714229,181.76620388450178
+2,DALYs (Disability-Adjusted Life Years),5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,203.01461707417926,253.8905696101081,152.50292463727254
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,847829.6167811439,1088591.1919453386,613296.5059199804
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,194.0429367141898,249.1460873568432,140.3652959625074
+2,DALYs (Disability-Adjusted Life Years),73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,163.46722074794909,213.1321329701956,119.19956378954396
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,2414829.6595795397,3055322.9538247297,1789901.285015971
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,221.33234079349265,280.03705295215696,164.0542386210558
+2,DALYs (Disability-Adjusted Life Years),44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,188.75279438247253,240.91424098152075,140.11318570280253
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,199499.87031812163,262915.3961752787,142363.42232526687
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,172.11472323931167,226.82526347462795,122.82133814845298
+2,DALYs (Disability-Adjusted Life Years),42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,144.05636443807197,193.1393999016277,102.91108547593045
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,387953.14742992056,495010.860332859,284046.51231752563
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,208.63950792765166,266.2146782488661,152.7589734768152
+2,DALYs (Disability-Adjusted Life Years),65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,176.2381157188962,231.95199405116546,129.0807398846004
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,137973.19156454926,188115.60106320522,98270.42865043436
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,145.87926785199286,198.89491460954875,103.90147550018874
+2,DALYs (Disability-Adjusted Life Years),32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,138.91788821319523,189.16587192059933,99.483465606187
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,326805.9965000303,416900.3693324436,239217.27594906202
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,157.0643492086879,200.3640872423707,114.96883829795668
+2,DALYs (Disability-Adjusted Life Years),56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,131.36344847468783,168.9448163994199,96.84583742485094
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,391164.83683403814,505478.07774167333,289814.6707836344
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,173.24445596084146,223.8730742958946,128.35710227881114
+2,DALYs (Disability-Adjusted Life Years),134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,154.131690115085,198.38119618752876,114.70326105029513
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,3464932.50238604,4500365.820325318,2562599.7198898615
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,189.55070458415784,246.19455401849655,140.18818032899443
+2,DALYs (Disability-Adjusted Life Years),159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,186.9291694108721,241.54497939443522,138.14348314987308
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,3216591.778526168,4225529.795753425,2362783.300539417
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,169.32454291529814,222.4360287237802,124.3792280520752
+2,DALYs (Disability-Adjusted Life Years),44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,173.940380011278,227.95493006147444,127.29928096982172
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,84102.39732008803,102195.24332485543,63540.40647555351
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,276.0822761895605,335.47551903295204,208.58359106002172
+2,DALYs (Disability-Adjusted Life Years),70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,246.8538497345865,301.45610460765573,185.05939242100342
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,1321769.9472701175,1752107.1473187106,953024.2620356287
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,121.00569171516393,160.40229826549088,87.2476789831173
+2,DALYs (Disability-Adjusted Life Years),44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,154.80406666566535,203.5622915869618,111.93081080042673
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,102412.24102654438,138815.59615004802,73192.59855395353
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,157.06407751464013,212.89392103333634,112.25150292137891
+2,DALYs (Disability-Adjusted Life Years),120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,153.73088142578845,207.44752726295852,110.15930307156147
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,14673945.676178886,18934214.158477172,10800648.046552842
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,187.58966295655085,242.05233757283443,138.07396943374633
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,177.9515590536363,229.33459887831302,131.30605554377345
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,131874.19813714852,178325.0254314299,93449.76603213284
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,195.77763094468153,264.73754161376644,138.73353593459305
+2,DALYs (Disability-Adjusted Life Years),96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,177.801955167227,240.53529095662552,125.64664170291611
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,71449.71584361534,96575.8178620468,50067.65156257126
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,151.3618425429438,204.58994922647233,106.06525026489763
+2,DALYs (Disability-Adjusted Life Years),104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,142.03089776704613,191.49839991726338,99.66822378209358
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,2882371.164981784,3606841.4141682163,2155880.2128953086
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,221.4662127907802,277.1306894259138,165.6464759921098
+2,DALYs (Disability-Adjusted Life Years),44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,185.65935605323955,232.50976520413255,139.26991667824566
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,4828036.988652589,6221021.692322796,3561311.393701796
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,198.55014240458894,255.83580776530934,146.45680760700085
+2,DALYs (Disability-Adjusted Life Years),44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,178.84735721466282,230.44583846219237,132.51426551534558
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,903678.035634727,1129030.0315681412,677079.5624189756
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,245.09376376375846,306.2132849615948,183.63617547064382
+2,DALYs (Disability-Adjusted Life Years),100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,218.31795843983045,273.5892645319562,164.50824551059085
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,412453.2686447547,544039.4417675817,300037.8980620767
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,163.73156027383885,215.96731902211175,119.10603436943228
+2,DALYs (Disability-Adjusted Life Years),124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,155.60163671073988,205.16047873143515,113.17421159037903
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,989039.7560627989,1326591.3753944626,708095.255519139
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,160.83407124609056,215.72549584255012,115.14789175770265
+2,DALYs (Disability-Adjusted Life Years),138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,155.92744738663336,208.93852643309071,112.55331254848439
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,21681.91383528492,30198.704872087183,15407.75948663352
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,159.33308226469882,221.92011112234914,113.2264351038646
+2,DALYs (Disability-Adjusted Life Years),21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,175.82690980155684,241.65126687310115,126.66866732539278
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,443197.4076446757,589337.980429273,317892.32053259434
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,106.37181647039783,141.4470175410346,76.29734062919495
+2,DALYs (Disability-Adjusted Life Years),174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,138.14751480667994,182.38836818931028,99.16666684836694
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,1408409.0304242617,1864378.8242644705,1030487.5913434288
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,203.57839362740208,269.4865184458325,148.9517632782226
+2,DALYs (Disability-Adjusted Life Years),9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,187.33451332048017,247.72439765812933,137.36678268204562
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,536654.236358125,714627.1889325709,388625.5212250934
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,112.61191026031916,149.95788240820886,81.5494583962719
+2,DALYs (Disability-Adjusted Life Years),199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,150.9286217877057,199.3709977718903,108.96674772259314
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,137897.9452566751,189277.8838689239,95790.24171838972
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,103.22129838751877,141.68092854919882,71.70225128896786
+2,DALYs (Disability-Adjusted Life Years),167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,134.0264335821073,183.5136805968793,94.6770646953088
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,112251.55269256787,145561.6513033775,81428.02032232046
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,140.88314357924224,182.68952658828638,102.19756612063742
+2,DALYs (Disability-Adjusted Life Years),192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,140.1309444261763,181.56404271103492,102.28505617687954
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,1216545.247825723,1462248.6430062298,1002905.0245848336
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,15.55214378239,18.69318151732,12.82099713948
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.43277423907,18.57259186296,12.71362172896
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,12736.98547644608,15760.91849334764,10183.63809928791
+6,Incidence,42,Central Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,10.98859225665,13.59743302165,8.78574031268
+6,Incidence,42,Central Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.5940394168,15.77612877485,9.891592060199999
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,248418.66993193884,289796.19235724123,211965.5173730956
+6,Incidence,5,East Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,16.90530716199,19.72111696564,14.42460898742
+6,Incidence,5,East Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,18.31346123881,21.132586458909998,15.779417924419999
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,2412.1506749695664,3066.623329722667,1852.4542146321207
+6,Incidence,21,Oceania,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,17.7260828933,22.53558200542,13.613062113139998
+6,Incidence,21,Oceania,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.96324888682,21.41928530617,13.12771319331
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,12252.091151513418,15636.59235858876,9432.07518495142
+6,Incidence,32,Central Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,12.954154836679999,16.532593173389998,9.9725476138
+6,Incidence,32,Central Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.45542752387,15.764208863619999,9.5841446811
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,126468.5290118467,153751.19340586424,102599.5592881498
+6,Incidence,9,Southeast Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,18.280385473589998,22.2239564613,14.830246764650001
+6,Incidence,9,Southeast Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,17.22877105765,20.88618967343,14.053744033900001
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,21643.65153012094,26305.42368155064,17764.716426299918
+6,Incidence,56,Eastern Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,10.402030802630001,12.64249828782,8.53779812566
+6,Incidence,56,Eastern Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,11.760132290000001,14.220790342799999,9.65069212116
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,53942.935372860695,65027.9700414501,44891.8812213336
+6,Incidence,73,Western Europe,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,12.345930582689999,14.88296472033,10.2744139794
+6,Incidence,73,Western Europe,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.086940481840001,16.989951826509998,11.58449307072
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,10548.090635935305,13512.018485286955,8050.21301793051
+6,Incidence,96,Southern Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,15.659471108559998,20.0596553814,11.95117510107
+6,Incidence,96,Southern Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.246650210030001,19.53517980345,11.605631248929999
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,5512.590625265524,6326.393331010706,4829.681388608546
+6,Incidence,70,Australasia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,18.096137756119997,20.76760147809,15.85435699249
+6,Incidence,70,Australasia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,20.270354309090003,22.883804492670002,17.92159318462
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,5976.323580764213,7524.79298467377,4656.024432706006
+6,Incidence,104,Caribbean,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,12.66047510667,15.94081260459,9.86350230702
+6,Incidence,104,Caribbean,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,12.360887253929999,15.589317198529999,9.607313371590001
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,54594.93437065241,64935.56313307164,45673.87869150149
+6,Incidence,100,High-income North America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.807129773749999,17.61169458901,12.38757875345
+6,Incidence,100,High-income North America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.633564585840002,19.83477105021,13.74620076302
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,23041.076390059407,28006.90454044152,18897.93252033036
+6,Incidence,65,High-income Asia Pacific,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,12.39139022841,15.06199091463,10.16322555445
+6,Incidence,65,High-income Asia Pacific,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.124353301729998,18.3710001683,12.17438376466
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,36441.74865658404,45007.36157713029,29289.029427394114
+6,Incidence,124,Central Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.46627974668,17.86657082157,11.62686503324
+6,Incidence,124,Central Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.63039946486,16.83202597314,10.95278531702
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,92077.45030002226,115185.58463651816,72189.27181865384
+6,Incidence,138,North Africa and Middle East,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.97330224688,18.731063551680002,11.73915852796
+6,Incidence,138,North Africa and Middle East,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.054835884869998,17.54205154325,11.02126974425
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,9369.673753227496,12086.195037079313,7212.857007691019
+6,Incidence,120,Andean Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.369758438169999,18.53593921129,11.06196603845
+6,Incidence,120,Andean Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.360197977359999,17.14395673881,10.35299808102
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,17895.401161333666,22697.088467020767,13595.094931346506
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,13.395315931639999,16.98954206185,10.17639057567
+6,Incidence,167,Central Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.797868894870001,17.41833314783,10.73090495876
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,59062.82124131518,74185.26383245697,45735.26278467385
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.175668613880001,17.80520628748,10.976921108380001
+6,Incidence,174,Eastern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.16073676127,17.598894293759997,11.434063585599999
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,32650.66241385417,39597.28471562839,26985.210930139736
+6,Incidence,134,Tropical Latin America,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.46077385797,17.53738936149,11.95158088446
+6,Incidence,134,Tropical Latin America,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.785524994740001,16.71271125152,11.31144852471
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,311128.03632227017,380080.477968359,250292.77439356945
+6,Incidence,159,South Asia,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,17.02040038591,20.7924749899,13.69237978112
+6,Incidence,159,South Asia,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.273925683569999,18.57139737041,12.4503642837
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,203845.2747048085,240499.67119497625,174505.03619570436
+6,Incidence,44634,High-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,15.662396825439998,18.478727515750002,13.408047495299998
+6,Incidence,44634,High-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,16.55532105592,19.23667484528,14.22729912251
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,309530.6778946065,381173.7161351977,247130.464299616
+6,Incidence,44636,Low-middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,16.29399816994,20.06535790049,13.009189785080002
+6,Incidence,44636,Low-middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.03780162132,18.32680127881,12.19503413603
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,11957.282775989604,14579.379503537715,9693.463362703653
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,15.007182936349999,18.29808823686,12.16593942756
+6,Incidence,192,Southern Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,13.809055074289999,16.758550810190002,11.33643289307
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,152980.60706509842,183969.9071335305,127333.72125180584
+6,Incidence,44635,High SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.021509021719998,16.86184779944,11.670831718830001
+6,Incidence,44635,High SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.66568695968,18.73339010025,12.918987785959999
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,158993.31702867016,198437.8770493501,124103.48616521397
+6,Incidence,44637,Low SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.55555586271,18.16663529416,11.36145379814
+6,Incidence,44637,Low SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.544819149250001,17.8676203042,11.7178881215
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,390335.38689833856,469857.3624952063,319972.4661301874
+6,Incidence,44639,Middle SDI,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,16.052310045749998,19.32260387659,13.15867688358
+6,Incidence,44639,Middle SDI,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,15.71553052637,18.95352964525,12.97980484862
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,1,Number,2020,68414.14244875252,84779.13667810586,53872.07281402385
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,22,All ages,559,Schizophrenia,3,Rate,2020,14.35607277091,17.79011490961,11.30455443795
+6,Incidence,199,Western Sub-Saharan Africa,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2020,14.945708430269999,18.4338806159,12.14784493314

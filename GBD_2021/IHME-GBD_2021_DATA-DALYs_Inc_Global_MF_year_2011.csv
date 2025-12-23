@@ -1,0 +1,28 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,2011,6898779.447433722,8846679.994783746,5121623.549038878
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,2011,6053352.028179739,7806318.083329648,4471422.469739469
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2011,12952131.475613466,16652998.078113396,9595928.151842447
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,2,Percent,2011,0.004929410611289311,0.006228709474253915,0.0036694975622413575
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,2,Percent,2011,0.004967432201141771,0.006303806327514272,0.0036653821162283026
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2011,0.004946624372192248,0.0062512636272590814,0.0036602142602490282
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,2011,195.1448637214065,250.24486941833848,144.87468937441216
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,2011,172.8228016868599,222.86986709833073,127.65881699074531
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2011,184.0354909421852,236.62072012897877,136.3475464864843
+2,DALYs (Disability-Adjusted Life Years),1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,189.4576486484608,242.55160827253104,140.4761056220767
+2,DALYs (Disability-Adjusted Life Years),1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,166.1242730024559,214.04332116017176,122.58395221672006
+2,DALYs (Disability-Adjusted Life Years),1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,177.8440603866664,228.34079393397514,131.62506592009
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,1,Number,2011,621305.0853842885,748218.6582393979,514232.0479345546
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,1,Number,2011,533043.8154326641,646140.9365273558,438679.2693227781
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,1,Number,2011,1154348.9008169514,1394710.484565725,952925.0631233264
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,2,Percent,2011,4.06284888404e-05,4.89667572425e-05,3.31224879862e-05
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,2,Percent,2011,3.29794596746e-05,3.97011301377e-05,2.67857625351e-05
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,2,Percent,2011,3.66979440161e-05,4.42424502492e-05,2.98529298605e-05
+6,Incidence,1,Global,1,Male,22,All ages,559,Schizophrenia,3,Rate,2011,17.57477494976,21.164762434929997,14.54601407103
+6,Incidence,1,Global,2,Female,22,All ages,559,Schizophrenia,3,Rate,2011,15.218365820469998,18.44728117832,12.52426424456
+6,Incidence,1,Global,3,Both,22,All ages,559,Schizophrenia,3,Rate,2011,16.40202364224,19.81729642202,13.54001325212
+6,Incidence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,2,Percent,2011,3.79796743765e-05,4.58767954438e-05,3.09983052821e-05
+6,Incidence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,2,Percent,2011,3.10000498997e-05,3.74415542348e-05,2.52470310912e-05
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,2,Percent,2011,3.43976222744e-05,4.1579772048e-05,2.80647061778e-05
+6,Incidence,1,Global,1,Male,27,Age-standardized,559,Schizophrenia,3,Rate,2011,16.55594309705,19.81405092305,13.7599301084
+6,Incidence,1,Global,2,Female,27,Age-standardized,559,Schizophrenia,3,Rate,2011,14.43485019519,17.39945905534,11.92738236236
+6,Incidence,1,Global,3,Both,27,Age-standardized,559,Schizophrenia,3,Rate,2011,15.503860919169998,18.6166332171,12.85167425396
